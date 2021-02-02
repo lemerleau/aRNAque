@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Mat - Cuboid'
+p2
+aS'(..((....((..((....((..((....(..((..((....((..((..((....(..((..((..((....((..((..((..((....((..((..((..((..((....((..((..((..((..((....((..((..((..((..((..((....((..((..((..((..((..((....((..((..((..((..((..((......))..))..))..))..))..))))..))..))..))..))..))))..))..))..))..))..))))..))..))..))..))))..))..))..))..))))..))..))..))))..))..))..)))..))..))))..))..)))..))))..))))..)'
+p3
+aS'GUGCGAAAAGGUGCUAAAAGGUGCUAAAAGUGCGUGCUAAAACGUGCGUGCUAAAAGUGCGUGGGUGCCAAAAGCUGGCUGCGUGCUAAAAGGUGCGUGCGUGCGUGCUAAAAGCUGCGUGCGUGCGUGCUAAAAGGUGCGUGCCUGCGUGCGUGCUAAAAGGUGCGUGGGUGGGUGGGUGCUAAAAGGUGCGUGGGUGCGUGCCUGCCAAAAAAGGUGGGUGCGUGCCUGCGUGCCAGUGCCUGCCUGCCUGCGUGCCAGUGCGUGCGUGGGUGCGUGCCAGUGCGUGCGUGCGUGGCAGUGCGUGCGUGCGUGCCAGUGCGUGGCUGGCGGUGCCUGCGUGCAGUGCGUGCGAGUGCGUGCAGUGCCAGUGCCCGUGC'
+p4
+aF0.6210526315789474
+aa.

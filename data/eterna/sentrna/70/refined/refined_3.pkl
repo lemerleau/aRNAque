@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Pokeball'
+p2
+aS'...(((((((....((..((..(((..((..((..((..((..((..((...)).))..)).)).))..)).))).)).)))))))))........(((((((....((..((..(((..((..((..((..((..((..((...)).))..)).)).))..)).))).)).)))))))))...'
+p3
+aS'AAAGCCGCUGAAAACCAAGCAAGAUAAGGUGCUAACGAAGCUGCCAACCAAAGGAGGUGGCACGAAGUGCCAAUCAGCAGGCAGCGGCAAAAAAAACCCCACGAAAACCAACCAAGCGAAGCUGGUAACUAAGGUGCCAAGCAAAGCAGGUGCCAAGAACUGGCACGCAGGAGGCGUGGGGAAA'
+p4
+aF0.9130434782608695
+aa.

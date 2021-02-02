@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'just down to 1 bulge'
+p2
+aS'.....((((.(((((....))))).(((....))).)).))....((((.(((....))).(((....))).))))....................'
+p3
+aS'AAAAAGGGCAGCAUCGAAAGAUGCAGAGGAAACUCAGCACCAAAAGACCAGAGGAAACUCAGAGGAAACUCAGGUCAAAAAAAAAAAAAAAAAAAA'
+p4
+aF1.0
+aa.

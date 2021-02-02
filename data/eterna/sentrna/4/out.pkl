@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Human Integrated Adenovirus - Difficulty Level 0'
+p2
+aS'((((((((((((((.((((((...........((((((((((((.....((((((((....(((((((((((((........))))))))))....))))))))....))))))....)))))...((((((.......))))))))))............)))))).))))....))))))...))))...'
+p3
+aS'GAUCGCUUAGGAUCAGCUUAGAAAAAAAAAAAGAUCAUAUCAUCAAAAAGAGGCAUCAAAAGAGGCUUAUAUAGAAAAAAAACUAUAUAAGCAAAACUCGAUGCAAAACUCGAUAAAAGAUAUAAAGCUUAGAAAAAAACUAAGCGAUCAAAAAAAAAAAACUAAGCAGAUCAAAACUAAGCAAAGAUCAAA'
+p4
+aF0.9375
+aa.

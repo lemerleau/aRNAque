@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Snowflake Necklace ( or v2.0 )'
+p2
+aS'(((((((((((((((.(((((.((.....)).((.....)).((.....)).((.....)).((.....)).))))).(((.....))).(((((.((.....)).((.....)).((.....)).((.....)).((.....)).))))).(((.....))).(((((.((.....)).((.....)).((.....)).((.....)).((.....)).))))).(((.....))).(((((.((.....)).((.....)).((.....)).((.....)).((.....)).))))).(((.....))).(((((.((.....)).((.....)).((.....)).((.....)).((.....)).))))).)))))))))))))))'
+p3
+aS'GCUUAUAUAUAUAUGAGCAUCAGUAAAAAACAGUAAAAAACAGUAAAAAACAGUAAAAAACAGUAAAAAACAGAUGCAGAUAAAAAAUCAGCAUCAGUAAAAAACAGUAAAAAACAGUAAAAAACAGUAAAAAACAGUAAAAAACAGAUGCAGAUAAAAAAUCAGCAUCAGUAAAAAACAGUAAAAAACAGUAAAAAACAGUAAAAAACAGUAAAAAACAGAUGCAGAUAAAAAAUCAGCAUCAGUAAAAAACAGUAAAAAACAGUAAAAAACAGUAAAAAACAGUAAAAAACAGAUGCAGAUAAAAAAUCAGCAUCAGUAAAAAACAGUAAAAAACAGUAAAAAACAGUAAAAAACAGUAAAAAACAGAUGCACAUAUAUAUAUAAGC'
+p4
+aF0.6503856041131105
+aa.

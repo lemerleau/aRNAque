@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'loops and stems'
+p2
+aS'.....(((((((...((((...((((...((((.........(((((............)))))...))))....((((..........))))...))))...(((........)))...))))..((......))...))))))).....'
+p3
+aS'AAAAAGCUGCCCAAAGGUCAAAGAUCAAACGUCAAAAAAAAAGCCGGAAAAAAAAAAAACCGGCAAAGACGAAAAGAUGAAAAAAAAAACAUCAAAGAUCAAAGCGAAAAAAAACGCAAAGACCAAGCAAAAAAGCAAAGGGCAGCAAAAA'
+p4
+aF1.0
+aa.

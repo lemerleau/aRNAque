@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Fractal 3'
+p2
+aS'.....((((.(((.((....))((....)).))).(((.((....))((....)).))).(((.((....))((....)).))).(((.((....))((....)).))).)))).....'
+p3
+aS'AAAAAGGGCACCGAGGGAAACCGCGAAAGCACGGAGGGACGGAAACGGCGAAAGCACCCAGACACCGAAAGGGGGAAACCAGUCAGCCAGGGAAACCGCGAAAGCAGGCAGCCCAAAAA'
+p4
+aF1.0
+aa.

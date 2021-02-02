@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Iron Cross'
+p2
+aS'.(((.(((...(((.(((...))).(((....))).)))...(((.(((....))).(((...))).)))...(((.(((....))).(((...))).)))...))).(((...))).)))..'
+p3
+aS'AGAUAGAUAAAGAUAGAGAAACUCAGAGGAAACUCAAUCAAAGAUAGAGGAAACUCAGAGAAACUCAAUCAAAGAUAGAGGAAACUCAGAGAAACUCAAUCAAAAUCAGAGAAACUCAAUCAA'
+p4
+aF0.7073170731707317
+aa.

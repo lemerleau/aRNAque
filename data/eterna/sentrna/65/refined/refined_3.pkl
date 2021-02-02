@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Branching Loop'
+p2
+aS'.(((((........)((((....))))..)))).......'
+p3
+aS'AGGCCCAAAAAAAAGCCCGGAAACGGGAAGGCCAAAAAAA'
+p4
+aF0.95
+aa.

@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Chicken feet'
+p2
+aS'.....((.((.((...)).((...))...)))).((.((.((...)).((...))...)))).....'
+p3
+aS'AAAAAGGAGGAGGAAACCACCAAAGGAAACCCCAGCACCAGCAAAGCACCAAAGGAAAGGGCAAAAA'
+p4
+aF0.8805970149253731
+aa.

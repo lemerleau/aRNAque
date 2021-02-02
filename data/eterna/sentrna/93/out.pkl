@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Chicken Tracks'
+p2
+aS'........(((((((((((....))))..((((....))))..((((....)))))))))))..(((((((...))))..((((...))))..((((...))))))).........'
+p3
+aS'AAAAAAAAGCUUAUCGAUCGAAAGAUCAAGAUCGAAAGAUCAAGAUCGAAAGAUCGAUAAGCAAGAGGAUCAAAGAUCAAGAUCAAAGAUCAAGAUCAAAGAUCCUCAAAAAAAAA'
+p4
+aF0.8620689655172413
+aa.

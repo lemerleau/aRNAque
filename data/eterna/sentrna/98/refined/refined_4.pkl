@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Bullseye'
+p2
+aS'...(((((((...))))..((((...))))..((((...)))))))........(((((((...))))..((((...))))..((((...)))))))........(((((((...))))..((((...))))..((((...)))))))........(((((((...))))..((((...))))..((((...)))))))...'
+p3
+aS'AAACGGGAUCAAAGAUCAACCGCAAAGCGGAACAGGAAACCUGCCGAAAAAAAAGCGGAGGAAACCUCAAGGCCAAAGGCCAAGGGCAAAGCCCCGCAAAAAAAAGAGGCCGAAACGGCAACGGGAAACCCGAAGGCGAAACGCCCUCAAAAAAAACCCGCGGAAACCGCAACACCAAAGGUGAAGGUCAAAGACCGGGAAA'
+p4
+aF1.0
+aa.

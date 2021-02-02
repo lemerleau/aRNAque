@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Short String 4'
+p2
+aS'......((.((..((..(...(.((.((....))))..)...(.((..((....))..))..)...).))..)))).....................'
+p3
+aS'AAAAAACGACCUGGGAAGAAACACGAGGGAAACCCGAAGAAACACGUGGCAAAAGCUGCGAAGAAACACCUGGGCGAAAAAAAAAAAAAAAAAAAAA'
+p4
+aF0.8556701030927835
+aa.

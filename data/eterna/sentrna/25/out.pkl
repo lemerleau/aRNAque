@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'The Minitsry'
+p2
+aS'(((.....(((.....(((.....(((.....(((........))).))).))).))).)))'
+p3
+aS'GAGAAAAAGAGAAAAAGAGAAAAAGAGAAAAAGAGAAAAAAAACUCACUCACUCACUCACUC'
+p4
+aF0.8064516129032258
+aa.

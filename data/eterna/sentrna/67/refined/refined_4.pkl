@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Simple Single Bond'
+p2
+aS'......(.........((((.....)))).........)......................'
+p3
+aS'AAAAAACAAAAAAAAACCCGAAAAACGGGAAAAAAAAAGAAAAAAAAAAAAAAAAAAAAAA'
+p4
+aF0.9672131147540983
+aa.

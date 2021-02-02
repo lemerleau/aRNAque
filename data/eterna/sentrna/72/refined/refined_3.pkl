@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Loop next to a Multiloop'
+p2
+aS'..((((((((.......(.((((((....)))))).(((((((....))))))).).......))))))))..'
+p3
+aS'AGCGCCCCGGAAAAAAACAGCGCACGAAAGUGCGCAGCGCGCCGAAAGGCGCGCAGAAAAAAACCGGGGCGAG'
+p4
+aF0.9726027397260274
+aa.

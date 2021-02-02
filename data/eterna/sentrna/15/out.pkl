@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Small and Easy 6'
+p2
+aS'(((((.....))..((.........)))))'
+p3
+aS'GAGGGAAAAAACAAGGAAAAAAAAACCAUC'
+p4
+aF0.5333333333333333
+aa.

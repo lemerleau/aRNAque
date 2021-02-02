@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'InfoRNA bulge test 9'
+p2
+aS'(((((((.(.(.(.(((((((....)))))))))))))))))'
+p3
+aS'GCUUAUCAGAGAGAGCUUAUCGAAAGAUAAGCCCCGAUAAGC'
+p4
+aF1.0
+aa.

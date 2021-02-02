@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Bug 18'
+p2
+aS'.((.((.((.((..((..((.((...))..)).)).))..))..))....)).'
+p3
+aS'AGGAGGAGGAGGAAGGAAGGAGGAAACCAAACAACAACAAACAAACAAAAACA'
+p4
+aF0.5471698113207547
+aa.

@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Mat - Lot 2-2 B'
+p2
+aS'(..(((..((((..((....((..((((....))....))..))))..))....))..))((..((..((..((((..((....((..((((..((....((....))))..))....))..))))..))((..((..((....))((..((((..((....((..((((....))....))..))))..))....))..))))..))..))..))((..((....((..((((..((....((....))))..))....))..))))..))))..))..)..)'
+p3
+aS'GUGCCGUGGCGCUGGGAAAACGUGCCCCGAAAGGAAAAGGUGCGCCUGGCAAAAGCUGCGCCUGGGAACGUGGGGGUGGGAAAACCUGCGGCUGGCAAAAGCGAAAGCGCUGGCAAAACGUGGGCCUGCCCGUGGCAAGCGAAAGCCGUGCGGGUGCCAAAAGGUGGCCGGAAACGAAAAGCUGCCGGUGCCAAAACGUGCGGCUGCGAACCUGCGGGUGCCAAAACGUGGCGGUGCCAAAACCGAAAGGGGUGCCAAAAGCUGCGGGUGCCCCUGGGAAGUGC'
+p4
+aF0.7746478873239436
+aa.

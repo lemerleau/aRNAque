@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Bug 38'
+p2
+aS'.((.((.((..((.(...).)).))..))....)).'
+p3
+aS'AGGAGGAGGAAGGGCAAAGGCCAACAAACAAAAACA'
+p4
+aF0.5555555555555556
+aa.

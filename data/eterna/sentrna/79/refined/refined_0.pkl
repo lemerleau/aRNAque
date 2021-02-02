@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Shapes and Energy'
+p2
+aS'......(.((((.((((....(...((((.(....).))))...)))))..((......((((....)))))).)))).).....................'
+p3
+aS'AAAAAAGGGCGCAGCCCAAAACAAAGCCCAGAAAACAGGGCAAAGGGGCAAGCAAAAAAGCCGGAAACGGCGCAGCGCGCGAAAAAAAAAAAAAAAAAAAA'
+p4
+aF0.9207920792079208
+aa.

@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'The Sun'
+p2
+aS'(((.(((((((...))))..))))))...(((.(((((((...))))..))))))...(((.(((((((...))))..))))))...(((.(((((((...))))..))))))...(((.(((((((...))))..))))))...(((.(((((((...))))..))))))...(((.(((((((...))))..))))))...(((.(((((((...))))..))))))...(((.(((((((...))))..))))))'
+p3
+aS'GAGAGCCGGCCAAAGGCCAAGGCCUCAAAGACAGACGAGGAAACCUCAAGUCGUCAAAGAGAGGCCACGAAACGUGAAGCCCUCAAAGCGAGAGCAUCAAAGAUGAACUCCGCAAAGAGACGCGGUGAAACACCAAGCGCUCAAAGACAGGGGGUGAAACACCAACCCGUCAAAGCCAGACGAUGAAACAUCAAGUCGGCAAAGACAGGCGGGGAAACCCCAAGCCGUCAAAGAGACAGGGUGAAACACCAACUGCUC'
+p4
+aF1.0
+aa.

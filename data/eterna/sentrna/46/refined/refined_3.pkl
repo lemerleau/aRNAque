@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Triple Y'
+p2
+aS'.....((((((((((((....))))((((....))))))))((((((((....))))((((....))))))))))))....................'
+p3
+aS'AAAAAGACCGAGCGAGCGAAAGCUCCCUCGAAAGAGGGCUCGGCCGCCCGAAAGGGCGAUCGAAAGAUCGGCCGGUCAAAAAAAAAAAAAAAAAAAA'
+p4
+aF1.0
+aa.

@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Tripod5'
+p2
+aS'..((((((((.....))))((((.....))))))))..'
+p3
+aS'AGGAUGGAUCAAAAAGAUCGGGCAAAAAGCCCCAUCAG'
+p4
+aF1.0
+aa.

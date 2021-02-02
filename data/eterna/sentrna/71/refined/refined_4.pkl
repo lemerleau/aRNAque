@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Variation of a crop circle'
+p2
+aS'....((....((....((....((..((..((...))..))....))......)).......)).........)).............'
+p3
+aS'AAAACCAAAACCAAAACGAAAACGAAGGUGGGAAACCUGCCAAAACGAAAAAACGAAAAAAAGGAAAAAAAAAGGAAAAAAAAAAAAA'
+p4
+aF0.9090909090909091
+aa.

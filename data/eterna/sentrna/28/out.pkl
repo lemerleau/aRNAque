@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Still Life (Sunflower In A Vase)'
+p2
+aS'...((((..(((((.....)))))..(((((...)))))..(((((.....)))))..(((((...)))))..(((((.....)))))..(((((.....))))).((((((((((((((((((((((((((((......))))).(((((.............((((.........................................)))).............)))))(((((....))))).)))))))))))))))))))))))..(((((.....)))))..(((((.....)))))..(((((.....)))))..(((((.....)))))..(((((....)))))..(((((.....))))).))))...'
+p3
+aS'AAAGAUCACGCAUCAAAAAGAUGCACGCAUCAAAGAUGCACGCAUCAAAAAGAUGCACGCAUCAAAGAUGCACGCAUCAAAAAGAUGCACGCAUCAAAAAGAUGCAGCUUAUAUAUAUAUAUAUAUAUGGCAUCAAAAAAGAUGCAGCAUCAAAAAAAAAAAAAGAUCGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGAGAUCAAAAAAAAAAAAAGAUGCGCAUCGAAAGAUGCACAUAUAUAUAUAUAUAUAUAAGCACGCAUCAAAAAGAUGCACGCAUCAAAAAGAUGCACGCAUCAAAAAGAUGCACGCAUCAAAAAGAUGCACGCAUCGAAAGAUGCACGCAUCAAAAAGAUGCAGAUCAAA'
+p4
+aF0.9470899470899471
+aa.

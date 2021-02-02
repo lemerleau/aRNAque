@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Snowflake 4'
+p2
+aS'((((...))))(((((((....))(((((..(((((((....))(((((((((...))))..((((...)))))))))((....)))))))..(((((((....))(((((((((...))))..((((...)))))))))((....)))))))..(((((((....))(((((((((...))))..((((...)))))))))((....)))))))..(((((((....))(((((((((...))))..((((...)))))))))((....)))))))..(((((((....))(((((((((...))))..((((...)))))))))((....)))))))..)))))((....)))))))((((...))))'
+p3
+aS'GGGGAAACCCCCCAUCGCGAAAGCGCGUGAACCAUCGCGAAAGCGCAGCACAGAAACUGUAAGGUCAAAGACCGCUGCCGGAAACGGAUGGAAGGGGCGGGAAACCCCGUGCUGGAAACCAGAACGCCAAAGGCGCACGGCCGAAAGGGCCCCAAGCAUGAGGAAACUGCGUCAGGGAAACCCUAAGGUCAAAGACCGACGCGCGAAAGCCAUGCAACCGGCCCGAAAGGGGACCACAGAAACUGUAACGUCAAAGACGGGUCCGGGAAACCGCCGGAAGCAGCCGGAAACGGGAUCGGGGAAACCCCAAGCUCAAAGAGCGAUCCGCGAAAGCGCUGCAACACGCCGGAAACGGAUGGGCGCAAAGCGC'
+p4
+aF1.0
+aa.

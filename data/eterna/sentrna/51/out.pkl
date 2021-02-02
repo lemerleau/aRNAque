@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'medallion'
+p2
+aS'((((((.((((((....)))))).(((....))).(((....))).((((((....)))))).(((....))).((((((....)))))).(((....))).(((....))).((((((....)))))).(((....))).((((((....)))))).(((....))).(((....))).((((((....)))))).(((....))).((((((....)))))).(((....))).(((....))).((((((....)))))).(((....))).((((((....)))))).(((....))).(((....))).((((((....)))))).))))))'
+p3
+aS'GCUUAGAGCUUAGGAAACUAAGCAGAGGAAACUCAGAGGAAACUCAGCUUAGGAAACUAAGCAGAGGAAACUCAGCUUAGGAAACUAAGCAGAGGAAACUCAGAGGAAACUCAGCUUAGGAAACUAAGCAGAGGAAACUCAGCUUAGGAAACUAAGCAGAGGAAACUCAGAGGAAACUCAGCUUAGGAAACUAAGCAGAGGAAACUCAGCUUAGGAAACUAAGCAGAGGAAACUCAGAGGAAACUCAGCUUAGGAAACUAAGCAGAGGAAACUCAGCUUAGGAAACUAAGCAGAGGAAACUCAGAGGAAACUCAGCUUAGGAAACUAAGCACUAAGC'
+p4
+aF0.7151335311572701
+aa.

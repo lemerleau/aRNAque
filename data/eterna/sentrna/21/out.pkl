@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Tilted Russian Cross'
+p2
+aS'.....((((((((....))))((((.((((....))))(((((....))))).((((....))))))))((((....))))))))....................'
+p3
+aS'AAAAAGAUCAUAGGAAACUAUGAUCAGAUCGAAAGAUCGCAUCGAAAGAUGCAGAUCGAAAGAUCGAUCAUAGGAAACUAUGAUCAAAAAAAAAAAAAAAAAAAA'
+p4
+aF0.8476190476190476
+aa.

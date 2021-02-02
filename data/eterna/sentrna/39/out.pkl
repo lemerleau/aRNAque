@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Adenine'
+p2
+aS'(((((.((((((.((((((.((((((.((((((.((((((....((((((......)))))).)))))).(((((...(((((((...)))))))))))).)))))).((((((((((((...)))))))...))))).))))))....))))))....))))))....)))))'
+p3
+aS'GCAUCAGCUUAGAGCUUAGAGCUUAUAGCUUAUAGCUUAGAAAAGCUUAGAAAAAACUAAGCACUAAGCAGCAUCAAAGCUUAUCAAAGAUAAGCGAUGCAAUAAGCAGCAUCGCUUAUCAAAGAUAAGCAAAGAUGCAAUAAGCAAAACUAAGCAAAACUAAGCAAAAGAUGC'
+p4
+aF0.7931034482758621
+aa.

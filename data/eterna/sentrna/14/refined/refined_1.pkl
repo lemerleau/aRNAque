@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Six legd turtle 2'
+p2
+aS'.....((...((....))...((....))...((....))...((....))...((....))...((....))...))....................'
+p3
+aS'AAAAAGCAGAGGGAAACCGGACCGAAAGGGGAGCGAAAGCGGAGGGAAACCGGACCGAAAGGGGAGCGAAAGCGGAGCAAAAAAAAAAAAAAAAAAAA'
+p4
+aF1.0
+aa.

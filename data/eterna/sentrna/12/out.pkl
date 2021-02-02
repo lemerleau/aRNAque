@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Mat - Martian 2'
+p2
+aS'((((....))))...(((((((..(((((((.......))))))))))))))...((((((((......(((((((.(((((((.......))))))))))))))...((((((((((((((.......))))))).)))))))......))))))))...((((((((((((((.......)))))))..)))))))...((((....))))'
+p3
+aS'GAUCGAAAGAUCAAAGCUUAUCAAGCUUAUCAAAAAAAGAUAAGCGAUAAGCAAAGCUUAUAUAAAAAAGCUUAUCAGCUUAUCAAAAAAAGAUAAGCGAUAAGCAAAGCUUAUCAUAUAUCAAAAAAAGAUAUAUAGAUAAGCAAAAAAAUAUAAGCAAAGCUUAUCGCUUAUCAAAAAAAGAUAAGCAAGAUAAGCAAAGAUCGAAAGAUC'
+p4
+aF0.8309859154929577
+aa.

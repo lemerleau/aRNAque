@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Taraxacum officinale'
+p2
+aS'((((....).))).((((....).))).((((....).))).((((....).))).((((....).))).((((....).))).((((((((((((((((((((((...)))).))))))).(((((..((((((((((..(((((((...))))))).))))))))))((((.((((((...)))))))))))))))...))))))))))).((((....).))).((((....).))).((((....).))).((((....).))).((((....).)))'
+p3
+aS'CCGGAAAACACGGACCCGAAAACAGGGACGCCAAAAGAGCGAGGGGAAAACACCCACGGGAAAACACCGACCGCAAAAGACGGAGCUCGGCCGCCCCGGCCGGGACAAAGUCCACGGCCGGACGGGCAAGCCCGCGGGCAACCCGGCGAAACGCCGGGAGCCCGCGGGCGGGGAGGCGGGAAACCCGCCCCCCGCCCGAAAGGCGGCCGAGCACGGCAAAAGACCGACGGCAAAAGACCGAGCCCAAAAGAGGCAGCCGAAAACAGGCAGGGGAAAACACCC'
+p4
+aF0.9787234042553191
+aa.

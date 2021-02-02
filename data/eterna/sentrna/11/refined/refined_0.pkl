@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'InfoRNA test 16'
+p2
+aS'((((((.((((((((....))))).)).).))))))'
+p3
+aS'GGGUAGGGCGGCCUCGAAAGAGGCACGACGCUACCC'
+p4
+aF1.0
+aa.

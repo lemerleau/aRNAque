@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Hard Y and a bit more'
+p2
+aS'.....(((((((.(((((....)))).)))(((((.((..((((....))))..(((((......)))))..)).))))))))))...................._'
+p3
+aS'AAAAACCGCGGGAGGAUCGAAAGAUCACCCGCGGCACCAACCGGGAAACCGGAAGCAGCAAAAAAGCUGCAAGGAGCCGCCGCGGGAAAAAAAAAAAAAAAAAAAA'
+p4
+aF0.9716981132075472
+aa.

@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'[RNA] Repetitious Sequences 8/10'
+p2
+aS'.((......((......))......((......((......))......((......))......))......)).....'
+p3
+aS'AGCAAAAAAGGAAAAAACCAAAAAACCAAAAAACGAAAAAACGAAAAAAGCAAAAAAGCAAAAAAGGAAAAAAGCAAAAA'
+p4
+aF0.95
+aa.

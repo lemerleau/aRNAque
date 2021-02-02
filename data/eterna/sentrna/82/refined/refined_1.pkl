@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Anemone'
+p2
+aS'...((((((....))))))(((((....)))))((((((....))))))(((((....)))))((((((....))))))(((((....)))))(((((....)))))((((((....)))))).(((((....)))))((((((....))))))(((((....)))))((((((....))))))(((((....)))))((((((....))))))'
+p3
+aS'AAAGCCUCCGAAAGGAGGCCUCGGGAAACCGAGCGUCAGGAAACUGACGGGCUCGAAAGAGCCGCUUACGAAAGUAAGCCUAGCGAAAGCUAGGGGUGGAAACACCCAUACGGGAAACCGUAUAGGGUCGAAAGACCCCCACAGGAAACUGUGGGCAGCGAAAGCUGCGCGCACGAAAGUGCGCGGAUCGAAAGAUCCGCAUAGGAAACUAUGC'
+p4
+aF1.0
+aa.

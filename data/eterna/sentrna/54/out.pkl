@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'7 multiloop'
+p2
+aS'(((((((((....)))))(((((....)))))(((((....)))))(((((....)))))(((((....)))))(((((....)))))))))'
+p3
+aS'GAUCGCAUCGAAAGAUGCGCAUCGAAAGAUGCGCAUCGAAAGAUGCGCAUCGAAAGAUGCGCAUCGAAAGAUGCGCAUCGAAAGAUGCGAUC'
+p4
+aF0.6739130434782609
+aa.

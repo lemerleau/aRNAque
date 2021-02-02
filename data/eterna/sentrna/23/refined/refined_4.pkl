@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Shortie 4'
+p2
+aS'((....)).((....))'
+p3
+aS'GGGAAACCACCGAAAGG'
+p4
+aF1.0
+aa.

@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Headless Bug on Windshield'
+p2
+aS'.((.((.....(((((...((.(((.........................))).))...))).))...)).)).(((..(((..((.......((....)).......)))))......))).(((((.......(((..((..(((..((.(((...............)))..))..)))..)).)))..))..))).'
+p3
+aS'AGGGCGAAAAAGUGAGAAAGGGCAUAAAAAAAAAAAAAAAAAAAAAAAAAAUGGCCAAACUCAACAAACGGCCAGAGAAGAUAAGUAAAAAAAAGGAAACUAAAAAAAACAUCAAAAAACUCAGAGGGAAAAAAAGAUAAGGUGCACUGGUAGAUAAAAAAAAAAAAAAAAUCAAACUGGUGUGCCAAUCAACCAAGUCA'
+p4
+aF0.79
+aa.

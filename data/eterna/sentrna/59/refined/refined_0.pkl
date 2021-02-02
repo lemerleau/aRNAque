@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'hard Y'
+p2
+aS'.....((((((.((((((((....))))))).)))((((((((((....)))))))))))))).....'
+p3
+aS'AAAAUUUGCGGCGUGAGUGCAAAGGUGCUCGUCCCGAUUUUGAUCUAAUGAUCGAGAUCGCAGUAAAA'
+p4
+aF1.0
+aa.

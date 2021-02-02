@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Misfolded Aptamer 6'
+p2
+aS'......(((......((((..(....(((........)))....).....)))).......)))...........'
+p3
+aS'AAAAAACCGAAAAAAGGCCAACAAAACAGAAAAAAAACUGAAAAGAAAAAGGCCAAAAAAACGGAAAAAAAAAAA'
+p4
+aF0.9733333333333334
+aa.

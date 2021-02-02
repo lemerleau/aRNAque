@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Fractal star x5'
+p2
+aS'.....((((((((..((((....))))..((((....))))..((((....))))..((((....))))..)))))))).....((((((((..((((....))))..((((....))))..((((....))))..((((....))))..)))))))).....((((((((..((((....))))..((((....))))..((((....))))..((((....))))..)))))))).....((((((((..((((....))))..((((....))))..((((....))))..((((....))))..)))))))).....((((((((..((((....))))..((((....))))..((((....))))..((((....))))..)))))))).....'
+p3
+aS'AGGGAGCUUAUACAAGGUCGAAAGACCAAGAUCGAAAGAUCAAGACCGAAAGGUCAAGCUCGAAAGAGCAAGUAUAAGCAGGGAGCUUGUAUAACAUCGAAAGAUGAAGAUCGAAAGAUCAAGCUGGAAACAGCAAGACCGAAAGGUCAAAUACAAGCAGGGAGCUUCUAUAACAUCGAAAGAUGAACAUCGAAAGAUGAAGAUCGAAAGAUCAAGAUCGAAAGAUCAAAUAGAAGCAGGGAGCUCGUAUAAGCGCGAAAGCGCAAGACCGAAAGGUCAAGAUCGAAAGAUCAAGAUCGAAAGAUCAAAUACGAGCAGGGAGCUUCGGUAAGAGCGAAAGCUCAAGGGGGAAACCCCAAGGUGGAAACACCAAGAUGGAAACAUCAAACCGAAGCAGGGA'
+p4
+aF1.0
+aa.

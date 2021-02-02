@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Cesspool'
+p2
+aS'(..(..(....)..(((..(.(.(((...)))..)..)..)))..(..(....)..).(..(....)..).....(....)..)..)..(..(..(....)..(((..(.(.(((...)))..)..)..)))..(..(....)..).(..(....)..).....(....)..)..)..((..(..(....)..(((..(.(.(((...)))..)..)..)))..(..(....)..).(..(....)..).....(....)..)..))..((..(..(....)..(((..(.(.(((...)))..)..)..)))..(..(....)..).(..(....)..).....(....)..)..))'
+p3
+aS'CUGCAACAAAAGAACCCUGGAGAGGGAAACCCAACAACUGGGGAAGUGCAAAAGUGCACUGGAAAACUGGAAAAACAAAAGAAGUGGAAGUGCAACAAAAGAAGGCUGGAGAGCCAAAGGCAACAACUGGCCAACUGCAAAAGUGGAGUGCAAAAGUGCAAAAACAAAAGAAGUGCAACCUGCAACAAAAGAAGGGUGGACACGCAAAGCGAAGAACUGCCCAACUGGAAAACUGGAGUGCAAAAGUGCAAAAAGAAAACAAGUGGGAACGUGCAACAAAAGAAGCGUGGACAGCGAAACGCAAGAACUGCGCAAGUGGAAAACUGCACUGCAAAAGUGGAAAAAGAAAACAAGUGCG'
+p4
+aF0.7541899441340782
+aa.

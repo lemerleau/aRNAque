@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Quasispecies 2-2 Loop Challenge'
+p2
+aS'.....((((((((..((((....))))..)))).((((..(...)..)))).((((..(..(((.....)))..)..))))))))....................'
+p3
+aS'AAAAACCGCCGCGGACGGGGAAACCCGGACGCGAGCUCGACAAAGGAGAGCACCCCGACUGGGGAAAAACCCUGGGAGGGGGCGGAAAAAAAAAAAAAAAAAAAA'
+p4
+aF0.9619047619047619
+aa.

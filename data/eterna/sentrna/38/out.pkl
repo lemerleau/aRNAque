@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'The Turtle(s) Move(s)'
+p2
+aS'...((....))....(((((((((.........)))))))))....((((.....)))).....(((....)))...(((((.......)))))....(((...((....)).....(((....)))....((((((.......))))))....(((....))).....((((((....(((.......)))..(((........)))...(((((......)))))...((((.....))))..)))))).........((....)).....((....))......(((((..........)))))......)))'
+p3
+aS'AAAGGGAAACUAAAAGCUUAUAUCAAAAAAAAAGAUAUAAGCAAAAGAUCAAAAAGAUCAAAAAGAGGAAACUCAAAGCAUCAAAAAAAGAUGCAAAAGAGAAAGGGAAACUAAAAAGAGGAAACUCAGAAGCUUAGAAAAAAACUAAGCAGAAGAGGAAACUCAGAAAGCUUAGAAAAGAGAAAAAAAAUCAAGAGAAAAAAAACUCAAAGCAUCAAAAAAGAUGCAAAGAUCAAAAAGAUCAAAUAAGCAGAAAAAAAGGGAAACUAAAAAGGGAAACUAAAAAAGCAUCAAAAAAAAAAGAUGCAGAAAACUC'
+p4
+aF0.9556962025316456
+aa.

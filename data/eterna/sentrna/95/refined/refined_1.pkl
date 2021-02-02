@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Multilooping 6'
+p2
+aS'..(((((((((((((....)))))(((((....))))))))((((((((....)))))(((((....)))))))))))))..'
+p3
+aS'AGGCGGCGGGGGCUCGAAAGAGCCGGGUCGAAAGACCCCCCCGCGGCUCGAAAGAGCCGCGCCGAAAGGCGCGCGGCCGCAG'
+p4
+aF1.0
+aa.

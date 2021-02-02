@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'"1,2,3and4bulges"'
+p2
+aS'.....((((.(((((....))....))).(((....))).)).))....((((.(((....)...)).(((....))).))..))....................'
+p3
+aS'AAAAAGCGCAGGCGCGAAAGCAAAAGCCAGGCGAAAGCCAGCAGCAAAAGCGGACCGAAAACAAAGGAGCCGAAAGGCACCAAGCAAAAAAAAAAAAAAAAAAAA'
+p4
+aF0.9809523809523809
+aa.

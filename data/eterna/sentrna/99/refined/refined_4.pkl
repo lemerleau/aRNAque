@@ -1,0 +1,10 @@
+(lp0
+(lp1
+S'Shooting Star'
+p2
+aS'(((((((((((((((((...(.(..((.(((.(((.((....).))).)))).).)..))..))))))).(((((..(.(..((.(((.(((((.(((.((((.((....).)))).))))).))).)))).).)..))..)(....)..))))(((((((((...))))).(((((...)))))(.(....).).)))).)))).((((.((((...(((((((...))))))).(((((...)))))))))(((((((...))))))).(((((...)))))))))((((..(....)(..(..(..(.(.(((.((((.((....).)))).)))).)..)..).)..))))).)))))).'
+p3
+aS'CCGGGGCCUCGGGGCGGAAAGACUGGCGCGCACCGACCAAAAGAGCGAGGCGGGACUGGCAACCGCCCCACGCCGGAGAGUGCCGGGCAGCCCCAGGCACCGCAGCAAAAGACGCGAGGCCGAGGGACGCCGGAGUGCCGACGAAAACAAGGCGGCCGGGGCCAAAGGCCCAGCGCGAAACGCGCGGGAAAACGCACGGCAGAGGAGCCCACGCGAAACGGCACCAAAGGUGCCGAGCGUGAAACACGCCGCGGCCUCGCAAAGCGAGGCAGCGCGAAACGCGCGGGCGGCCAAGAAAACGGACAAGUGCACGCGCAGGGCAGGAAAACACGCCACGCGGGAAGUGCAGGACGGCCACCCCGGA'
+p4
+aF0.9230769230769231
+aa.
