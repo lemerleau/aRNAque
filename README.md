@@ -4,7 +4,7 @@
 For a given target structure in a dot-bracket representation, the tool allows to generate good quality (low ED and MFE) RNA sequences with the corresponding strucure close to the input target.
 
 
-[](images/rfam_NPvsaRNAque.png)
+![](images/rfam_NPvsaRNAque.png)
 
 ***Figure 1:** NUPACK vs. aRNAque on RFAM benchmark dataset (Ensemble defect comparison)*
 
@@ -18,7 +18,7 @@ The repo is organised as follows:
 
     - [Landscape.py](src/Landscape.py): python class containing the information about the landscape to optimise.
     
-    - [aRNAque.py](scr/aRNAque.py): it contains the EA implementation, the initialization, mutation, selection and EA functions. 
+    - [aRNAque.py](src/aRNAque.py): it contains the EA implementation, the initialization, mutation, selection and EA functions. 
 
 # Requirements
 The following softwares are required:
