@@ -1,7 +1,7 @@
 # aRNAque (simple but efficient): A simple evolutionary program for and efficient RNA design.
 (@Author: [Nono Saha Cyrille Merleau](#) and [Matteo Smerlak](#) )
 
-For a given target structure in a dot-bracket representation, the tool allows to generate good quality (low ED and MFE) RNA sequences with the corresponding strucure close to the input target. The method relies on local mutations of nucleotide and base pairs independently with respect to some probabilities: $P_N$ and $P_C$. 
+For a given target structure in a dot-bracket representation, the tool allows to generate good quality (low ED and MFE) RNA sequences with the corresponding strucure close to the input target. The method relies on local mutations of nucleotide and base pairs independently with respect to some probabilities: P_N and P_C. 
 
 ![](images/mutation_example.png)
 
@@ -20,8 +20,7 @@ The repo is organised as follows:
     - [aRNAque.py](src/aRNAque.py): it contains the EA implementation, the initialization, mutation, selection and EA functions. 
 
 # Requirements
-The following softwares are required:
-
+To be able to run aRNAque, the following softwares are required:
 
 - [Python version 2.7](https://docs.anaconda.com/anaconda/user-guide/tasks/switch-environment/) or higher
 - Numpy
@@ -34,7 +33,7 @@ The following softwares are required:
 
 To install all the ViennaRNA package automatically please use [minicondo](https://anaconda.org/bioconda/viennarna). For the python dependences simply pip through the following command:,
 
-      pip -r requirement.txt
+      pip install -r requirement.txt
    
 The installation was tested on the following operating systems: 
 
