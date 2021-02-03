@@ -5,7 +5,7 @@ For a given target structure in a dot-bracket representation, the tool allows to
 
 ![](images/mutation_example.png)
 
-***Figure 1:** Mutation step illustration. ~(a) is a given target structure and (b) is a random compatible sequence from a population of RNA sequences. (c) is the mutated sequence where the non-base pair positions (in black color) are mutated independently of the base pair positions. One non-base pair position~(3)~ and two base pair positions~{(2,7);(11,16)}~are mutated.*
+***Figure 1:** Mutation step illustration. (a) is a given target structure and (b) is a random compatible sequence from a population of RNA sequences. (c) is the mutated sequence where the non-base pair positions (in black color) are mutated independently of the base pair positions. One non-base pair position (3) and two base pair positions {(2,7);(11,16)} are mutated.*
 
 The repo is organised as follows: 
 - [data](data/): The clean data used to produce the different plots presented in our paper.  The cleaned data are obtained by cleaning up the data generated from out file. for more details please refer to the python notebook [here](notebook/clean_data.ipynb)
