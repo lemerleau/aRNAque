@@ -1,8 +1,6 @@
 
 
 """
-    @author: Nono Saha Cyrille Merleau/Matteo Smerlak 
-    @email: nonosaha@mis.mpg.de/smerlak@mis.mpg.de
 
 """
 import RNA

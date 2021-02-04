@@ -1,8 +1,5 @@
 """
-    @author: Nono Saha Cyrille Merleau/Matteo Smerlak 
-    @email: nonosaha@mis.mpg.de/smerlak@mis.mpg.de
-
-
+    
     ######################################################################################################
                 A SIMPLE EVOLUTIONARY ALGORITHM INSPIRED BY LEVY-FLIGHT FOR INVERSE RNA FOLDING
     ######################################################################################################
