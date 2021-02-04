@@ -1,5 +1,5 @@
 # aRNAque (simple but efficient): A simple evolutionary program for and efficient RNA design.
-(@Author: [Nono Saha Cyrille Merleau](#) and [Matteo Smerlak](#) )
+<!--(@Author: [Nono Saha Cyrille Merleau](#) and [Matteo Smerlak](#) )-->
 
 For a given target structure in a dot-bracket representation, the tool allows to generate good quality (low ED and MFE) RNA sequences with the corresponding strucure close to the input target. The method relies on local mutations of nucleotide and base pairs independently with respect to some probabilities: P_N and P_C. 
 
@@ -31,7 +31,7 @@ To be able to run aRNAque, the following softwares are required:
 - [ViennaRNA package](https://anaconda.org/bioconda/viennarna)
 - python wrapper RNA (normally included in [ViennaRNA package](https://anaconda.org/bioconda/viennarna))
 
-To install all the ViennaRNA package automatically please use [minicondo](https://anaconda.org/bioconda/viennarna). For the python dependences simply pip through the following command:,
+To install the ViennaRNA package automatically please use [minicondo](https://anaconda.org/bioconda/viennarna). For the python dependences simply pip through the following command:,
 
       pip install -r requirement.txt
    
