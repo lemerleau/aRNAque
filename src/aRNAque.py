@@ -1,7 +1,7 @@
 """
     
     ######################################################################################################
-                A SIMPLE EVOLUTIONARY ALGORITHM INSPIRED BY LEVY-FLIGHT FOR INVERSE RNA FOLDING
+                A SIMPLE EVOLUTIONARY ALGORITHM GUIDED BY LOCAL MUTATION FOR INVERSE RNA FOLDING
     ######################################################################################################
 """
 
@@ -71,6 +71,11 @@ def mutate(pop, pos, p_n, p_c,  distribution,constraints=None,loop_boosting=True
     for i in range(len(pop)) : 
         mutant = numpy.array(list(pop[i]))
         
+	#Mutate a non base pair position
+        nbp_indexes_to_mutate = numpy.random.choice(list(nbp_indexes), nb_points[i], replace=False)
+        mutant[nbp_indexes_to_mutate]= numpy.random.choice(nucleotides, nb_points[i],p=p_n)
+
+
         #Mutate a base pair position
         if len(bp_pos) > 0 : 
 
@@ -85,9 +90,7 @@ def mutate(pop, pos, p_n, p_c,  distribution,constraints=None,loop_boosting=True
                 for hp_pos in pos["hairpins"] : 
                     mutant = utility.boost_hairpins(mutant, hp_pos)
 
-       #Mutate a non base pair position
-        nbp_indexes_to_mutate = numpy.random.choice(list(nbp_indexes), nb_points[i], replace=False)
-        mutant[nbp_indexes_to_mutate]= numpy.random.choice(nucleotides, nb_points[i],p=p_n)
+       
         if constraints!=None : 
             mutant[constraints['pos']] = constraints['sequence']
         

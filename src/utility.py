@@ -35,7 +35,7 @@ def getHairepinCoord(sequence, target) :
 
 
 def boost_hairpins(sequence, coord) :
-    stems = list(numpy.random.choice(["A"],len(range(coord[1]-coord[0]-1))))
+    stems = ["A"]*(coord[1]-coord[0]-1)
     if coord[1]-coord[0]-1 >=4 : 
         stems[0] = "G"
         stems.insert(0,"G")
