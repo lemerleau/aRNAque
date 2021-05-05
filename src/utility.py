@@ -13,6 +13,8 @@ import multiprocess
 import time
 import scipy
 import argparse
+import sys
+sys.path.append('/usr/local/lib/python2.7/site-packages')
 import RNA
 import uuid
 from folding_wrapper import *
@@ -165,3 +167,5 @@ def ppfold(listOfSeqs,tool) :
         return ppcontextFold(listOfSeqs)
     if tool =="pk" :
         return ppKiss(listOfSeqs)
+    if tool =="hk" :
+        return ppHotknots(listOfSeqs)

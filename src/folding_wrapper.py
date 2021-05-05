@@ -6,6 +6,8 @@ import os
 import subprocess
 import multiprocess as mp
 import numpy
+import sys
+sys.path.append('/usr/local/lib/python2.7/site-packages')
 import RNA
 import uuid
 import pandas
@@ -86,19 +88,26 @@ def pKiss(seq) :
 
 def hotknots(seq) :
 
-    cmd= "./Hotknots {}".format(seq)
+    cmd= "./bin/HotKnots -s  {}".format(seq)
     p = os.popen(cmd)
-    rst = p.read().split()
+    rst = p.read().split('\n')
+    #print(rst)
+    rst = rst[2].split()
     if len(rst) > 0 :
-        return (rst[-1],rst[-2])
+        #print (rst)
+        return (rst[-2],rst[-1])
     else :
         print("ERROR during the folding with Hotknots")
         return None
 
 def ppHotknots(listOfSeqs) :
-    pool = mp.Pool(mp.cpu_count())
-    result = numpy.array(pool.map(hotknots, listOfSeqs))
-    pool.close()
+    #pool = mp.Pool(mp.cpu_count())
+    #result = numpy.array(pool.map(hotknots, listOfSeqs))
+    #pool.close()
+    result = []
+    for s in listOfSeqs : 
+        result.append(hotknots(s))
+    result = numpy.array(result)
     return list(result[:,0]),list(result[:,1])
 
 
@@ -144,9 +153,9 @@ def folding_with_mxfold(seq) :
 #Just for test
 def main():
 
-    pseq = RNA.random_string(35,"AUGC")
-    print(pseq)
-    print(pKiss(pseq))
+    #pseq = RNA.random_string(35,"AUGC")
+    #print(pseq)
+    #print(pKiss(pseq))
 
 
     if not os.path.exists("tmp/") :
@@ -159,8 +168,8 @@ def main():
     #rnastrand_sequences = pandas.read_csv("../data/clean_rnastrand_data.csv")["Sequence"].values
 
     #print (rnastrand_sequences)
-    rst, mfes = ppKiss(random_seq)
-    print (rst)
+    print ppHotknots(random_seq)
+    #print (rst)
     #pandas.DataFrame(numpy.array([rnastrand_sequences,rst, mfes]).T, columns=['sequence','structure','mfe']).to_csv('../data/vrna_strand.csv')
 
 
