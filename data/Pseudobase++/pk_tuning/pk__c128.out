@@ -1,0 +1,1375 @@
+=====================================================================================================
+('Solving for the target = ', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].')
+=====================================================================================================
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAGGAACCGGGCCCAGGCCAAUAAAGAAUAAAGACGGGCCCCCCGGAACCGCCAGACAAGGCGGCCGGGGAGCUGCAUAAGUAGCUAAACACUUGGCUUGGAGCCCGAAAAAACAAACGGCCCGUCU',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-55.3'], dtype=object), 7)
+('Time = ', 61.7649199962616, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AGACGAUACCUGAGCGGGGCGCAAAAAAACAAAGGCACCUGCCGCAGAAGCGGCGAUAAAGCCGUCUGCGGCCGGGCACCAGCCCGGAAAAAAGCGCCUCGCCUCGGGCUAAAAAAAGACAGGUGCCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-57.9'], dtype=object), 5)
+('Time = ', 43.02145314216614, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAGAUUAGGGCCCGGGAGCCGACACAAUCUAAGCCCAGCCGCGCCGAACGCCCAGAAACGGGCGCGGCGCGCCCGCCUAAGCGGGCCAAAGACGGCUCCCGAGGCCCAAAAAAAAUAAGGCUGGGCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-65.8'], dtype=object), 12)
+('Time = ', 99.04176902770996, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAACGACAGCCCCGCGGAGGUCAAAAGGAACAAGGGCACCCGGCGGCAAUCCCAAUAAUAUGGGAGCCGCCACGCCAAAGUUGGCGUUUAAACGGCCUCCGCCGGGGCAAAAAAAAAAUGGGUGCCCC',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-57.6'], dtype=object), 5)
+('Time = ', 42.4333291053772, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAGAACUCGGACCCGCGCCCGGAAAAUCACCAGGGGCCGGACAGCGCCGGAGCACAAAGGCUCCCGCUGUGCGUAGAUAACUACGCAGAAAACGGGCGCGGAGUCCGUGAAAAAAGCCCCGGCCCCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-55.1'], dtype=object), 14)
+('Time = ', 142.80561518669128, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['GUGAAGGUCCCCGGCGGCACCCAAUAAAAACAAGCGCGCCCGGGACGAAGGCCGCCAUGACGGCCCGUCCCCCGCCCAACAGGGCGGUACGAAGGGUGCCGCUCGGGGUCAGAAUACCAGGGCGCGCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-63.4'], dtype=object), 6)
+('Time = ', 53.47935390472412, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['GAAUAAACGGCGGUCGCGCCGCAAAAAAUAAUAGACGCCACGCGCGCAAGGGGCCAACCAGCCCCGCGCGCAGCAGGAACACCUGCUCAGUCAGCGGCGCGAACCGCCAAAAACAAAAGGUGGCGUCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-61.5'], dtype=object), 9)
+('Time = ', 69.99097418785095, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['UGAAUAAACGGGAACACGGGCAAAACGAGCACGCCAGCGCCGGACCGAACCGGGAAAAAACCCGGCGGUCCAGCCGGAAUACCGGCUAAAUAAUGCCCGUGUAUCCCGAAGACAAAUCAGGCGCUGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-54.9'], dtype=object), 5)
+('Time = ', 42.88409900665283, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AUACCAACCCCGCCCAGGGGGCAAAAAUAAUAAGGCCCGCCGCGCAAACCGCCAGAAAAAUGGCGUUGCGCCCCCCGAGAACGGGGGAAUACAGCCCCCUGGAGCGGGUAAAAAAAAAAGGCGGGCCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-61.5'], dtype=object), 4)
+('Time = ', 30.67409610748291, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAGAAAAGGCCCACGGCUCGGAAAAAAGAACAGGCGCCGCCCGGGGAACCAGCUGAAAUGCUGGCCCCGGGAGGCCAAGAGGCCUCAAAAAACCGGGCCGUAGGGCCAAAAUAGAUAAGCGGCGCCC',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-61.9'], dtype=object), 11)
+('Time = ', 90.75386309623718, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAUUUAAUGGCGCCGCCGCCGCUUUUUUUUUUAGCACAGAGGGGCGGAUUGUGCUAUUUUGCACACCGCCCAAGGACAUUUGUCCUUUGAAUUGCGGCGGUGUGCGCCUAUUUUUUAUCCUCUGUGCC',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-57.1'], dtype=object), 5)
+('Time = ', 42.746755838394165, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['ACGAAAGAGCGCGCCCCGCGACGGAAAACAAAGCCCGGGGCCCGCAUAACGCGACAGGCAUCGCGAUGCGGCGACCCAAUAGGGUCGGAUCUAGUCGCGGGGACGCGCAUAACACUUAAGCCCCGGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-56.1'], dtype=object), 7)
+('Time = ', 60.57940196990967, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['UAAAACAACGCGCCGCGACCACAAAAACAGGACCCCCCCACGCGGGCGACCCGCAAAUAAGCGGGGCCCGCCCCCCAGAAGUGGGGGGAUUAAGUGGUCGCGAGCGCGAAAAAAAAAAAGUGGGGGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-62.4'], dtype=object), 8)
+('Time = ', 69.96468782424927, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAACAAAGGCCGCCCCGGGGCAAUAAAGCAAACGCACGCGCACAAGAACCCCCAAAAGCGGGGGCUUGUGGGCCCCAAAUGGGGCCUGUGAAGUUUCGGGGUCGGCCCCAAAAAGAAACGCGUGCGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-56.0'], dtype=object), 8)
+('Time = ', 69.49005699157715, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['ACAAAAAAGCUAGCACCGGCCCAGGAAAAAAAAGCGGCGGGGGCCAGUAGCAUCCAAAAAGAUGCCUGGCCGCCCCGAUAACGGGGCUAAAAAGGGCCGGUGACUAGCAGAAAAAAAACCCCGCCGCG',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-58.4'], dtype=object), 4)
+('Time = ', 23.277485847473145, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['GGAAUAACGCCGGCGCGUUACCAAAGAAAUCAACACCGCACGGCCGCUGCGGAGAGUAUACUCCGGCGGCCACUGCGAAGACGCAGUAAAAAAGGUGGCGCGACCGGCAAAAAGACAGGGUGCGGUGG',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-54.5'], dtype=object), 4)
+('Time = ', 31.48866605758667, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAGAAAAACCGGGGCAACGGGGACCAAAUCAAAGGCAGCCCCCGGCAAACCCCCAAAGGCGGGGGUGCCGGCGCCGAAAAAUCGGCGAGAUAACCCCGUUGCACCCGGAAAAAACGAGCGGGCUGCCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-59.4'], dtype=object), 11)
+('Time = ', 88.50423884391785, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['UUGUAUUUGCUCCCGCGGGGGCUUCGAUAAUAAGGCGCCCGGCAGCAUUCCCGAUUAAUUUCGGGUGCUGCGGCACCUAAUGGUGCCUUUUUUGCCCCCGCGUGGAGCUUUAUUUUAAUCGGGCGCCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-62.1'], dtype=object), 7)
+('Time = ', 61.656075954437256, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AUUUAUACCGGCGAGCCGGCCGACCAUAAUAAACGAGCCCCGGGGCCAAGCGGGACAAAACCCGCGGUCCCCACGGCUUAAGCCGUGAAACAACGGCCGGCUACGCCGAUAAGAAUGGAGGGGCUCGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-60.3'], dtype=object), 6)
+('Time = ', 53.771162033081055, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAACAAACCGCCCCGCGGAGGAAGUCAAAAUAGCGGGCCGGCGCGGAACGCGGCUAAGACCGCGCCGCGCGCACGGUAACCCGUGCAAAGAACCUCCGCGGAGGCGGAAAAAAAACAACGGCCCGCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-61.3'], dtype=object), 8)
+('Time = ', 68.51748514175415, 'For method : ', 'F')
+[(['AAAGGAACCGGGCCCAGGCCAAUAAAGAAUAAAGACGGGCCCCCCGGAACCGCCAGACAAGGCGGCCGGGGAGCUGCAUAAGUAGCUAAACACUUGGCUUGGAGCCCGAAAAAACAAACGGCCCGUCU', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-55.3'], 7), (['AGACGAUACCUGAGCGGGGCGCAAAAAAACAAAGGCACCUGCCGCAGAAGCGGCGAUAAAGCCGUCUGCGGCCGGGCACCAGCCCGGAAAAAAGCGCCUCGCCUCGGGCUAAAAAAAGACAGGUGCCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-57.9'], 5), (['AAAGAUUAGGGCCCGGGAGCCGACACAAUCUAAGCCCAGCCGCGCCGAACGCCCAGAAACGGGCGCGGCGCGCCCGCCUAAGCGGGCCAAAGACGGCUCCCGAGGCCCAAAAAAAAUAAGGCUGGGCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-65.8'], 12), (['AAACGACAGCCCCGCGGAGGUCAAAAGGAACAAGGGCACCCGGCGGCAAUCCCAAUAAUAUGGGAGCCGCCACGCCAAAGUUGGCGUUUAAACGGCCUCCGCCGGGGCAAAAAAAAAAUGGGUGCCCC', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-57.6'], 5), (['AAAGAACUCGGACCCGCGCCCGGAAAAUCACCAGGGGCCGGACAGCGCCGGAGCACAAAGGCUCCCGCUGUGCGUAGAUAACUACGCAGAAAACGGGCGCGGAGUCCGUGAAAAAAGCCCCGGCCCCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-55.1'], 14), (['GUGAAGGUCCCCGGCGGCACCCAAUAAAAACAAGCGCGCCCGGGACGAAGGCCGCCAUGACGGCCCGUCCCCCGCCCAACAGGGCGGUACGAAGGGUGCCGCUCGGGGUCAGAAUACCAGGGCGCGCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-63.4'], 6), (['GAAUAAACGGCGGUCGCGCCGCAAAAAAUAAUAGACGCCACGCGCGCAAGGGGCCAACCAGCCCCGCGCGCAGCAGGAACACCUGCUCAGUCAGCGGCGCGAACCGCCAAAAACAAAAGGUGGCGUCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-61.5'], 9), (['UGAAUAAACGGGAACACGGGCAAAACGAGCACGCCAGCGCCGGACCGAACCGGGAAAAAACCCGGCGGUCCAGCCGGAAUACCGGCUAAAUAAUGCCCGUGUAUCCCGAAGACAAAUCAGGCGCUGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-54.9'], 5), (['AUACCAACCCCGCCCAGGGGGCAAAAAUAAUAAGGCCCGCCGCGCAAACCGCCAGAAAAAUGGCGUUGCGCCCCCCGAGAACGGGGGAAUACAGCCCCCUGGAGCGGGUAAAAAAAAAAGGCGGGCCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-61.5'], 4), (['AAAGAAAAGGCCCACGGCUCGGAAAAAAGAACAGGCGCCGCCCGGGGAACCAGCUGAAAUGCUGGCCCCGGGAGGCCAAGAGGCCUCAAAAAACCGGGCCGUAGGGCCAAAAUAGAUAAGCGGCGCCC', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-61.9'], 11), (['AAUUUAAUGGCGCCGCCGCCGCUUUUUUUUUUAGCACAGAGGGGCGGAUUGUGCUAUUUUGCACACCGCCCAAGGACAUUUGUCCUUUGAAUUGCGGCGGUGUGCGCCUAUUUUUUAUCCUCUGUGCC', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-57.1'], 5), (['ACGAAAGAGCGCGCCCCGCGACGGAAAACAAAGCCCGGGGCCCGCAUAACGCGACAGGCAUCGCGAUGCGGCGACCCAAUAGGGUCGGAUCUAGUCGCGGGGACGCGCAUAACACUUAAGCCCCGGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-56.1'], 7), (['UAAAACAACGCGCCGCGACCACAAAAACAGGACCCCCCCACGCGGGCGACCCGCAAAUAAGCGGGGCCCGCCCCCCAGAAGUGGGGGGAUUAAGUGGUCGCGAGCGCGAAAAAAAAAAAGUGGGGGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-62.4'], 8), (['AAAACAAAGGCCGCCCCGGGGCAAUAAAGCAAACGCACGCGCACAAGAACCCCCAAAAGCGGGGGCUUGUGGGCCCCAAAUGGGGCCUGUGAAGUUUCGGGGUCGGCCCCAAAAAGAAACGCGUGCGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-56.0'], 8), (['ACAAAAAAGCUAGCACCGGCCCAGGAAAAAAAAGCGGCGGGGGCCAGUAGCAUCCAAAAAGAUGCCUGGCCGCCCCGAUAACGGGGCUAAAAAGGGCCGGUGACUAGCAGAAAAAAAACCCCGCCGCG', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-58.4'], 4), (['GGAAUAACGCCGGCGCGUUACCAAAGAAAUCAACACCGCACGGCCGCUGCGGAGAGUAUACUCCGGCGGCCACUGCGAAGACGCAGUAAAAAAGGUGGCGCGACCGGCAAAAAGACAGGGUGCGGUGG', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-54.5'], 4), (['AAGAAAAACCGGGGCAACGGGGACCAAAUCAAAGGCAGCCCCCGGCAAACCCCCAAAGGCGGGGGUGCCGGCGCCGAAAAAUCGGCGAGAUAACCCCGUUGCACCCGGAAAAAACGAGCGGGCUGCCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-59.4'], 11), (['UUGUAUUUGCUCCCGCGGGGGCUUCGAUAAUAAGGCGCCCGGCAGCAUUCCCGAUUAAUUUCGGGUGCUGCGGCACCUAAUGGUGCCUUUUUUGCCCCCGCGUGGAGCUUUAUUUUAAUCGGGCGCCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-62.1'], 7), (['AUUUAUACCGGCGAGCCGGCCGACCAUAAUAAACGAGCCCCGGGGCCAAGCGGGACAAAACCCGCGGUCCCCACGGCUUAAGCCGUGAAACAACGGCCGGCUACGCCGAUAAGAAUGGAGGGGCUCGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-60.3'], 6), (['AAAACAAACCGCCCCGCGGAGGAAGUCAAAAUAGCGGGCCGGCGCGGAACGCGGCUAAGACCGCGCCGCGCGCACGGUAACCCGUGCAAAGAACCUCCGCGGAGGCGGAAAAAAAACAACGGCCCGCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-61.3'], 8)]
+Error while cleaning the tmp_new directory files
+=====================================================================================================
+('Solving for the target = ', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].')
+=====================================================================================================
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAAAUACACGCACAGGACGGAAAAAAAAAAAGCCCCCCGGCCCCGAAGCCGGAUCAAACCGGCCGGGGCGGCACCAAAAGGUGCCCAAAAACCGUCCUGUAGCGUGAAACAAAAUAACGGGGGGCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-57.9'], dtype=object), 4)
+('Time = ', 45.03900504112244, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['UUAUUCGAGGCCCGCGGGCCCCCCCCUGAGGAACCCGCGGCGCACGGACGCCCCUUGAGUGGGGCCCGUGCCCCCCCUUGCGGGGGGCUCCCUGGGGCCCGCAGGGCCAAUCACCAAAAGCCGCGGGC',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-68.0'], dtype=object), 6)
+('Time = ', 70.23943495750427, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AGAACACAGGGGCCGCCCCGCAAAAAAAAAAAUCGGACGGGGCGGCGAACACCGAAAAAGCGGUGCGCCGCGCGCGGAAAACCGCGCAAAAAAUGCGGGGCGAGCCCCAAAAACAAAAACCCGUCCGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-63.1'], dtype=object), 3)
+('Time = ', 38.66621804237366, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAACAAGCGCCGGAACGGCGACAGAAACACUCCCGACACGCGCCCAACAGCGAAAGUACGCUGGGGCGCCCCGCGAAGACGCGGGUGAAAUCGCCGUUCCAGGCGCAAAAAAGGACUGUGUCGGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-58.9'], dtype=object), 13)
+('Time = ', 112.9588770866394, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AUCGUAACGCGCGCCGCGGCGCGGCAACAACAGGGGCCCGGAGGACGGACCGGGAAGCAACCCGGCGUCCUCGCGGCUGAAGCCGCGAACGUUGCGCCGCGGACGCGCACAAGAAGAGCCCGGGCCCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-61.2'], dtype=object), 5)
+('Time = ', 53.759947061538696, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAUAGCCAGCCCCGGGGCCCCCAAGAAACAUACCCCCCAGGCCCGCGAUCCGGGGAAAAGCCCGGCGCGGGGCCCCGAAAACGGGGCUUGAGAGGGGGCCCCAGGGGCCACAAACAACACCUGGGGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-69.0'], dtype=object), 10)
+('Time = ', 97.91980791091919, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAAAAAGCCGGCGCGGCGGCAAACAUAAACACCCCCAACGCCCCCAACCCCGCCAAGCCGGGGGGGGGCGCCGACAAAUGUCGGCAAAUACGCCGCCGCGACCGGCAGACAAAAGGUGUUGGGGGU',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-66.4'], dtype=object), 8)
+('Time = ', 85.27739405632019, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['CAAAGGAACCAGCGGCGGAAGCGAUAAAGAAUAGGCAGCCCCCAGGCACUCGCCCAAGAUGGCGGGCCUGGGUCCCGCGAACGGGAUAAAAAUGCUUCCGCCUGCUGGAAUCAAGACAAGGGCUGCCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-54.0'], dtype=object), 4)
+('Time = ', 48.50406503677368, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['CCUAAAUAGCGGCGCACCGCCGACAAGAAAGACGCCGCGACGCCCGGGACGGCCAAAAAAGGCCGCCGGGCGCCGCCCACAGGCGGCUGGAUACGGCGGUGCAGCCGCAUGCAUUAAAAGUCGCGGCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-65.1'], dtype=object), 7)
+('Time = ', 78.98001098632812, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AACUUUUGCGGCCACGGCGACCAAGACUAAAAACCGGCCCCCGGCGGACCGGCGACAAAACGCCGCCGCCGCAGGCCAAAAGGCCUGGACUAAGGUCGCCGUAGGCCGAAAUAAGACCAGGGGCCGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-59.9'], dtype=object), 7)
+('Time = ', 79.29194712638855, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['ACCAAAAACCGGGCGCCUCCAGGAAAAAAAACACCCCCCGCGCACCCAGCGCGCAGACAAGCGCGGGGUGCGGCCGCAAAAGCGGCCAAAAAACUGGGGGCGACCCGGGAAAGCCAAAAGCGGGGGGC',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-62.6'], dtype=object), 8)
+('Time = ', 87.47080087661743, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['ACAACUACGGGCGUCCACCCCGAAAAAAGAAAUGCGCACGGACACAGAAGGCCCAUAAACGGGCCCUGUGUCCCCCCAAUAGGGGGGACAAUACGGGGUGGAUCGCCCAAACAAAUAAGCCGUGCGCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-60.5'], dtype=object), 8)
+('Time = ', 87.58364200592041, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAACAAAGCACGCACCGCGGAGAACAAACAAACGACCGCGCACCGGAACGGGGAAACAACCCCGCCGGUGGCCCAGCAAACUGGGCAAAAAUUCCGCGGUGACGUGCACAAAGAAAAACGCGGUCGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-57.6'], dtype=object), 8)
+('Time = ', 87.01737999916077, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['UAAUAUAACGGGGGCCGAUCCCGAAUAUCCAUAGCGCCGGCGCCGCCCAGACGCAAGAUAGCGUCGGCGGCCACACCAAACGGUGUGCAUAAAGGGAUCGGCACCCCGAUAAACAAGUAGCCGGCGCG',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-58.4'], dtype=object), 7)
+('Time = ', 79.91914296150208, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAAAAUCGGGCCGCGGACCGAAAAAAAGAGAGACCCCGCCGCCCGAACCCAGUGUGUCCUGGGCGGGCGGCCGGCCAGAGCCGGCAAAAAACGGUCCGCGAGCCCGAAAAUAAAGUAGCGGGGUCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-62.2'], dtype=object), 9)
+('Time = ', 91.4529778957367, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AGACAAUAGAGGCGGCGCCGCAAAAAAAAGAAACCCGCCCCGCCGCGACCCCACAUAAAAGUGGGCGCGGCGCAGCGAAACCGCUGCACAAAAUGCGGCGCCAGCCUCAAUAAAACUAAGGGGCGGGG',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-60.1'], dtype=object), 7)
+('Time = ', 78.44703984260559, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['UACAACGACAGCGCGUUUCCAGAAAGAAAAAGACGCACGGGGGAGCCUCCCCCAGCUAAAUGGGGGGCUCCGCCGCGAGAGCGCGGCGAUACGCUGGGGACGUCGCUGAAACGUAAUAACCCGUGCGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-54.0'], dtype=object), 5)
+('Time = ', 60.162343978881836, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['ACAAAAGAAGCCCGUCGGAGGGAAGAACCACAAGCCGCGCGCCUGCCAACGGGGAAAAUGCCUCGGGCAGGGCGGCCAAAAGGCCGCAACAAACCCUCCGACAGGGCUAAAUACAACAACGCGCGGCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-58.2'], dtype=object), 4)
+('Time = ', 49.10974407196045, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAAAAAGGCGACGCCGCCCCAAAAAAAAAAACGCGCCGCCGGCCGAAGCCCCAAAAAAGGGGCCGGCCGAGGCGGAGAACCGCCUAAAAAAGGGGCGGCGAUCGCCAAAAAAAAUAAGCGGCGCGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-64.6'], dtype=object), 4)
+('Time = ', 49.726513147354126, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AGACAACAGCCCGCCCCGGGCCACAAAAAAUUCCGACGGGCCAACGCAUCACCCAUAUAAGGGUGGCGUUGCCCGCCACAAGGCGGGGAUACCGGCCCGGGGACGGGCAACAUAACACCGCCCGUCGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-62.9'], dtype=object), 6)
+('Time = ', 66.22040915489197, 'For method : ', 'F')
+[(['AAAAAAUACACGCACAGGACGGAAAAAAAAAAAGCCCCCCGGCCCCGAAGCCGGAUCAAACCGGCCGGGGCGGCACCAAAAGGUGCCCAAAAACCGUCCUGUAGCGUGAAACAAAAUAACGGGGGGCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-57.9'], 4), (['UUAUUCGAGGCCCGCGGGCCCCCCCCUGAGGAACCCGCGGCGCACGGACGCCCCUUGAGUGGGGCCCGUGCCCCCCCUUGCGGGGGGCUCCCUGGGGCCCGCAGGGCCAAUCACCAAAAGCCGCGGGC', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-68.0'], 6), (['AGAACACAGGGGCCGCCCCGCAAAAAAAAAAAUCGGACGGGGCGGCGAACACCGAAAAAGCGGUGCGCCGCGCGCGGAAAACCGCGCAAAAAAUGCGGGGCGAGCCCCAAAAACAAAAACCCGUCCGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-63.1'], 3), (['AAAAACAAGCGCCGGAACGGCGACAGAAACACUCCCGACACGCGCCCAACAGCGAAAGUACGCUGGGGCGCCCCGCGAAGACGCGGGUGAAAUCGCCGUUCCAGGCGCAAAAAAGGACUGUGUCGGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-58.9'], 13), (['AUCGUAACGCGCGCCGCGGCGCGGCAACAACAGGGGCCCGGAGGACGGACCGGGAAGCAACCCGGCGUCCUCGCGGCUGAAGCCGCGAACGUUGCGCCGCGGACGCGCACAAGAAGAGCCCGGGCCCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-61.2'], 5), (['AAUAGCCAGCCCCGGGGCCCCCAAGAAACAUACCCCCCAGGCCCGCGAUCCGGGGAAAAGCCCGGCGCGGGGCCCCGAAAACGGGGCUUGAGAGGGGGCCCCAGGGGCCACAAACAACACCUGGGGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-69.0'], 10), (['AAAAAAAAGCCGGCGCGGCGGCAAACAUAAACACCCCCAACGCCCCCAACCCCGCCAAGCCGGGGGGGGGCGCCGACAAAUGUCGGCAAAUACGCCGCCGCGACCGGCAGACAAAAGGUGUUGGGGGU', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-66.4'], 8), (['CAAAGGAACCAGCGGCGGAAGCGAUAAAGAAUAGGCAGCCCCCAGGCACUCGCCCAAGAUGGCGGGCCUGGGUCCCGCGAACGGGAUAAAAAUGCUUCCGCCUGCUGGAAUCAAGACAAGGGCUGCCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-54.0'], 4), (['CCUAAAUAGCGGCGCACCGCCGACAAGAAAGACGCCGCGACGCCCGGGACGGCCAAAAAAGGCCGCCGGGCGCCGCCCACAGGCGGCUGGAUACGGCGGUGCAGCCGCAUGCAUUAAAAGUCGCGGCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-65.1'], 7), (['AACUUUUGCGGCCACGGCGACCAAGACUAAAAACCGGCCCCCGGCGGACCGGCGACAAAACGCCGCCGCCGCAGGCCAAAAGGCCUGGACUAAGGUCGCCGUAGGCCGAAAUAAGACCAGGGGCCGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-59.9'], 7), (['ACCAAAAACCGGGCGCCUCCAGGAAAAAAAACACCCCCCGCGCACCCAGCGCGCAGACAAGCGCGGGGUGCGGCCGCAAAAGCGGCCAAAAAACUGGGGGCGACCCGGGAAAGCCAAAAGCGGGGGGC', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-62.6'], 8), (['ACAACUACGGGCGUCCACCCCGAAAAAAGAAAUGCGCACGGACACAGAAGGCCCAUAAACGGGCCCUGUGUCCCCCCAAUAGGGGGGACAAUACGGGGUGGAUCGCCCAAACAAAUAAGCCGUGCGCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-60.5'], 8), (['AAAACAAAGCACGCACCGCGGAGAACAAACAAACGACCGCGCACCGGAACGGGGAAACAACCCCGCCGGUGGCCCAGCAAACUGGGCAAAAAUUCCGCGGUGACGUGCACAAAGAAAAACGCGGUCGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-57.6'], 8), (['UAAUAUAACGGGGGCCGAUCCCGAAUAUCCAUAGCGCCGGCGCCGCCCAGACGCAAGAUAGCGUCGGCGGCCACACCAAACGGUGUGCAUAAAGGGAUCGGCACCCCGAUAAACAAGUAGCCGGCGCG', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-58.4'], 7), (['AAAAAAAUCGGGCCGCGGACCGAAAAAAAGAGAGACCCCGCCGCCCGAACCCAGUGUGUCCUGGGCGGGCGGCCGGCCAGAGCCGGCAAAAAACGGUCCGCGAGCCCGAAAAUAAAGUAGCGGGGUCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-62.2'], 9), (['AGACAAUAGAGGCGGCGCCGCAAAAAAAAGAAACCCGCCCCGCCGCGACCCCACAUAAAAGUGGGCGCGGCGCAGCGAAACCGCUGCACAAAAUGCGGCGCCAGCCUCAAUAAAACUAAGGGGCGGGG', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-60.1'], 7), (['UACAACGACAGCGCGUUUCCAGAAAGAAAAAGACGCACGGGGGAGCCUCCCCCAGCUAAAUGGGGGGCUCCGCCGCGAGAGCGCGGCGAUACGCUGGGGACGUCGCUGAAACGUAAUAACCCGUGCGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-54.0'], 5), (['ACAAAAGAAGCCCGUCGGAGGGAAGAACCACAAGCCGCGCGCCUGCCAACGGGGAAAAUGCCUCGGGCAGGGCGGCCAAAAGGCCGCAACAAACCCUCCGACAGGGCUAAAUACAACAACGCGCGGCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-58.2'], 4), (['AAAAAAAAGGCGACGCCGCCCCAAAAAAAAAAACGCGCCGCCGGCCGAAGCCCCAAAAAAGGGGCCGGCCGAGGCGGAGAACCGCCUAAAAAAGGGGCGGCGAUCGCCAAAAAAAAUAAGCGGCGCGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-64.6'], 4), (['AGACAACAGCCCGCCCCGGGCCACAAAAAAUUCCGACGGGCCAACGCAUCACCCAUAUAAGGGUGGCGUUGCCCGCCACAAGGCGGGGAUACCGGCCCGGGGACGGGCAACAUAACACCGCCCGUCGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-62.9'], 6)]
+Error while cleaning the tmp_new directory files
+=====================================================================================================
+('Solving for the target = ', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].')
+=====================================================================================================
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['GGAGCAUCCACAGCGCAGGCGCAAGAAUACUAUCGGGGCCGGCCCCGUACGCCGAGAUAACGGCGCGGGGCGGGACCUCAGGGUCCCAAAUCAGCGCCUGCGACUGUGCACUAAUCGUUCGGCCCCGU',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-60.2'], dtype=object), 9)
+('Time = ', 95.82534503936768, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AGAAAAAACGGGGCCGCGCCCCAUUAAGCAAAUGCGCCGGCGACAAGUUAGACGAAUGCACGUCUCUUGUCCGAGGGGACACCCUCGAAGAAAGGGGCGCGGACCCCGAAAAACGAAACGCCGGCGCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-56.9'], dtype=object), 5)
+('Time = ', 54.29337120056152, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['UAAGAAAACGGGACAGCCCCCGAUAAAAAUGAGCGCCAGCCGCCGGCUUCGGGAAAAAAAUCCCGGCCGGCCCCGACAAAAGUCGGGUAAAUACGGGGGCUGGUCCCGAACAAUAAAAAGGCUGGCGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-59.5'], dtype=object), 14)
+('Time = ', 131.8197078704834, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAAAAACCGGCCCCCAGCCGAACACUAAUGACCGGGCACGGCGCGACCGCCCCUAUUAGGGCGCGCGCCCGGCGGAGAACCGCCGGUAAGACGGCUGGGGAGCCGGAAAAAAAAAAAGUGCCCGGC',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-63.7'], dtype=object), 6)
+('Time = ', 72.38630199432373, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAAAAACUGCGCUCGGGCGGAAAAACUAAAACGGGCCCACACAGGAUUAGCCAAAAAAGGCUACCUGUGAGCACGAAAACGUGCUAAAAAACCGCUCGGGACGCAGAAAAAAAAAAUUGGGCCCGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-48.0'], dtype=object), 6)
+('Time = ', 65.24658203125, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['UCACAAAACAGGCGGCCGCGCCAUAAAAAAAUAGAACCGGCGCCCGCAAGGCCCAAGCAAGGGCCGCGGGCGGGCGGAAAACCGCCCAAAACAGGCGCGGCCAGCCUGGAUUACAUAAAGCCGGUUCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-67.5'], dtype=object), 7)
+('Time = ', 82.35000610351562, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AUAAACAAGCCGGAUGCCGCGGAAAUCAAAAAUGACCGCCCCCCCGCAUCGCCCAAACAAGGGCGGCGGGGGCGUGCCAAAGCACGCAACAAGCCGCGGCAUACCGGUAAAUAUAAAAAGGGCGGUCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-59.9'], dtype=object), 4)
+('Time = ', 50.617351055145264, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['UUUUUUCUGGCCGCCGCGGCCCUUUAUUUUAGCGCGGACCGACGGCCUUACGGCUUUUAUGCCGUGGCCGUGCCGGCUAAUGCCGGCAUAUUUGGGCCGCGGUCGGCCGUAAUUUAUUUCGGUCCGCU',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-66.7'], dtype=object), 12)
+('Time = ', 116.53582286834717, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AGGGAUAAAGGGCCGAGGCCCGAAAAGGAUAUAGAACGGCGCCGGUCGACGGCCUAAAGUGGCCGGACCGGGCCCGCGCAAGCGGGCUAAAGACGGGCCUCGGGCCCUAAAAAAAUGAACGCCGUUCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-64.0'], dtype=object), 12)
+('Time = ', 115.62180709838867, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAACAAACGGGCCGCCGGCACAACACAGAAAACCCGCCCCGCGACAAACCCCCAAAAAAGGGGGUGUCGCGCGGCAUAAUUGCCGCAAAAAAGUGCCGGCGAGCCCGGAAUAAUAAAAGGGGCGGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-62.6'], dtype=object), 12)
+('Time = ', 117.837730884552, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['GAAAAAAAGCGCCCACGGCCCCCGGGAGAAAAAAGGGGGGGCCGACCAGCGGCGAAACAGCGCCGGGUCGGGGGGCAGAAAUGCCCCAAACAAGGGGCCGUGCGGCGCCAAUAAACAAACCCCCCCUA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-62.7'], dtype=object), 5)
+('Time = ', 58.79216718673706, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['GAAAAUACGGGGCCGACCUAGUAAAAAAAAAGAGGCGCGCCGCGCCAAAGCCGGAUAAAACCGGUUGGCGCACGGCCCAAUGGCCGUAUAAAAAUUAGGUCGCGCCCCUCAUAAAAAAAGGCGCGCCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-53.4'], dtype=object), 4)
+('Time = ', 49.871013879776, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['CAAAAAAAGUCAGAGUGCGCUGAUAAAAAGACACGGAAGGGCAUAGCAAGCACCAAAACAGGUGCGCUAUGAAGGCCAAAAGGCCUUAAAACACGGUGCGCUACUGGCAAAUAAAAAAACCCUUCCGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-44.7'], dtype=object), 10)
+('Time = ', 103.41978096961975, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['CAACAAAAGACCAGACACACGGAAAUUGACAAACGCCGCCCCGGAGCAACGACGAGAAAACGUCGGCUCCGCGGCGGAAAACCGCCGAAAAAGCCGUGUGUCAUGGUCAAAAUAAAGAAGGGCGGCGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-51.6'], dtype=object), 9)
+('Time = ', 95.48108696937561, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['CAACAAAGCGGCCGGGCAACCGAAAAGACAAAAAGACACGGGUCGACCUGCGGCUAAAUUGCUGCGUCGACGGGGGCUAAAGCCCCCAAAAAACGGUUGCCCAGGCCGACGAGGAGAACCCGUGUCUA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-58.6'], dtype=object), 14)
+('Time = ', 131.8585238456726, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AGAAAAGAGCCGCCCACCGCGGAUAGAAAGACACGCCCGCCCGCGCCGAGGAGCAACAGGGCUCCGGCGCGGAGGCCAAAAGGCCUCGCAAAACCGCGGUGGAGCGGCACACAAGAAGGGGCGGGCGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-63.2'], dtype=object), 2)
+('Time = ', 26.36538791656494, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['GAGAAAAAGGCGCGCCGCCCGGACCAAAAAAAACCCCCAGCGGACCCAAGGCGCAACCAGGCGUCGGGUCCCCCCCGCAAUCGGGGGCGAGCACCGGGCGGCAGCGCCAAAUAAAAAAGGCUGGGGGU',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-61.7'], dtype=object), 9)
+('Time = ', 92.6474940776825, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAUAAACCAGGCGCGAGCGGAUGCUCAGUCACGCCCGGGCGCGCCAAGGAUCAGAGAAGAUCCGGCGCGCAAUCCUAACGGGUUGACAUAACCGCUCGCGUCCUGGAGAGCUAAAACCCCGGGCGG',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-52.6'], dtype=object), 14)
+('Time = ', 133.99362587928772, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAGUUAACUGGGAGCCGUCCCAAGAAAAAAGACCCGACGCCCCCGGAAGCGGUAUAAAAGCCGCCCGGGGCCCCGGAAAGCCGGGGAACGAAGGGACGGCUACCCAGAUAAAAAACAAGCGUCGGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-60.6'], dtype=object), 5)
+('Time = ', 59.08525991439819, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAAAAAGCCCGCGGGGCGCCAACAAAAAAAACGCCGCCCGAGCAGAAGGCGCCCAAGAGCGCCCUGCUCGGCGGGAAAGCCCGCCAAACAAGGCGCCCCGACGGGCAAAAAAAAAAAGGGCGGCGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-65.0'], dtype=object), 12)
+('Time = ', 123.18073296546936, 'For method : ', 'F')
+[(['GGAGCAUCCACAGCGCAGGCGCAAGAAUACUAUCGGGGCCGGCCCCGUACGCCGAGAUAACGGCGCGGGGCGGGACCUCAGGGUCCCAAAUCAGCGCCUGCGACUGUGCACUAAUCGUUCGGCCCCGU', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-60.2'], 9), (['AGAAAAAACGGGGCCGCGCCCCAUUAAGCAAAUGCGCCGGCGACAAGUUAGACGAAUGCACGUCUCUUGUCCGAGGGGACACCCUCGAAGAAAGGGGCGCGGACCCCGAAAAACGAAACGCCGGCGCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-56.9'], 5), (['UAAGAAAACGGGACAGCCCCCGAUAAAAAUGAGCGCCAGCCGCCGGCUUCGGGAAAAAAAUCCCGGCCGGCCCCGACAAAAGUCGGGUAAAUACGGGGGCUGGUCCCGAACAAUAAAAAGGCUGGCGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-59.5'], 14), (['AAAAAAAACCGGCCCCCAGCCGAACACUAAUGACCGGGCACGGCGCGACCGCCCCUAUUAGGGCGCGCGCCCGGCGGAGAACCGCCGGUAAGACGGCUGGGGAGCCGGAAAAAAAAAAAGUGCCCGGC', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-63.7'], 6), (['AAAAAAAACUGCGCUCGGGCGGAAAAACUAAAACGGGCCCACACAGGAUUAGCCAAAAAAGGCUACCUGUGAGCACGAAAACGUGCUAAAAAACCGCUCGGGACGCAGAAAAAAAAAAUUGGGCCCGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-48.0'], 6), (['UCACAAAACAGGCGGCCGCGCCAUAAAAAAAUAGAACCGGCGCCCGCAAGGCCCAAGCAAGGGCCGCGGGCGGGCGGAAAACCGCCCAAAACAGGCGCGGCCAGCCUGGAUUACAUAAAGCCGGUUCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-67.5'], 7), (['AUAAACAAGCCGGAUGCCGCGGAAAUCAAAAAUGACCGCCCCCCCGCAUCGCCCAAACAAGGGCGGCGGGGGCGUGCCAAAGCACGCAACAAGCCGCGGCAUACCGGUAAAUAUAAAAAGGGCGGUCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-59.9'], 4), (['UUUUUUCUGGCCGCCGCGGCCCUUUAUUUUAGCGCGGACCGACGGCCUUACGGCUUUUAUGCCGUGGCCGUGCCGGCUAAUGCCGGCAUAUUUGGGCCGCGGUCGGCCGUAAUUUAUUUCGGUCCGCU', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-66.7'], 12), (['AGGGAUAAAGGGCCGAGGCCCGAAAAGGAUAUAGAACGGCGCCGGUCGACGGCCUAAAGUGGCCGGACCGGGCCCGCGCAAGCGGGCUAAAGACGGGCCUCGGGCCCUAAAAAAAUGAACGCCGUUCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-64.0'], 12), (['AAAACAAACGGGCCGCCGGCACAACACAGAAAACCCGCCCCGCGACAAACCCCCAAAAAAGGGGGUGUCGCGCGGCAUAAUUGCCGCAAAAAAGUGCCGGCGAGCCCGGAAUAAUAAAAGGGGCGGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-62.6'], 12), (['GAAAAAAAGCGCCCACGGCCCCCGGGAGAAAAAAGGGGGGGCCGACCAGCGGCGAAACAGCGCCGGGUCGGGGGGCAGAAAUGCCCCAAACAAGGGGCCGUGCGGCGCCAAUAAACAAACCCCCCCUA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-62.7'], 5), (['GAAAAUACGGGGCCGACCUAGUAAAAAAAAAGAGGCGCGCCGCGCCAAAGCCGGAUAAAACCGGUUGGCGCACGGCCCAAUGGCCGUAUAAAAAUUAGGUCGCGCCCCUCAUAAAAAAAGGCGCGCCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-53.4'], 4), (['CAAAAAAAGUCAGAGUGCGCUGAUAAAAAGACACGGAAGGGCAUAGCAAGCACCAAAACAGGUGCGCUAUGAAGGCCAAAAGGCCUUAAAACACGGUGCGCUACUGGCAAAUAAAAAAACCCUUCCGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-44.7'], 10), (['CAACAAAAGACCAGACACACGGAAAUUGACAAACGCCGCCCCGGAGCAACGACGAGAAAACGUCGGCUCCGCGGCGGAAAACCGCCGAAAAAGCCGUGUGUCAUGGUCAAAAUAAAGAAGGGCGGCGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-51.6'], 9), (['CAACAAAGCGGCCGGGCAACCGAAAAGACAAAAAGACACGGGUCGACCUGCGGCUAAAUUGCUGCGUCGACGGGGGCUAAAGCCCCCAAAAAACGGUUGCCCAGGCCGACGAGGAGAACCCGUGUCUA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-58.6'], 14), (['AGAAAAGAGCCGCCCACCGCGGAUAGAAAGACACGCCCGCCCGCGCCGAGGAGCAACAGGGCUCCGGCGCGGAGGCCAAAAGGCCUCGCAAAACCGCGGUGGAGCGGCACACAAGAAGGGGCGGGCGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-63.2'], 2), (['GAGAAAAAGGCGCGCCGCCCGGACCAAAAAAAACCCCCAGCGGACCCAAGGCGCAACCAGGCGUCGGGUCCCCCCCGCAAUCGGGGGCGAGCACCGGGCGGCAGCGCCAAAUAAAAAAGGCUGGGGGU', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-61.7'], 9), (['AAAAUAAACCAGGCGCGAGCGGAUGCUCAGUCACGCCCGGGCGCGCCAAGGAUCAGAGAAGAUCCGGCGCGCAAUCCUAACGGGUUGACAUAACCGCUCGCGUCCUGGAGAGCUAAAACCCCGGGCGG', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-52.6'], 14), (['AAAGUUAACUGGGAGCCGUCCCAAGAAAAAAGACCCGACGCCCCCGGAAGCGGUAUAAAAGCCGCCCGGGGCCCCGGAAAGCCGGGGAACGAAGGGACGGCUACCCAGAUAAAAAACAAGCGUCGGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-60.6'], 5), (['AAAAAAAAGCCCGCGGGGCGCCAACAAAAAAAACGCCGCCCGAGCAGAAGGCGCCCAAGAGCGCCCUGCUCGGCGGGAAAGCCCGCCAAACAAGGCGCCCCGACGGGCAAAAAAAAAAAGGGCGGCGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-65.0'], 12)]
+Error while cleaning the tmp_new directory files
+=====================================================================================================
+('Solving for the target = ', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].')
+=====================================================================================================
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['CGCAAUAAGCGGCCCGCGAGCGAGUAAAAGUCGCCCCCGGCCCCGGCCAGACCGGCAGAACGGUCGCCGGGCGCAGCAUAAGCUGCGAACAAACGCUUGCGGAGCCGCAAAAGGCAGAUGCCGGGGGG',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-59.3'], dtype=object), 9)
+('Time = ', 104.32526683807373, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['CGAAAAAAGGAGCCACGACCGCCAUGAACAAAACCCGAGACCGAGCGUAGGCACAAUUAGGUGCCCGCUCGCGAGGGAAAACCCUCGAAAAUAGCGGUCGUGAGCUCCAGAACAGGCAGGUCUCGGGC',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-54.9'], dtype=object), 9)
+('Time = ', 95.2121958732605, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['UAAAACAACCGCGACGCGAGCCCAACAAAAUAAGGCAGCCCGGACCCAACCCGCAAAAAAGCGGGGGGUCCGGCACCGUAAGGUGCCAAAAAAGGCUCGCGUACGCGGAAAAACAAAUAGGGCUGCCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-61.4'], dtype=object), 7)
+('Time = ', 78.5338921546936, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAAUCAGCGGGCGCAUCCCAAAAAAUCAAAACGCACCGCCCGAGCACCCAGGGAAAAACCUGGGCUCGGCGGGGGACCACCCCCGAAGACGUGGGGUGCGACCCGCAGUAUAACAAAGCGGUGCGG',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-58.5'], dtype=object), 5)
+('Time = ', 83.11481499671936, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['UAACAAGAGGACGGAUGCCCCCAACCAAAUGAAGCGGAGAACCCCGCAUGCCGGAAAUAACCGGCGCGGGGAGGGGGGAGACCCCCUAAAAACGGGGGUGUCACGUCCCCAAAAACUAAUUCUCCGCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-59.8'], dtype=object), 6)
+('Time = ', 74.1650710105896, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['UACAAAAUGAGCCCGACCACCAAAGGACUAAUAGGCCCACCCGGGACAGGCCCGAUGUGACGGGCGUCCCGAGCCGACCAUUCGGCUAAAACCUGGUGGUCGAGGCUCUUCAAACAUAAGGUGGGCCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-55.0'], dtype=object), 6)
+('Time = ', 73.10859298706055, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['UUGUACCAGUCGGAGCAGCAGGCGAACAUAAGACCACCCCCGCCCCGAAGCCGGAAUCAGCCGGCCGGGGCCGCCGCAAACGCGGCGAGUGAACCUGCUGCUACCGGCACACACAGAACGGGGGUGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-59.5'], dtype=object), 11)
+('Time = ', 116.7860221862793, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAAGGACCGGGCCCCCCGGCAAACGAAAAUCGACGCGCCCCGCGACACCCGCAAAAAAGCGGGUCGCGGCGCCCCAUAAGGGGCGAAGGGUGCCGGGGGGACCCGGAAAAAGGAAAAGGCGCGUCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-66.2'], dtype=object), 10)
+('Time = ', 106.08789801597595, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAAAAACCGCAGCCGCGGGCAACAAAAAAAAAGCCACCGGCCGCCAACGCCCAAUAAAGGGCGGGCGGCGGCGGGGAAACCCGCCAAAAAAGCCCGCGGCAUGCGGAAAUAAAAAAACGGUGGCUA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-67.6'], dtype=object), 11)
+('Time = ', 113.09112596511841, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAUCAAAACCGCGGGCUCCCGGAAAAUAAGACGCCCCCCCCGCGCCCAAGAGCGAAAAAACGCUCGGGCGCAGCAAAGAAAUUUGCUAGAAAACCGGGGGCCACGCGGACAAAAAAAAAGGGGGGGGU',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-55.0'], dtype=object), 9)
+('Time = ', 105.5418119430542, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AACAAAAAGGGGACGCCAGCUCUAAAAUACAAAGGGCCUGCGGCGGCGACCGCCCAAAAUGGCGGGCCGCCCGCCGCAUAAGCGGCGAUAAACGGGCUGGUGCUCCCCAAACUAUCAAAGCGGGCCCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-59.6'], dtype=object), 11)
+('Time = ', 118.75082302093506, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['ACAAAGGUGGCUCCCAGACGCCAAAUAAUUUAACCGCGCCCCCGCUCAGGCGGGAACUAACCCGCGAGCGGCCCGGGAGGACCCGGGAAAGAAGGCGUCUGGUGAGCCAAAAAUAAAAAGGGCGCGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-60.3'], dtype=object), 10)
+('Time = ', 111.9874951839447, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AUAGCUAAGGGCCGCGGCCCGCGAUAUAAUAAACAGAGGGGCGGCCGUUCGGCGACAGGGCGCCGCGGCCGCGGAGCUAGAGCUCCGUAAAAAGCGGGCCGCAGGCCCACUGAAAUAGACCCCUCUGU',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-63.7'], dtype=object), 14)
+('Time = ', 134.53976392745972, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['ACAUCCAGGCGACCGCAACCGGAAAAAAAAGAACCCCCCGCGAACGCACGGCCCAAAAAAGGGCCGCGUUCCCUCGCUAAAGCGGGGAAUAAGCCGGUUGCGUGUCGCACACAAAAAAAGCGGGGGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-54.6'], dtype=object), 10)
+('Time = ', 112.15400099754333, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAAAAGGCGCCCUCCGCCGCAAAAAAAAAAACCCGGGGCCGCGCCAAGGGGGAAAAAACCCCCGGCGCGCGCGGCAGAAGCCGCGAUAAAAGCGGCGGGGAGGCGCAAAAAAAGAAAGCCCCGGGG',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-63.9'], dtype=object), 11)
+('Time = ', 113.57737994194031, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AUACAGAACCAGGGCAUGCGGGAAAAAACCGCACCCCAAUCCGGCUGAACCGCCAAAAAAGGCGGCAGCCGGCCGGGGGAACCCGGCAAAGACCCCGCGUGCACCUGGCAGAGGAAUAAGAUUGGGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-61.5'], dtype=object), 7)
+('Time = ', 80.39447093009949, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAAAACGAGAGGAACGCGCGAAAAAAAUAAAGGACCCGCGCCCCGAACGAGGGAAAAACCUCGCGGGGCCGGACGAAAACGUCCGAACAAACGCGCGUUCACUCUCACAAAAAAACAGCGGGUCCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-55.0'], dtype=object), 9)
+('Time = ', 104.30327200889587, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['CCUAGAUGCCAGGGGAUGGGGCUAAAAACAAAAGGGCCGCCGGCUAAUAAAGGGAAUAAACCCUUUUAGCCAUCGCGAAUUCGCGAUAACAACGCCCUAUCCACUUGGACACAAGCUGUGGCGGCCCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-45.5'], dtype=object), 5)
+('Time = ', 58.9035861492157, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAAAGAGCCCCCGAGCGGGGAGAAAUAAGGAGCGCCCGCGCCCCGAAGGGGCAAAACGGCCCCCGGGGCGGACCGAAAACGGUCCGAAAAACCCCGCUCGAGGGGCAAAAUGAAAAAGCGGGCGCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-65.7'], dtype=object), 8)
+('Time = ', 93.67144298553467, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAACAACCCCACCCGGGGGGGAUAAAAUAUACGUGGGCCGACCGCGACCGGGUAUAACCCCGGGCGGUCCGCCCGACAACGGGCGACGAAGCCCUCCGGGAUGGGGAAAUGAGACCAGGCCCGCGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-60.5'], dtype=object), 16)
+('Time = ', 146.23784399032593, 'For method : ', 'F')
+[(['CGCAAUAAGCGGCCCGCGAGCGAGUAAAAGUCGCCCCCGGCCCCGGCCAGACCGGCAGAACGGUCGCCGGGCGCAGCAUAAGCUGCGAACAAACGCUUGCGGAGCCGCAAAAGGCAGAUGCCGGGGGG', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-59.3'], 9), (['CGAAAAAAGGAGCCACGACCGCCAUGAACAAAACCCGAGACCGAGCGUAGGCACAAUUAGGUGCCCGCUCGCGAGGGAAAACCCUCGAAAAUAGCGGUCGUGAGCUCCAGAACAGGCAGGUCUCGGGC', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-54.9'], 9), (['UAAAACAACCGCGACGCGAGCCCAACAAAAUAAGGCAGCCCGGACCCAACCCGCAAAAAAGCGGGGGGUCCGGCACCGUAAGGUGCCAAAAAAGGCUCGCGUACGCGGAAAAACAAAUAGGGCUGCCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-61.4'], 7), (['AAAAAUCAGCGGGCGCAUCCCAAAAAAUCAAAACGCACCGCCCGAGCACCCAGGGAAAAACCUGGGCUCGGCGGGGGACCACCCCCGAAGACGUGGGGUGCGACCCGCAGUAUAACAAAGCGGUGCGG', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-58.5'], 5), (['UAACAAGAGGACGGAUGCCCCCAACCAAAUGAAGCGGAGAACCCCGCAUGCCGGAAAUAACCGGCGCGGGGAGGGGGGAGACCCCCUAAAAACGGGGGUGUCACGUCCCCAAAAACUAAUUCUCCGCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-59.8'], 6), (['UACAAAAUGAGCCCGACCACCAAAGGACUAAUAGGCCCACCCGGGACAGGCCCGAUGUGACGGGCGUCCCGAGCCGACCAUUCGGCUAAAACCUGGUGGUCGAGGCUCUUCAAACAUAAGGUGGGCCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-55.0'], 6), (['UUGUACCAGUCGGAGCAGCAGGCGAACAUAAGACCACCCCCGCCCCGAAGCCGGAAUCAGCCGGCCGGGGCCGCCGCAAACGCGGCGAGUGAACCUGCUGCUACCGGCACACACAGAACGGGGGUGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-59.5'], 11), (['AAAAAGGACCGGGCCCCCCGGCAAACGAAAAUCGACGCGCCCCGCGACACCCGCAAAAAAGCGGGUCGCGGCGCCCCAUAAGGGGCGAAGGGUGCCGGGGGGACCCGGAAAAAGGAAAAGGCGCGUCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-66.2'], 10), (['AAAAAAAACCGCAGCCGCGGGCAACAAAAAAAAAGCCACCGGCCGCCAACGCCCAAUAAAGGGCGGGCGGCGGCGGGGAAACCCGCCAAAAAAGCCCGCGGCAUGCGGAAAUAAAAAAACGGUGGCUA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-67.6'], 11), (['AAUCAAAACCGCGGGCUCCCGGAAAAUAAGACGCCCCCCCCGCGCCCAAGAGCGAAAAAACGCUCGGGCGCAGCAAAGAAAUUUGCUAGAAAACCGGGGGCCACGCGGACAAAAAAAAAGGGGGGGGU', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-55.0'], 9), (['AACAAAAAGGGGACGCCAGCUCUAAAAUACAAAGGGCCUGCGGCGGCGACCGCCCAAAAUGGCGGGCCGCCCGCCGCAUAAGCGGCGAUAAACGGGCUGGUGCUCCCCAAACUAUCAAAGCGGGCCCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-59.6'], 11), (['ACAAAGGUGGCUCCCAGACGCCAAAUAAUUUAACCGCGCCCCCGCUCAGGCGGGAACUAACCCGCGAGCGGCCCGGGAGGACCCGGGAAAGAAGGCGUCUGGUGAGCCAAAAAUAAAAAGGGCGCGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-60.3'], 10), (['AUAGCUAAGGGCCGCGGCCCGCGAUAUAAUAAACAGAGGGGCGGCCGUUCGGCGACAGGGCGCCGCGGCCGCGGAGCUAGAGCUCCGUAAAAAGCGGGCCGCAGGCCCACUGAAAUAGACCCCUCUGU', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-63.7'], 14), (['ACAUCCAGGCGACCGCAACCGGAAAAAAAAGAACCCCCCGCGAACGCACGGCCCAAAAAAGGGCCGCGUUCCCUCGCUAAAGCGGGGAAUAAGCCGGUUGCGUGUCGCACACAAAAAAAGCGGGGGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-54.6'], 10), (['AAAAAAAGGCGCCCUCCGCCGCAAAAAAAAAAACCCGGGGCCGCGCCAAGGGGGAAAAAACCCCCGGCGCGCGCGGCAGAAGCCGCGAUAAAAGCGGCGGGGAGGCGCAAAAAAAGAAAGCCCCGGGG', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-63.9'], 11), (['AUACAGAACCAGGGCAUGCGGGAAAAAACCGCACCCCAAUCCGGCUGAACCGCCAAAAAAGGCGGCAGCCGGCCGGGGGAACCCGGCAAAGACCCCGCGUGCACCUGGCAGAGGAAUAAGAUUGGGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-61.5'], 7), (['AAAAAAACGAGAGGAACGCGCGAAAAAAAUAAAGGACCCGCGCCCCGAACGAGGGAAAAACCUCGCGGGGCCGGACGAAAACGUCCGAACAAACGCGCGUUCACUCUCACAAAAAAACAGCGGGUCCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-55.0'], 9), (['CCUAGAUGCCAGGGGAUGGGGCUAAAAACAAAAGGGCCGCCGGCUAAUAAAGGGAAUAAACCCUUUUAGCCAUCGCGAAUUCGCGAUAACAACGCCCUAUCCACUUGGACACAAGCUGUGGCGGCCCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-45.5'], 5), (['AAAAAAGAGCCCCCGAGCGGGGAGAAAUAAGGAGCGCCCGCGCCCCGAAGGGGCAAAACGGCCCCCGGGGCGGACCGAAAACGGUCCGAAAAACCCCGCUCGAGGGGCAAAAUGAAAAAGCGGGCGCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-65.7'], 8), (['AAAAACAACCCCACCCGGGGGGGAUAAAAUAUACGUGGGCCGACCGCGACCGGGUAUAACCCCGGGCGGUCCGCCCGACAACGGGCGACGAAGCCCUCCGGGAUGGGGAAAUGAGACCAGGCCCGCGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-60.5'], 16)]
+Error while cleaning the tmp_new directory files
+=====================================================================================================
+('Solving for the target = ', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].')
+=====================================================================================================
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['GAAAACAACCCGCGUGCGCGGUAAGAGAAUCGAGCGACCGCCGGGGGUAGCCGCAAUACGGCGGCCCCCCGCCGCAGAGACCUGCGGAAGACAGCCGCGCACAGCGGGAAAAACAAAAAGCGGUCGCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-60.2'], dtype=object), 8)
+('Time = ', 94.04766297340393, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAACCAACGGCAACCUCGAGCCCGACAUAUAGGCCCCGCCGCCGCCGAGGCUCAACAGCGGGCCGGCGGCGACGGUAAAAACCGUCUAAGCAGCUCGGGGUAUGCCGACAACUAAAAAGGCGGGGCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-52.9'], dtype=object), 8)
+('Time = ', 94.10006213188171, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['CACAAACUGCACCCGGACGGCCGGGUAUACCAACGAAGACCCCGCCCACGCCCCAAAACAGGGGCGGGCGGCGCCACACUGGUGGCGGCUAGAGGCCGUCCGAGGUGCUCGAAAGGUGGGGUCUUCGG',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-62.8'], dtype=object), 5)
+('Time = ', 61.71080017089844, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['GAUGAACAGGGGCCGUCCUGUCCACGAAGAAUAAACCACGGGAGCCCUCAGACGAAUAACCGUCUGGGCUCGCCCGCGCCAGCGGGCCAACAAGGCGGGAUGAGCCCCAUGACAAGAAACCGUGGUUA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-56.3'], dtype=object), 6)
+('Time = ', 67.55140805244446, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AGCGACAGCGCGCAAGACCGGCACUGUAUAAAACCCCGGUGGACCGGCUGCCCCGAACAGGGGGCCCGGUCGACGCCAAAGGGCGUCAACGAGGCCGGUCUUAGCGCGACAUCAUCUUACACCGGGGG',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-59.7'], dtype=object), 9)
+('Time = ', 103.00832200050354, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AACACAAAGGCGGCGGCGACGCAAAAAAAAAAAACGGGCCCCCCCGGAACGGCCAAAAAAGGCCGCCGGGGGAGACCAAAAGGUUUCGAAAAAGCGUCGCCGACCGCCAAUAAAAAAAAGGGCCCGUA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-60.4'], dtype=object), 12)
+('Time = ', 124.87872982025146, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['ACAAACUCACAGCGCCACAGGCAAUGGAACUAACCGGGGGACGCCCGAUCGGCGCCGUAACGCCGCGGGCGGGCCGGCAAGCCGGCCAUAAAGGUCUGUGGCUGCUGUAGGAACCAAAGUCCCCCGGU',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-56.1'], dtype=object), 10)
+('Time = ', 109.83378100395203, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['CAUAACUACCGGCCCCCGGCAGAGAAUAUACUUGGCGGGCGCCGACCGGCCGGGGAUGAACCCGGGGUCGGCCGCAGAAAACUGCGGAUAACACUGCCGGGGAGCCGGGAAAACAAACACGCCCGCCC',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-62.6'], dtype=object), 10)
+('Time = ', 109.56772494316101, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['UUAAAACCGGCCCACACGGGCGAACAAAAAAAACCGCCGCACCGCCCAGCCCCGAAUGCACGGGGGGGCGGCGGCACACAAGUGCCGAACGAACGCCCGUGUCGGGCCACAAGACAGGAUGCGGCGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-61.5'], dtype=object), 7)
+('Time = ', 88.3890118598938, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AUAACAACCGGGCACGCCCAGGACAGAAAACUACGCGCGGCCGGCCCAGGCCACAUCAUAGUGGCGGGCCGGGAGGCAAAAGCCUCCAGGCAACCUGGGCGUAGCCCGUAAAACCAAUAGCCGCGCGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-61.6'], dtype=object), 20)
+('Time = ', 175.35584807395935, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAUCAGAGGCGCGGCGACCGCUAUUAAGAAAACCCACCCAGAGCCCUAGCGGGUAUAAUCCCGCGGGCUCGGCCCCAAACGGGGCCACGUCUGCGGUCGCCAGCGCCAUAAACGAAAAUGGGUGGGC',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-65.7'], dtype=object), 10)
+('Time = ', 110.21170115470886, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['ACAGUCAAGCCGCAGGAGCGGAGACCCGGACGGAGCGCCCCGGGGGGCACCGGCCGGCAAGCCGGCCCCCCUACCGGAUCACCGGUAAAAAGUUCCGCUCCUCGCGGCCUAAAACGAAUGGGGCGCUC',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-58.7'], dtype=object), 10)
+('Time = ', 108.0081799030304, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAAAAAGGGAGGCGCUGCCCAAAAAAAAAUACCGGCGCGGGGGAGAACGGGCAAAAACGCCCGCUCCCCGCGGGCAAAAGCCCGCAAAAAAGGGCGGCGCACUCCUAAAAAAAAAAACGCGCCGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-62.4'], dtype=object), 8)
+('Time = ', 95.98906111717224, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['ACACUCAGGGGCCAGAGGUCCUAUUUAAUCGAAACGCGAGCCAAGCCAACCGACCUGAACGUCGGGGCUUGCCCUACACUAGUAGGGAAACCAAGGGCCUCUAGGCCCAUAAAACCCCCGCUCGCGUA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-51.3'], dtype=object), 11)
+('Time = ', 121.8108069896698, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAUUAUUUCCCCGAGCGGGUAGUUUUUUUUUUACGCGACCCCCGCGGAUGGACGUUUUUUCGUCCCCGCGGGGCACUUUAUAGUGCCUUUUUUCUACCCGCUUCGGGGUUUUUUUAUUUGGGUCGCGU',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-55.2'], dtype=object), 9)
+('Time = ', 103.03453302383423, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AACGAAAAGGGCGACAGCACCGCAAAUAUGAAUCCGCGCCGGGCGCCAAUCGGCAGGAACGCCGAGGCGCCGCGCCCAAACGGGCGCAUAUAACGGUGCUGUACGCCCAAAAAGAAAAACGGCGCGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-61.7'], dtype=object), 8)
+('Time = ', 92.57612991333008, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['ACAUCAAUGGCCGGGGCGGUGUGAGAUCAAAGACGCAGACUACCCGGAUAGCCAAAGGAGUGGCUCCGGGUGGCGAAAAACUUCGCCGAAAAAAUGCCGUUCAUGGCCAAAAAAAAAAAGGUCUGCGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-45.1'], dtype=object), 6)
+('Time = ', 107.17590999603271, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAGACGGCGCCAGCGGGCGCCAGACUAAGAGCCGGGACGCGGCCCGUACCGCCGGGAAGGGCGGCGGGCCCUCCGACAAGUCGGAGACGGACGGCGCCCGCAUGGCGAUUAAAGAGAUGCGUCCCGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-62.6'], dtype=object), 5)
+('Time = ', 60.38179087638855, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AGAAAAAGCAAGCUGCCAGGGCCAAAACCCACCCCCCCAGGGACGGGAAGCCCCAUUCAAGGGGCCCUGUCACGCGGCGGACCGCGUUAAAAUGCCCUGGCGUGCUUGAAGUUGACCAACCUGGGGGG',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-53.3'], dtype=object), 11)
+('Time = ', 118.21526288986206, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAUAAACGCUCAUGGCAGGUACACAAAACAAGCAACGCCCCAGGCUAGCCGAGAAACAUCGGCGCCUGGCACCGGAAAACUGGUGAUCAAAACCUGCCAUAGGGCGAAAUAAAUAGAGGCGUUGCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-49.6'], dtype=object), 19)
+('Time = ', 164.01873111724854, 'For method : ', 'F')
+[(['GAAAACAACCCGCGUGCGCGGUAAGAGAAUCGAGCGACCGCCGGGGGUAGCCGCAAUACGGCGGCCCCCCGCCGCAGAGACCUGCGGAAGACAGCCGCGCACAGCGGGAAAAACAAAAAGCGGUCGCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-60.2'], 8), (['AAAACCAACGGCAACCUCGAGCCCGACAUAUAGGCCCCGCCGCCGCCGAGGCUCAACAGCGGGCCGGCGGCGACGGUAAAAACCGUCUAAGCAGCUCGGGGUAUGCCGACAACUAAAAAGGCGGGGCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-52.9'], 8), (['CACAAACUGCACCCGGACGGCCGGGUAUACCAACGAAGACCCCGCCCACGCCCCAAAACAGGGGCGGGCGGCGCCACACUGGUGGCGGCUAGAGGCCGUCCGAGGUGCUCGAAAGGUGGGGUCUUCGG', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-62.8'], 5), (['GAUGAACAGGGGCCGUCCUGUCCACGAAGAAUAAACCACGGGAGCCCUCAGACGAAUAACCGUCUGGGCUCGCCCGCGCCAGCGGGCCAACAAGGCGGGAUGAGCCCCAUGACAAGAAACCGUGGUUA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-56.3'], 6), (['AGCGACAGCGCGCAAGACCGGCACUGUAUAAAACCCCGGUGGACCGGCUGCCCCGAACAGGGGGCCCGGUCGACGCCAAAGGGCGUCAACGAGGCCGGUCUUAGCGCGACAUCAUCUUACACCGGGGG', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-59.7'], 9), (['AACACAAAGGCGGCGGCGACGCAAAAAAAAAAAACGGGCCCCCCCGGAACGGCCAAAAAAGGCCGCCGGGGGAGACCAAAAGGUUUCGAAAAAGCGUCGCCGACCGCCAAUAAAAAAAAGGGCCCGUA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-60.4'], 12), (['ACAAACUCACAGCGCCACAGGCAAUGGAACUAACCGGGGGACGCCCGAUCGGCGCCGUAACGCCGCGGGCGGGCCGGCAAGCCGGCCAUAAAGGUCUGUGGCUGCUGUAGGAACCAAAGUCCCCCGGU', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-56.1'], 10), (['CAUAACUACCGGCCCCCGGCAGAGAAUAUACUUGGCGGGCGCCGACCGGCCGGGGAUGAACCCGGGGUCGGCCGCAGAAAACUGCGGAUAACACUGCCGGGGAGCCGGGAAAACAAACACGCCCGCCC', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-62.6'], 10), (['UUAAAACCGGCCCACACGGGCGAACAAAAAAAACCGCCGCACCGCCCAGCCCCGAAUGCACGGGGGGGCGGCGGCACACAAGUGCCGAACGAACGCCCGUGUCGGGCCACAAGACAGGAUGCGGCGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-61.5'], 7), (['AUAACAACCGGGCACGCCCAGGACAGAAAACUACGCGCGGCCGGCCCAGGCCACAUCAUAGUGGCGGGCCGGGAGGCAAAAGCCUCCAGGCAACCUGGGCGUAGCCCGUAAAACCAAUAGCCGCGCGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-61.6'], 20), (['AAAUCAGAGGCGCGGCGACCGCUAUUAAGAAAACCCACCCAGAGCCCUAGCGGGUAUAAUCCCGCGGGCUCGGCCCCAAACGGGGCCACGUCUGCGGUCGCCAGCGCCAUAAACGAAAAUGGGUGGGC', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-65.7'], 10), (['ACAGUCAAGCCGCAGGAGCGGAGACCCGGACGGAGCGCCCCGGGGGGCACCGGCCGGCAAGCCGGCCCCCCUACCGGAUCACCGGUAAAAAGUUCCGCUCCUCGCGGCCUAAAACGAAUGGGGCGCUC', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-58.7'], 10), (['AAAAAAAAGGGAGGCGCUGCCCAAAAAAAAAUACCGGCGCGGGGGAGAACGGGCAAAAACGCCCGCUCCCCGCGGGCAAAAGCCCGCAAAAAAGGGCGGCGCACUCCUAAAAAAAAAAACGCGCCGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-62.4'], 8), (['ACACUCAGGGGCCAGAGGUCCUAUUUAAUCGAAACGCGAGCCAAGCCAACCGACCUGAACGUCGGGGCUUGCCCUACACUAGUAGGGAAACCAAGGGCCUCUAGGCCCAUAAAACCCCCGCUCGCGUA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-51.3'], 11), (['AAUUAUUUCCCCGAGCGGGUAGUUUUUUUUUUACGCGACCCCCGCGGAUGGACGUUUUUUCGUCCCCGCGGGGCACUUUAUAGUGCCUUUUUUCUACCCGCUUCGGGGUUUUUUUAUUUGGGUCGCGU', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-55.2'], 9), (['AACGAAAAGGGCGACAGCACCGCAAAUAUGAAUCCGCGCCGGGCGCCAAUCGGCAGGAACGCCGAGGCGCCGCGCCCAAACGGGCGCAUAUAACGGUGCUGUACGCCCAAAAAGAAAAACGGCGCGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-61.7'], 8), (['ACAUCAAUGGCCGGGGCGGUGUGAGAUCAAAGACGCAGACUACCCGGAUAGCCAAAGGAGUGGCUCCGGGUGGCGAAAAACUUCGCCGAAAAAAUGCCGUUCAUGGCCAAAAAAAAAAAGGUCUGCGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-45.1'], 6), (['AAAGACGGCGCCAGCGGGCGCCAGACUAAGAGCCGGGACGCGGCCCGUACCGCCGGGAAGGGCGGCGGGCCCUCCGACAAGUCGGAGACGGACGGCGCCCGCAUGGCGAUUAAAGAGAUGCGUCCCGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-62.6'], 5), (['AGAAAAAGCAAGCUGCCAGGGCCAAAACCCACCCCCCCAGGGACGGGAAGCCCCAUUCAAGGGGCCCUGUCACGCGGCGGACCGCGUUAAAAUGCCCUGGCGUGCUUGAAGUUGACCAACCUGGGGGG', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-53.3'], 11), (['AAAAUAAACGCUCAUGGCAGGUACACAAAACAAGCAACGCCCCAGGCUAGCCGAGAAACAUCGGCGCCUGGCACCGGAAAACUGGUGAUCAAAACCUGCCAUAGGGCGAAAUAAAUAGAGGCGUUGCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-49.6'], 19)]
+Error while cleaning the tmp_new directory files
+=====================================================================================================
+('Solving for the target = ', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].')
+=====================================================================================================
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AACCAAAGGGGCCCGCGGGCCAAGGAAAAAAAAGGGACGAGGCCCGCCAGGCCGCAUCAACGGCCGCGGGCGGGGACUAAUGUCCCCCCUCAAUGGCCCGCGAGGCCCGAAUGACUACACUCGUCCCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-66.5'], dtype=object), 16)
+('Time = ', 169.54635190963745, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAACAAACCGCCCGGGCGGGCAUAAAAAUAGCCCAGAGACCCGCCGAACAACGAAUCAGCGUUGCGGCGGCCCGCCCAAUGGCGGGGUAGAAGCCCGCCCGAGGCGGAAAGAAAAAAAGUCUCUGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-61.2'], dtype=object), 14)
+('Time = ', 145.49968600273132, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['UUUUUUUUGGCGGGCCAGCCCCUUUUUUUAUAUGCCGGGGGACCUGGUUCCAGAUUUUUUUUUGGCUAGGUGGCCGCUUUUGCGGCCUUUUUUGGGGUUGGCUCCGCCUUUUUUUUUUUCCCCCGGCU',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-54.7'], dtype=object), 8)
+('Time = ', 95.87720203399658, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['ACAAAUAAGAGGGCAGUCGCGCCAACAAUUAAUCCGCGGAGGGGCGAAUGCAGGAAGAGACCUGCUCGCCCCCCUGGAAGACCGGGGGUAAAAGCGCGACUGACUUUCACGAAAACAAACUCCGCGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-51.0'], dtype=object), 8)
+('Time = ', 98.39344716072083, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AUGUAACCCAGCCCCCCGGGGCCAAACAAAGAACGCGCGGGCAAGGGAAGCUCCAAAAAAGGAGCCCCUUGGCGCCGAAAGCGGCGCAAAAAAGCCCCGGGGCGGCUGAAAAAAUAAAACCCGCGCGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-61.5'], dtype=object), 19)
+('Time = ', 184.75084710121155, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAAAAAGCCGACGGCGGCCCAGAACAAAGAACGCAGGGGGCGCCAAAAGGGAAAAAGAUCCCUUGGCGCACCCGGCAAACCGGGUAAACAAGGGCCGCCGCUCGGCCAGACAGAAAACCCCUGCGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-59.1'], dtype=object), 8)
+('Time = ', 98.5790228843689, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAAGAAACCGCGCCCGGCGCAAAAAAAACUAGGGCGGGCCGCACGAACCAGGAAAAACCCUGGCGUGCGACAGCAAAAAUGCUGUAAAUCAGCGCCGGGCAGCGGUAAAAAGAAGAGGCCCGCCCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-55.5'], dtype=object), 17)
+('Time = ', 168.75616812705994, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAUAGUAGCAGGCCACGGGCCAUAUUUGUUUACCCCCCCGAGCCGGAACGCCAAAAAUAUGGCGCCGGCUAGCCCCUUGAGGGGCUUGUAAAGGCCCGUGGACCUGCAUAAUAAAAAACGGGGGGGC',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-59.4'], dtype=object), 21)
+('Time = ', 195.70518684387207, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AACAGAAAGGCGGGCGCACGAGAAAAAAAAGAAGGGGGGCCGGACCCAACGAGAAAAAAGUCUCGGGGUCCGCGGCCCAAAGGCCGCAAAAAACUUGUGCGCACCGCCAAAAGCAAAUCGGCCCCCCU',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-56.3'], dtype=object), 10)
+('Time = ', 113.93607306480408, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAGAAAAAGGCCGCCCGCGGCCAAAAAACAAAACCACCACAGGGGACAACCGCGAAGAAACGCGGGUCCCCCGGCCGUAAACGGCCGAAAAAAGGCCGCGGGACGGCCCAAAAAAAAAAUGUGGUGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-64.4'], dtype=object), 13)
+('Time = ', 136.29653191566467, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAACAACCUGACGUCGCGUGAGUAGUCAAACACCGGCACCCCGCGAAGGUCGAUAUAACGGCUCGCGGGCGACGCAUGAGCGUCGAGAACGCACGCGACGAUCAGGAACGAUAAGAUGUGCCGGUA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-50.0'], dtype=object), 11)
+('Time = ', 120.65232992172241, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAAAAGCCCACCACCGGGCGAAGAAGUAUAACCCCCGCCCGCGCGAAAGGACAAAAAGGUCCUCGCGCGGGCCCGGUGACGGGCCAUAAAACGCCCGGUGAGUGGGAACCUAAUAAGGGCGGGGGC',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-60.8'], dtype=object), 13)
+('Time = ', 139.72056007385254, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAGAAACCGGGGGACCGGGACAAAGAGACACAGCGCCACGACGCGCAAGCCGCAUAGAAGCGGCGCGCGUCCGCGCAAAAGCGCGGGGAAGAGUCCCGGUCACCCCGAACAGAAAACACGUGGCGCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-61.8'], dtype=object), 13)
+('Time = ', 139.28433799743652, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['ACAGACACGGCCGCCACAACGCCAAAAUCAAAAGCCGCCGGGCGGGCAGCCGGCAAAAAAGCCGGGCCCGCACGCCGCAAACGGCGUAACUUAGCGUUGUGGUCGGCCAAAGAAAAACACCGGCGGCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-58.9'], dtype=object), 8)
+('Time = ', 90.26243996620178, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['UUUAUUUUCCGGCCCCCGGCCCUUUAUUUUCUUGCCCCCCCGCCCGGAUGCGCGCUUUAUCGCGCCCGGGCCGGCGAAUUUUCGCCGUUUUACGGGCCGGGGUGCCGGUAAUAUUUUUUGGGGGGGCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-63.5'], dtype=object), 12)
+('Time = ', 138.53871989250183, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAUUAAACCACGCAACCGGGCAAAAAAGCCCACCGCCGCGGCGGAGGAACCUCAAAAAAGAGGUCUCCGCGGCCGCAGUAGCGGCCAUUAAAGCCCGGUUGACGUGGACAUUCAUAAACGCGGCGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-57.7'], dtype=object), 8)
+('Time = ', 90.54127883911133, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AACUAUAAGGACGGGGACCCGCCAAUAAGCAGACCACCCCCGCCACGAUGCCCGGUAAAGCGGGCCGUGGCCCGCGUUAAAACGCGGGAUACAGCGGGUCCCACGUCCAUAAAAAUAGAGGGGGUGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-60.0'], dtype=object), 21)
+('Time = ', 194.28723406791687, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AGAAAAAAGCGGCCCCCAGCCGAAAAGUAAAAAGGCCCGCCCGCCCGAAGAGCCAGAACAGGCUCCGGGCGCGACGGAAAACCGUCGAAAAAACGGCUGGGGAGCCGCAGAAAAAAAAAGGCGGGCCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-60.7'], dtype=object), 10)
+('Time = ', 111.00504112243652, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['GAAAAAAAGCCGGCGAGCCGGCAAAAAGAAAAACGACGCUCCGCGGGACCCCCGUACUAUCGGGGCCCGCGGUCCACACUGGUGGGCUAAAAAGCCGGCUCGACCGGCAAAUAUAAUGAGGGCGUCGC',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-61.5'], dtype=object), 8)
+('Time = ', 97.59116888046265, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['CGGAACAAAGCCGGGAGCGCGUAUACUCCAAUGCCGCAGCCCGGCGGUUGCCGGAAACCACCGGCCCGCCGGACGAGCCAUCUCGUCAAACAAACGCGCUCCUCGGCUCACCAAUACCAGGCUGCGGG',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-55.8'], dtype=object), 13)
+('Time = ', 143.96165204048157, 'For method : ', 'F')
+[(['AACCAAAGGGGCCCGCGGGCCAAGGAAAAAAAAGGGACGAGGCCCGCCAGGCCGCAUCAACGGCCGCGGGCGGGGACUAAUGUCCCCCCUCAAUGGCCCGCGAGGCCCGAAUGACUACACUCGUCCCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-66.5'], 16), (['AAAACAAACCGCCCGGGCGGGCAUAAAAAUAGCCCAGAGACCCGCCGAACAACGAAUCAGCGUUGCGGCGGCCCGCCCAAUGGCGGGGUAGAAGCCCGCCCGAGGCGGAAAGAAAAAAAGUCUCUGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-61.2'], 14), (['UUUUUUUUGGCGGGCCAGCCCCUUUUUUUAUAUGCCGGGGGACCUGGUUCCAGAUUUUUUUUUGGCUAGGUGGCCGCUUUUGCGGCCUUUUUUGGGGUUGGCUCCGCCUUUUUUUUUUUCCCCCGGCU', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-54.7'], 8), (['ACAAAUAAGAGGGCAGUCGCGCCAACAAUUAAUCCGCGGAGGGGCGAAUGCAGGAAGAGACCUGCUCGCCCCCCUGGAAGACCGGGGGUAAAAGCGCGACUGACUUUCACGAAAACAAACUCCGCGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-51.0'], 8), (['AUGUAACCCAGCCCCCCGGGGCCAAACAAAGAACGCGCGGGCAAGGGAAGCUCCAAAAAAGGAGCCCCUUGGCGCCGAAAGCGGCGCAAAAAAGCCCCGGGGCGGCUGAAAAAAUAAAACCCGCGCGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-61.5'], 19), (['AAAAAAAAGCCGACGGCGGCCCAGAACAAAGAACGCAGGGGGCGCCAAAAGGGAAAAAGAUCCCUUGGCGCACCCGGCAAACCGGGUAAACAAGGGCCGCCGCUCGGCCAGACAGAAAACCCCUGCGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-59.1'], 8), (['AAAAAGAAACCGCGCCCGGCGCAAAAAAAACUAGGGCGGGCCGCACGAACCAGGAAAAACCCUGGCGUGCGACAGCAAAAAUGCUGUAAAUCAGCGCCGGGCAGCGGUAAAAAGAAGAGGCCCGCCCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-55.5'], 17), (['AAAUAGUAGCAGGCCACGGGCCAUAUUUGUUUACCCCCCCGAGCCGGAACGCCAAAAAUAUGGCGCCGGCUAGCCCCUUGAGGGGCUUGUAAAGGCCCGUGGACCUGCAUAAUAAAAAACGGGGGGGC', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-59.4'], 21), (['AACAGAAAGGCGGGCGCACGAGAAAAAAAAGAAGGGGGGCCGGACCCAACGAGAAAAAAGUCUCGGGGUCCGCGGCCCAAAGGCCGCAAAAAACUUGUGCGCACCGCCAAAAGCAAAUCGGCCCCCCU', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-56.3'], 10), (['AAGAAAAAGGCCGCCCGCGGCCAAAAAACAAAACCACCACAGGGGACAACCGCGAAGAAACGCGGGUCCCCCGGCCGUAAACGGCCGAAAAAAGGCCGCGGGACGGCCCAAAAAAAAAAUGUGGUGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-64.4'], 13), (['AAAAACAACCUGACGUCGCGUGAGUAGUCAAACACCGGCACCCCGCGAAGGUCGAUAUAACGGCUCGCGGGCGACGCAUGAGCGUCGAGAACGCACGCGACGAUCAGGAACGAUAAGAUGUGCCGGUA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-50.0'], 11), (['AAAAAAAGCCCACCACCGGGCGAAGAAGUAUAACCCCCGCCCGCGCGAAAGGACAAAAAGGUCCUCGCGCGGGCCCGGUGACGGGCCAUAAAACGCCCGGUGAGUGGGAACCUAAUAAGGGCGGGGGC', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-60.8'], 13), (['AAAGAAACCGGGGGACCGGGACAAAGAGACACAGCGCCACGACGCGCAAGCCGCAUAGAAGCGGCGCGCGUCCGCGCAAAAGCGCGGGGAAGAGUCCCGGUCACCCCGAACAGAAAACACGUGGCGCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-61.8'], 13), (['ACAGACACGGCCGCCACAACGCCAAAAUCAAAAGCCGCCGGGCGGGCAGCCGGCAAAAAAGCCGGGCCCGCACGCCGCAAACGGCGUAACUUAGCGUUGUGGUCGGCCAAAGAAAAACACCGGCGGCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-58.9'], 8), (['UUUAUUUUCCGGCCCCCGGCCCUUUAUUUUCUUGCCCCCCCGCCCGGAUGCGCGCUUUAUCGCGCCCGGGCCGGCGAAUUUUCGCCGUUUUACGGGCCGGGGUGCCGGUAAUAUUUUUUGGGGGGGCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-63.5'], 12), (['AAAUUAAACCACGCAACCGGGCAAAAAAGCCCACCGCCGCGGCGGAGGAACCUCAAAAAAGAGGUCUCCGCGGCCGCAGUAGCGGCCAUUAAAGCCCGGUUGACGUGGACAUUCAUAAACGCGGCGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-57.7'], 8), (['AACUAUAAGGACGGGGACCCGCCAAUAAGCAGACCACCCCCGCCACGAUGCCCGGUAAAGCGGGCCGUGGCCCGCGUUAAAACGCGGGAUACAGCGGGUCCCACGUCCAUAAAAAUAGAGGGGGUGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-60.0'], 21), (['AGAAAAAAGCGGCCCCCAGCCGAAAAGUAAAAAGGCCCGCCCGCCCGAAGAGCCAGAACAGGCUCCGGGCGCGACGGAAAACCGUCGAAAAAACGGCUGGGGAGCCGCAGAAAAAAAAAGGCGGGCCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-60.7'], 10), (['GAAAAAAAGCCGGCGAGCCGGCAAAAAGAAAAACGACGCUCCGCGGGACCCCCGUACUAUCGGGGCCCGCGGUCCACACUGGUGGGCUAAAAAGCCGGCUCGACCGGCAAAUAUAAUGAGGGCGUCGC', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-61.5'], 8), (['CGGAACAAAGCCGGGAGCGCGUAUACUCCAAUGCCGCAGCCCGGCGGUUGCCGGAAACCACCGGCCCGCCGGACGAGCCAUCUCGUCAAACAAACGCGCUCCUCGGCUCACCAAUACCAGGCUGCGGG', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-55.8'], 13)]
+Error while cleaning the tmp_new directory files
+=====================================================================================================
+('Solving for the target = ', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].')
+=====================================================================================================
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAACAUGACGCACGCGCCAAAAGAAUUACACGAGCGGGGGGGGCGGUCCGCGGAACAACGCGGCGCCCCCGCGACGAGAGUCGCGGGCAAGUUGGCGCGUAGCGUCACACAAAAAUGCCCCGCUCC',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-57.5'], dtype=object), 11)
+('Time = ', 136.99253296852112, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAAAAAGCGCCGAACGGCCGGAAAAAACUAAGCGGGGAGGCACCAAGAGGCGAAACAACGCCUUGGUGCGGCCGCACAGGCGGCCAUAGGACGGCCGUUCUGGUGCACAUAAGAAAACUCCUCGCG',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-56.9'], dtype=object), 17)
+('Time = ', 181.62476515769958, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['GAUACCGAGGGCCCGCAGCCCCAAACAAAACAACCGCCCGCGAGCGAACCGCGCACCAGAGCGCGUCGCUCGGCCGCAUACGCGGCCCCUCCAGGGGCUGCGAGGCCCGAAAAUCAGAAGCGGGCGGC',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-63.8'], dtype=object), 17)
+('Time = ', 177.0750629901886, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['GUUAUUUUUGCCGCUCCGAAGCUUUUUUUUAUUCGGGGCCGCCAGGCAUGGCACUUUUUUGUGCCGCCUGGACGCACUUUUGUGCGUAUUUUUGCUUCGGAGUCGGCAUUAUAUACUUUCGGCCCCGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-54.5'], dtype=object), 10)
+('Time = ', 119.62461709976196, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAAAAAGGCCCGGGCCCGACAAUCAAAAGAAACCCCCGGGCCCCGAACCGGGAAAGAACCCGGCGGGGCGCGGCCAAAAGGCCGCCAACAAGUCGGGCCCAGGGCCCACAAAGAAAACCGGGGGUA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-66.7'], dtype=object), 16)
+('Time = ', 175.66920804977417, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['ACAUAUACGGUAGCGGCACCGGCACGAUCACCAGAGGGCCCGCACGCCACCAGGAACAGGCCUGGGCGUGCCCGACCCAAUGGUCGGUACGACCCGGUGCCGACUGCCAAAUAACGAAUGGGCCCUCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-54.8'], dtype=object), 18)
+('Time = ', 183.1052029132843, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['GAAAAAGAGCGGGACCCGCCGCAACUCAUAGAACCGCCGGCGCACCGCAGCGGAUAAGAUUCCGCCGGUGCCCGUCCAGAAGGACGGUGAUAAGCGGCGGGUACCCGCAAUAUAAAACGGCCGGCGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-60.6'], dtype=object), 17)
+('Time = ', 203.67088103294373, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AACCUGCAGCCGCCACGCGGCGCGCAACUAAAUGGCGAGGCGCCGGCAUGGGCCAAAGCGGGCCCGCCGGCAGCGCCUAUUGGCGCUGGAAGACGCCGCGUGGGCGGCCUUGGGGUCGAGCCUCGCCG',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-64.3'], dtype=object), 4)
+('Time = ', 51.2924439907074, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAAAAAACCCGCGGGGAAGGAAAAAAAAAAUAGCCCGCCCCCGGGAACCGGCCAAAAAGCCGGCCCGGGACCCGCCAAAGCGGGUAACAAACCUUCCCCGACGGGUAAAAAAAAAAAGGCGGGCUA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-59.7'], dtype=object), 20)
+('Time = ', 244.7300260066986, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['UGAACUUACCCCGGCAGCCCGGAAUAAAAAACUGGCGGCACGGCCCCGAGCGCCCUAACUGGCGCGGGGCCCACCCGCAUACGGGUGUAAUUCCCGGGCUGCACGGGGACAUCAAUAAAGUGCCGCCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-63.7'], dtype=object), 15)
+('Time = ', 172.74335289001465, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AUGAGGGACCGGCCGCGCGCCCAGAAAAAAAAACGCCACGCCCGAGAAGACGCGUAAAACCGCGUUCUCGGCGCGGCUCAAGCCGCGUAUACCGGGCGCGCGAGCCGGGGAAAAAAAAUGCGUGGCGG',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-59.3'], dtype=object), 10)
+('Time = ', 119.49086809158325, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAACACAGGCGGCCGCGCCAAAAACAAAUACACGGGGAGCCCCGGCAUGGGCGAAAGAACGCCCGCCGGGCGCGGGAUAACCCGCGAGAAAAUUGGCGCGGACCGCCAAAACAAACUUGCUCCCCGG',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-61.7'], dtype=object), 11)
+('Time = ', 125.57740521430969, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['GCUUUUUUGGGCACUCGGGCCCUUCUACUUUUUCCCCCGGCCGAGCGUUCAGAGUUUUUCCUCUGCGCUCGGACCGGUUUUCCGGUCUUUAUUGGGCCUGAGAUGCCCUUUUAAUUCUCGCCGGGGGC',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-53.9'], dtype=object), 12)
+('Time = ', 143.5622169971466, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAAAAAGCGCUAGCCGCGCCAAAAAAAAAAACGCCCGGAGGAGGCAACCGCGAAAAAACGCGGGCCUCCCCCACAAAAUUGUGGGAAAAAAGGCGCGGCUGAGCGCAAAAUAAAAACUCCGGGCGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-58.2'], dtype=object), 13)
+('Time = ', 149.0173840522766, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['UAAAGAGACGCGGAGGGCCGAGAAAGAAAGACACCCGGCGCCGGGGCAACCCGCACUAAAGCGGGGCCCCGACCGGCAAAAGCCGGUAAAAAACUCGGUCCUACCGCGAAUAAACAAGAGCGCCGGGG',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-59.3'], dtype=object), 12)
+('Time = ', 143.37203907966614, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAGAUAGCCCGCGGGCGAACAAUAAGAAAGUCCGCUGCCCACCCCAAGGUGCAAACAAGCACCGGGGUGCGCGGCUAUUGCCGCGAAAAGGGUUCGCCCGACGGGCAAAAACAAAAAGGCAGCGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-60.5'], dtype=object), 18)
+('Time = ', 189.85995221138, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAUAACCGCGACGCGCGACGAACUAAAAAAACAGCCACGGGCACGAAGGACCAAACUGGGUCCCGUGCCGCCCGCUAGCGCGGGCAACAAUCGUCGCGCGAUCGCGAAAAAAUAAAACGUGGCUGC',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-58.9'], dtype=object), 20)
+('Time = ', 200.78397917747498, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['ACGAGUGAAGGCACGCCCACCGUCACCAGAAACCCCAGACCGCGGCCAACACCCAAAGUAGGGUGGGCCGUAGCCCGUCCGCGGGCUUGACCUCGGUGGGCGCUGCCUGUAAAGCGCGAGGUCUGGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-55.8'], dtype=object), 7)
+('Time = ', 80.77251815795898, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAAAACGGAGAGGGGAGCCGAAACUUAAAACGCCCCACCGGCAGCUAACAAGAACAAGCUUGUGCUGCCCCAGCAAAAAUGCUGGAAAAAACGGCUCCCCAUCUCCCAAAAAAGAAAGGUGGGGCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-52.1'], dtype=object), 15)
+('Time = ', 169.33466005325317, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAUAUAACGGGGCGCCCCACGACAAAAGAAAACGGCGCCGAAGGCCAGGCCGCAAAUGGGCGGCGGCCUUCACCCGCGAACGGGUGUUAUAACGUGGGGCGACCCCGAAACAGGAUAUCGGCGCCGU',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-58.3'], dtype=object), 32)
+('Time = ', 271.99974513053894, 'For method : ', 'F')
+[(['AAAAACAUGACGCACGCGCCAAAAGAAUUACACGAGCGGGGGGGGCGGUCCGCGGAACAACGCGGCGCCCCCGCGACGAGAGUCGCGGGCAAGUUGGCGCGUAGCGUCACACAAAAAUGCCCCGCUCC', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-57.5'], 11), (['AAAAAAAAGCGCCGAACGGCCGGAAAAAACUAAGCGGGGAGGCACCAAGAGGCGAAACAACGCCUUGGUGCGGCCGCACAGGCGGCCAUAGGACGGCCGUUCUGGUGCACAUAAGAAAACUCCUCGCG', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-56.9'], 17), (['GAUACCGAGGGCCCGCAGCCCCAAACAAAACAACCGCCCGCGAGCGAACCGCGCACCAGAGCGCGUCGCUCGGCCGCAUACGCGGCCCCUCCAGGGGCUGCGAGGCCCGAAAAUCAGAAGCGGGCGGC', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-63.8'], 17), (['GUUAUUUUUGCCGCUCCGAAGCUUUUUUUUAUUCGGGGCCGCCAGGCAUGGCACUUUUUUGUGCCGCCUGGACGCACUUUUGUGCGUAUUUUUGCUUCGGAGUCGGCAUUAUAUACUUUCGGCCCCGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-54.5'], 10), (['AAAAAAAAGGCCCGGGCCCGACAAUCAAAAGAAACCCCCGGGCCCCGAACCGGGAAAGAACCCGGCGGGGCGCGGCCAAAAGGCCGCCAACAAGUCGGGCCCAGGGCCCACAAAGAAAACCGGGGGUA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-66.7'], 16), (['ACAUAUACGGUAGCGGCACCGGCACGAUCACCAGAGGGCCCGCACGCCACCAGGAACAGGCCUGGGCGUGCCCGACCCAAUGGUCGGUACGACCCGGUGCCGACUGCCAAAUAACGAAUGGGCCCUCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-54.8'], 18), (['GAAAAAGAGCGGGACCCGCCGCAACUCAUAGAACCGCCGGCGCACCGCAGCGGAUAAGAUUCCGCCGGUGCCCGUCCAGAAGGACGGUGAUAAGCGGCGGGUACCCGCAAUAUAAAACGGCCGGCGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-60.6'], 17), (['AACCUGCAGCCGCCACGCGGCGCGCAACUAAAUGGCGAGGCGCCGGCAUGGGCCAAAGCGGGCCCGCCGGCAGCGCCUAUUGGCGCUGGAAGACGCCGCGUGGGCGGCCUUGGGGUCGAGCCUCGCCG', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-64.3'], 4), (['AAAAAAAAACCCGCGGGGAAGGAAAAAAAAAAUAGCCCGCCCCCGGGAACCGGCCAAAAAGCCGGCCCGGGACCCGCCAAAGCGGGUAACAAACCUUCCCCGACGGGUAAAAAAAAAAAGGCGGGCUA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-59.7'], 20), (['UGAACUUACCCCGGCAGCCCGGAAUAAAAAACUGGCGGCACGGCCCCGAGCGCCCUAACUGGCGCGGGGCCCACCCGCAUACGGGUGUAAUUCCCGGGCUGCACGGGGACAUCAAUAAAGUGCCGCCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-63.7'], 15), (['AUGAGGGACCGGCCGCGCGCCCAGAAAAAAAAACGCCACGCCCGAGAAGACGCGUAAAACCGCGUUCUCGGCGCGGCUCAAGCCGCGUAUACCGGGCGCGCGAGCCGGGGAAAAAAAAUGCGUGGCGG', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-59.3'], 10), (['AAAACACAGGCGGCCGCGCCAAAAACAAAUACACGGGGAGCCCCGGCAUGGGCGAAAGAACGCCCGCCGGGCGCGGGAUAACCCGCGAGAAAAUUGGCGCGGACCGCCAAAACAAACUUGCUCCCCGG', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-61.7'], 11), (['GCUUUUUUGGGCACUCGGGCCCUUCUACUUUUUCCCCCGGCCGAGCGUUCAGAGUUUUUCCUCUGCGCUCGGACCGGUUUUCCGGUCUUUAUUGGGCCUGAGAUGCCCUUUUAAUUCUCGCCGGGGGC', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-53.9'], 12), (['AAAAAAAAGCGCUAGCCGCGCCAAAAAAAAAAACGCCCGGAGGAGGCAACCGCGAAAAAACGCGGGCCUCCCCCACAAAAUUGUGGGAAAAAAGGCGCGGCUGAGCGCAAAAUAAAAACUCCGGGCGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-58.2'], 13), (['UAAAGAGACGCGGAGGGCCGAGAAAGAAAGACACCCGGCGCCGGGGCAACCCGCACUAAAGCGGGGCCCCGACCGGCAAAAGCCGGUAAAAAACUCGGUCCUACCGCGAAUAAACAAGAGCGCCGGGG', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-59.3'], 12), (['AAAAGAUAGCCCGCGGGCGAACAAUAAGAAAGUCCGCUGCCCACCCCAAGGUGCAAACAAGCACCGGGGUGCGCGGCUAUUGCCGCGAAAAGGGUUCGCCCGACGGGCAAAAACAAAAAGGCAGCGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-60.5'], 18), (['AAAAUAACCGCGACGCGCGACGAACUAAAAAAACAGCCACGGGCACGAAGGACCAAACUGGGUCCCGUGCCGCCCGCUAGCGCGGGCAACAAUCGUCGCGCGAUCGCGAAAAAAUAAAACGUGGCUGC', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-58.9'], 20), (['ACGAGUGAAGGCACGCCCACCGUCACCAGAAACCCCAGACCGCGGCCAACACCCAAAGUAGGGUGGGCCGUAGCCCGUCCGCGGGCUUGACCUCGGUGGGCGCUGCCUGUAAAGCGCGAGGUCUGGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-55.8'], 7), (['AAAAAAACGGAGAGGGGAGCCGAAACUUAAAACGCCCCACCGGCAGCUAACAAGAACAAGCUUGUGCUGCCCCAGCAAAAAUGCUGGAAAAAACGGCUCCCCAUCUCCCAAAAAAGAAAGGUGGGGCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-52.1'], 15), (['AAAUAUAACGGGGCGCCCCACGACAAAAGAAAACGGCGCCGAAGGCCAGGCCGCAAAUGGGCGGCGGCCUUCACCCGCGAACGGGUGUUAUAACGUGGGGCGACCCCGAAACAGGAUAUCGGCGCCGU', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-58.3'], 32)]
+Error while cleaning the tmp_new directory files
+=====================================================================================================
+('Solving for the target = ', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].')
+=====================================================================================================
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['UAUUUUAUGAGGCCGACGGCCAUAUAAUUUUUUACCCGCACACGGCCUACGGACGAAUUUGUCCGGGCCGUCAGCACUUUUGUGCUGUUGUUUUGGCCGUCGUGCCUCUUUUAAUUUAUGUGCGGGUA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-54.5'], dtype=object), 12)
+('Time = ', 140.33612394332886, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['GCUUUAAAGGCCAGGCCUGCGCGAGUAUAAUAUCGCGGAGGGCCCCGUACGCCGAACAAACGGCGCGGGGCGGCCCCAAAUGGGGCCUAAAACGCGCGGGCCUUGGCCGAAAUACUUAUCCUCCGCGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-65.0'], dtype=object), 18)
+('Time = ', 185.1478419303894, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAGGUUCAGGGGGCCCCACCCCGCAAUUAUACGCCCGCCCGACGCUACACCGCAGGAACGGUGGCGUCGCGGCAGUCGACUGCCGGAAGUAGGUGGGGCCAUCCUGCACAACCAUUUGGCGGGCGU',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-53.0'], dtype=object), 14)
+('Time = ', 163.79160714149475, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AUAACGUUGCGACCCGGGGCCGCCGAGGAAACACCCCCCCCGCCCGGGCCGAGGACAAGACCUCGCCGGGCCACCGGAAAACCGGUGAAAUAACGGCCCCGGAGUCGCCAGCAAAAUUCGGGGGGGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-60.1'], dtype=object), 9)
+('Time = ', 109.1532199382782, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['UUUUAUUAGCGCGCACCGCGCCGAUUUUUUUAUCCGCCCCCCCCCCGUUCGGCCAAUUCAGGCCGCGGGGGGCGCCGUUAUCGGCGCUUUAUAGGCGCGGUGUCGCGCAUCAAUUCUUUGGGGGCGGU',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-64.7'], dtype=object), 21)
+('Time = ', 203.55467700958252, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['UAAUAUACAGCCGCACGGGCGGACGAAUAUCACGGCACCAUGGCCGCAAAGCGCCUACAAGCGCUGCGGUCCGCGGGAAUGCCCGCGAAGAAACCGUCCGUGUCGGCUAAAUCAAAAAAAUGGUGCCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-54.8'], dtype=object), 14)
+('Time = ', 155.18678379058838, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['UUUUAAUUGGUGACCGUACGGCGUUUUCAAUUUGCACGGACGCAAAGUACCCGUAUUUUAACGGGCUUUGCCUCGCCUAUUGGCGGGUUUAUUGCCGUACGGAUCGCCUUAUGUUUAUUGUCCGUGCU',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-48.8'], dtype=object), 16)
+('Time = ', 171.99117708206177, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAAAAAGCGCCGGCCAGGCGAAAAAAAAAAACCGCAGCCGCCGCCAACGAAGAAAAAACUUCGGGCGGCCGGCCGCAAACGGCCGAAACCACGCCUGGCCAGGCGCAAAUAAAAAAAGGCUGCGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-59.8'], dtype=object), 8)
+('Time = ', 94.81388211250305, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AUAAAAAAGAGCCCACGGGCACGAAAUCUAAAAGGAGGACCGGCGCCAACCCCCAAUAAAGGGGGGGCGCCCGCCGCAAAAGCGGCGAAACAAGUGCCCGUGAGGCUCAAACACAAAAAGGUCCUCCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-63.7'], dtype=object), 17)
+('Time = ', 179.7003309726715, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['GUAAUAAACGCGACGAGCUCCGAAAAAGAAAAAACCCCAGCGGGGGCAAGCACGAAAAAACGUGCGCCCUCAGUCCGAAAACGGGCUAAAGAACGGAGCUCGAUUGCGAAAAAUAAAAUGCUGGGGUA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-48.7'], dtype=object), 17)
+('Time = ', 182.11420321464539, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAAGAACGGCACGCGGGCCGAUAUAGUGAGACCGCCGGGGCGCGCAACACGGACAAAACCGUGGCGCGCGCCCCCAAAUGGGGGCAAAAUUCGGCCCGCGAUGCCGAAAAAAGAAAACCCGGCGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-63.0'], dtype=object), 21)
+('Time = ', 199.00505208969116, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['UAUUUGUUCGCCUGCCCCGGCGUAUCUUUAUUUGCCCCGGGGGGGGGUUCGCAGAAUUGACUGCGCCCCUCGCGGGCUUUUGCCCGCUUUAUUCGCCGGGGCUAGGCGAUUUUUUAUUUCCCGGGGCU',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-61.6'], dtype=object), 14)
+('Time = ', 177.37949299812317, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['UUAAUUUUGGGCGGGCAGGCCCCUCUUUUAUUUGCGCCGGCGCCCGCUAGGGGCUUUUUUGCCCCGCGGGCGGCGAGUUUUCUCGCCUUAUAUGGGCCUGCCACGCCCUACUUAUUCUAGCCGGCGCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-67.0'], dtype=object), 16)
+('Time = ', 177.26726508140564, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['UAAAAAAACCGGCCAGGUAUACAGUAAAUUACCCCCCCACGGCCGACGAGCGCGACAGAACGCGCGUCGGCCCCGGGUAAACCCGGGGAGAAAGUGUGCCUGCGCCGGAGAAGAAAACACGUGGGGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-55.3'], dtype=object), 17)
+('Time = ', 181.587012052536, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AUCUGUUUGCGGCCGCCGGUCGUUUUUUUUUAACCGGACGGACACCCUAGGCGGUUUUUUUCGCCGGGUGUGCGCGGUUAUCCGCGCUAUAAUCGGCCGGCGUGCCGCCUUUUAUUUAUCCGUCCGGU',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-57.4'], dtype=object), 16)
+('Time = ', 172.95619797706604, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['UGAAAAAACGGGGGCCCCCCGGAAGAAAAGAAUCGCCCAGGCGCCCGAAGGCCGGAAAAACGGCCCGGGUGAGGAGGAAAACCUCCUAAAGCCCCGGGGGGCACCCCGAGAAAAAAAAACCUGGGCGU',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-63.6'], dtype=object), 8)
+('Time = ', 93.04194712638855, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAAAAACGCAACCGGCGCCGAAAAAAAAAAAGGGCCCCCCGCAGGAACCCCCACAAAAGGGGGCCUGCGACACCCAAAAGGGUGUAAAAGGCGGCGCUGGAUUGCGAACACAAAAUUGGGGGCCCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-55.6'], dtype=object), 12)
+('Time = ', 138.91079092025757, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['GAAAAAAAGGGCGGGCCGCUGCAAAGAAAAAAACCCCCGCCGGACUCAACCGACAAAAAAGUCGGGGGUCCGACACGAACACGUGUCAAAAAAGCGGCGGCCACGCCCAAAAAAAAAAAGGCGGGGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-55.9'], dtype=object), 10)
+('Time = ', 110.81435704231262, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['UACUGUAAAGGAUCCAGCCUUGAAGAAAAUAGUGAACGGCCAGAAAGAACUCGGAAAGUCCCGAGCUUUCUGUGGCAAAAAUGCCACAAAUAACGGGGCUGGCAUCCUAGAGUGAAAAAGGCCGUUCU',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-42.2'], dtype=object), 4)
+('Time = ', 48.01301908493042, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['GAAAAAAAGGCCACGGGCCCCCGAAAAAGAAAACCCCCCAGGCGCCCAACGGCGAAAAAACGCCGGGGCGCCCGCCUUCAAGGGCGGAUAACUGGGGGCCCGAUGGCCCAACUAAAUAACUGGGGGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-63.8'], dtype=object), 15)
+('Time = ', 163.66696691513062, 'For method : ', 'F')
+[(['UAUUUUAUGAGGCCGACGGCCAUAUAAUUUUUUACCCGCACACGGCCUACGGACGAAUUUGUCCGGGCCGUCAGCACUUUUGUGCUGUUGUUUUGGCCGUCGUGCCUCUUUUAAUUUAUGUGCGGGUA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-54.5'], 12), (['GCUUUAAAGGCCAGGCCUGCGCGAGUAUAAUAUCGCGGAGGGCCCCGUACGCCGAACAAACGGCGCGGGGCGGCCCCAAAUGGGGCCUAAAACGCGCGGGCCUUGGCCGAAAUACUUAUCCUCCGCGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-65.0'], 18), (['AAAAGGUUCAGGGGGCCCCACCCCGCAAUUAUACGCCCGCCCGACGCUACACCGCAGGAACGGUGGCGUCGCGGCAGUCGACUGCCGGAAGUAGGUGGGGCCAUCCUGCACAACCAUUUGGCGGGCGU', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-53.0'], 14), (['AUAACGUUGCGACCCGGGGCCGCCGAGGAAACACCCCCCCCGCCCGGGCCGAGGACAAGACCUCGCCGGGCCACCGGAAAACCGGUGAAAUAACGGCCCCGGAGUCGCCAGCAAAAUUCGGGGGGGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-60.1'], 9), (['UUUUAUUAGCGCGCACCGCGCCGAUUUUUUUAUCCGCCCCCCCCCCGUUCGGCCAAUUCAGGCCGCGGGGGGCGCCGUUAUCGGCGCUUUAUAGGCGCGGUGUCGCGCAUCAAUUCUUUGGGGGCGGU', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-64.7'], 21), (['UAAUAUACAGCCGCACGGGCGGACGAAUAUCACGGCACCAUGGCCGCAAAGCGCCUACAAGCGCUGCGGUCCGCGGGAAUGCCCGCGAAGAAACCGUCCGUGUCGGCUAAAUCAAAAAAAUGGUGCCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-54.8'], 14), (['UUUUAAUUGGUGACCGUACGGCGUUUUCAAUUUGCACGGACGCAAAGUACCCGUAUUUUAACGGGCUUUGCCUCGCCUAUUGGCGGGUUUAUUGCCGUACGGAUCGCCUUAUGUUUAUUGUCCGUGCU', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-48.8'], 16), (['AAAAAAAAGCGCCGGCCAGGCGAAAAAAAAAAACCGCAGCCGCCGCCAACGAAGAAAAAACUUCGGGCGGCCGGCCGCAAACGGCCGAAACCACGCCUGGCCAGGCGCAAAUAAAAAAAGGCUGCGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-59.8'], 8), (['AUAAAAAAGAGCCCACGGGCACGAAAUCUAAAAGGAGGACCGGCGCCAACCCCCAAUAAAGGGGGGGCGCCCGCCGCAAAAGCGGCGAAACAAGUGCCCGUGAGGCUCAAACACAAAAAGGUCCUCCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-63.7'], 17), (['GUAAUAAACGCGACGAGCUCCGAAAAAGAAAAAACCCCAGCGGGGGCAAGCACGAAAAAACGUGCGCCCUCAGUCCGAAAACGGGCUAAAGAACGGAGCUCGAUUGCGAAAAAUAAAAUGCUGGGGUA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-48.7'], 17), (['AAAAAGAACGGCACGCGGGCCGAUAUAGUGAGACCGCCGGGGCGCGCAACACGGACAAAACCGUGGCGCGCGCCCCCAAAUGGGGGCAAAAUUCGGCCCGCGAUGCCGAAAAAAGAAAACCCGGCGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-63.0'], 21), (['UAUUUGUUCGCCUGCCCCGGCGUAUCUUUAUUUGCCCCGGGGGGGGGUUCGCAGAAUUGACUGCGCCCCUCGCGGGCUUUUGCCCGCUUUAUUCGCCGGGGCUAGGCGAUUUUUUAUUUCCCGGGGCU', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-61.6'], 14), (['UUAAUUUUGGGCGGGCAGGCCCCUCUUUUAUUUGCGCCGGCGCCCGCUAGGGGCUUUUUUGCCCCGCGGGCGGCGAGUUUUCUCGCCUUAUAUGGGCCUGCCACGCCCUACUUAUUCUAGCCGGCGCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-67.0'], 16), (['UAAAAAAACCGGCCAGGUAUACAGUAAAUUACCCCCCCACGGCCGACGAGCGCGACAGAACGCGCGUCGGCCCCGGGUAAACCCGGGGAGAAAGUGUGCCUGCGCCGGAGAAGAAAACACGUGGGGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-55.3'], 17), (['AUCUGUUUGCGGCCGCCGGUCGUUUUUUUUUAACCGGACGGACACCCUAGGCGGUUUUUUUCGCCGGGUGUGCGCGGUUAUCCGCGCUAUAAUCGGCCGGCGUGCCGCCUUUUAUUUAUCCGUCCGGU', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-57.4'], 16), (['UGAAAAAACGGGGGCCCCCCGGAAGAAAAGAAUCGCCCAGGCGCCCGAAGGCCGGAAAAACGGCCCGGGUGAGGAGGAAAACCUCCUAAAGCCCCGGGGGGCACCCCGAGAAAAAAAAACCUGGGCGU', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-63.6'], 8), (['AAAAAAAACGCAACCGGCGCCGAAAAAAAAAAAGGGCCCCCCGCAGGAACCCCCACAAAAGGGGGCCUGCGACACCCAAAAGGGUGUAAAAGGCGGCGCUGGAUUGCGAACACAAAAUUGGGGGCCCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-55.6'], 12), (['GAAAAAAAGGGCGGGCCGCUGCAAAGAAAAAAACCCCCGCCGGACUCAACCGACAAAAAAGUCGGGGGUCCGACACGAACACGUGUCAAAAAAGCGGCGGCCACGCCCAAAAAAAAAAAGGCGGGGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-55.9'], 10), (['UACUGUAAAGGAUCCAGCCUUGAAGAAAAUAGUGAACGGCCAGAAAGAACUCGGAAAGUCCCGAGCUUUCUGUGGCAAAAAUGCCACAAAUAACGGGGCUGGCAUCCUAGAGUGAAAAAGGCCGUUCU', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-42.2'], 4), (['GAAAAAAAGGCCACGGGCCCCCGAAAAAGAAAACCCCCCAGGCGCCCAACGGCGAAAAAACGCCGGGGCGCCCGCCUUCAAGGGCGGAUAACUGGGGGCCCGAUGGCCCAACUAAAUAACUGGGGGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-63.8'], 15)]
+Error while cleaning the tmp_new directory files
+=====================================================================================================
+('Solving for the target = ', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].')
+=====================================================================================================
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAAAGUCGGGAGGGCACUGGAAUUAAAAAAAGGCCCGGCGGCCGUCAGCACCAAGGAAGGUGCACGGCCGGCGCUAACAAGCGCCACUAAACCGGUGCCCAUCCCGAACAAAUAACAGCCGGGCCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-57.7'], dtype=object), 13)
+('Time = ', 141.82051396369934, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['CAAAAAAUCUGCGGGUGGCCGGACAAAAAAAAACCGCCAGCGCCCGCAAAGCGCAACAAAGCGCUGCGGGCAAGCCGAAAGCGGCUUAAAUAUCCGGCUACCACGCGGAAAAAAAAAAAGCUGGCGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-55.7'], dtype=object), 17)
+('Time = ', 174.46922206878662, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAAAAAAGGGAACAGACGGCAAAAAAAAAAACCCGGGCGUCCAGCAAAGCGAAAAAAAUCGCUGCUGGAGCGGCCAAAAGGCCGCAAAAAAGCCGUCUGUAUCCCUAAAAAACAAAACGCCCGGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-52.4'], dtype=object), 7)
+('Time = ', 83.6686007976532, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['UGCGUCGGCCCGGGGUGCCGACUUACGAGAAUGGCCAGAGCGGGGCGAUCACGAACUGAAUCGUGCGCCCCAGGCUGUGAGCGGCCUUAUUGCGUCGGUACCUCCGGGAAAAACGAUCAGCUCUGGCU',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-53.5'], dtype=object), 24)
+('Time = ', 220.72883987426758, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['ACAACAUAGAGGCCCCGGGGGCCAAAAAAAAAACCCGGCGCGGCCCAAACCCCGAAAAAACGGGGUGGGCCCGACCGAAAACGGUCGAGAAAAGCCCCCGGGAGCCUCGAAAUAAAAAAGCGCCGGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-63.0'], dtype=object), 11)
+('Time = ', 123.42411708831787, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['UACAACUUCCGUCGGGCCAGCCCACGAACAUUAAGCGCGGCACAUGGACCGCUCAGCUUGGGGCGCCGUGUGGCCCCCCCAGGGGCCAGCGCAGGCUGGCCCAGACGGCAGCCGAAGCAGCCGCGCUG',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-54.8'], dtype=object), 12)
+('Time = ', 141.0127809047699, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['ACAAAAAACGCGCGGCGGACGCAAAAAAGAAAACACCAGAGCACGCGAAGGCGCAAAAAAGCGCCCGCGUGGGCCGGAAAACCGGCCAAAAAAGCGUCUGCUAGUGCGAAACAAAAAAACUCUGGUGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-55.0'], dtype=object), 18)
+('Time = ', 183.87978887557983, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['UGACAAAACCGCGGCGACGCUCAGAACAACACACGCCGACAGCAUGGAAGCCCGCAAAAUCGGGCCCGUGCGCGCGGAUAGUCGCGCAAAGAAGAGCGUCGCUCGCGGACCCAAAAAAAUGUCGGCGG',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-54.7'], dtype=object), 18)
+('Time = ', 185.1881079673767, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AACAAGAGCCCGCGAGCGGGCGCUAACAUCAAGGCGGCGCGCCGGUGAACGAGAAAAGGAUCUCGCGCCGGCCCCCAAUACUGGGGGAUACAACGCCCGCUCUGCGGGAUACAGUAACACGCGCCGCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-56.4'], dtype=object), 11)
+('Time = ', 131.03330302238464, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAAUAAAACCCCCCCAGGGCAGAAAAAAAAAAGGGGCCCGCGCGCAAGAGCCAAAAAAGGCUCGCGCGCGACCCGAAAACGGGUCAAAACAGCCCUGGGGAGGGUUAAAAAAAAAAAGGGCCCCUA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-60.3'], dtype=object), 8)
+('Time = ', 98.21775794029236, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAUUAACCCCCGCCCCGGGCGAAAAACAGAAGGGCGAGGGGGCCGGAGCCCAAAAAAAUGGGCCGGCCCGCCGGGAACACCCGGCACUUAUGCCCGGGGCAGGGGGAACUAAACAAACCUCGCCCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-67.7'], dtype=object), 26)
+('Time = ', 234.9016718864441, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAAAAAGCCCCCGCGCGGCGAAAAAAAAAAACGGCACGCCGGCCCAAGCCCCAAAUAGGGGGCGGGCCGGCCGGAGAACUCCGGCAGAAGACGCCGCGCGAGGGGCAAAAAAAUAAAGCGUGCCGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-66.7'], dtype=object), 15)
+('Time = ', 157.41942405700684, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['GGAACGCACCCCCCGAGGGGGGACAGUCAAGGAAGGGAAGCGCAACCAUGCCGGUAUGCCCCGGCGGUUGCGCCCCGAAAACGGGGCAAAGAACCCCCCUCGCGGGGGACUAAAUAGAGGCUUCCCUA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-63.0'], dtype=object), 13)
+('Time = ', 149.10842204093933, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['CGUCAUAAAGCGGCUCCUAGCAAAAAAAGUUUCCCGCAGCGGAUCGCCUCCACGAAGUCACGUGGGCGGUCGUCCGGUCACCCGGGCUCACUCUGCUAGGGGACCGCUCAAAGUCAUUACGCUGCGGU',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-48.2'], dtype=object), 9)
+('Time = ', 103.2663209438324, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAGAAAAAGCGCGGCGGCACGAAAAUAAAAAUACCCGGGCCGCAACGAAAGAGCAAACAAGCUCUCGUUGCCCCCGCAGAAGCGGGGGAAUACUCGUGCCGCACGCGCAAAAAAAAAAAGGCCCGGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-56.1'], dtype=object), 18)
+('Time = ', 180.71618390083313, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AUUUUAUUCCCGGGCGCAAGACUUGUUAUUACCGACCCGCCCAGGUCUUCCGGCUUAUAUGCUGGGGCCUGUUGCGGUUUUCCGCAAUAUGAUGUCUUGCGCUCCGGGUUAUCUUAUGUGGCGGGUCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-50.8'], dtype=object), 16)
+('Time = ', 167.94356107711792, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAAUAAAGCCCCGCGACGCCAAAAAAAAAAACCACCCCCCGCGGCAAGCGCAAAAAAAUGCGCGCCGCGGCGCCGAUAACGGCGCAAGAAAGGCGUCGCGAGGGCUAUAAAAAAGAAGGGGGUGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-60.5'], dtype=object), 12)
+('Time = ', 135.83905410766602, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAAUAACCGCCGCCCGCGGGAAAAGAAAAUAGCCGGCCCGCGCCGAACCAGCAAAAAAGCUGGCGGCGCCGCGGGAAAACCCGCGAAAAACCCCGCGGGCAGGCGGAAAGUUAAAAAGGGCCGGCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-63.8'], dtype=object), 13)
+('Time = ', 146.94885206222534, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAGAAAGACGCGCGAGCCCCAAAAAAAAAAAGCCGGCACCACCGCAAGCGCCAAAAAAGGCGCGCGGUGCCCGGGAAAACCCGGGAAAAAAGGGGCUCGCAGCGUCAAAAAAAAAAAGUGCCGGCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-61.3'], dtype=object), 5)
+('Time = ', 60.697458028793335, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['GUAAGACACCCGCCAAGCGCCGAAAAAAAUAGUGCGCCCAGGCAGGCAUGCCGGAAAGAACCGGCGCCUGCCCCGCGAAGUCGCGGGAACUAACGGCGCUUGAGCGGGAAAAAUAAAAACUGGGCGCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-60.3'], dtype=object), 19)
+('Time = ', 186.48482990264893, 'For method : ', 'F')
+[(['AAAAAAGUCGGGAGGGCACUGGAAUUAAAAAAAGGCCCGGCGGCCGUCAGCACCAAGGAAGGUGCACGGCCGGCGCUAACAAGCGCCACUAAACCGGUGCCCAUCCCGAACAAAUAACAGCCGGGCCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-57.7'], 13), (['CAAAAAAUCUGCGGGUGGCCGGACAAAAAAAAACCGCCAGCGCCCGCAAAGCGCAACAAAGCGCUGCGGGCAAGCCGAAAGCGGCUUAAAUAUCCGGCUACCACGCGGAAAAAAAAAAAGCUGGCGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-55.7'], 17), (['AAAAAAAAAGGGAACAGACGGCAAAAAAAAAAACCCGGGCGUCCAGCAAAGCGAAAAAAAUCGCUGCUGGAGCGGCCAAAAGGCCGCAAAAAAGCCGUCUGUAUCCCUAAAAAACAAAACGCCCGGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-52.4'], 7), (['UGCGUCGGCCCGGGGUGCCGACUUACGAGAAUGGCCAGAGCGGGGCGAUCACGAACUGAAUCGUGCGCCCCAGGCUGUGAGCGGCCUUAUUGCGUCGGUACCUCCGGGAAAAACGAUCAGCUCUGGCU', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-53.5'], 24), (['ACAACAUAGAGGCCCCGGGGGCCAAAAAAAAAACCCGGCGCGGCCCAAACCCCGAAAAAACGGGGUGGGCCCGACCGAAAACGGUCGAGAAAAGCCCCCGGGAGCCUCGAAAUAAAAAAGCGCCGGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-63.0'], 11), (['UACAACUUCCGUCGGGCCAGCCCACGAACAUUAAGCGCGGCACAUGGACCGCUCAGCUUGGGGCGCCGUGUGGCCCCCCCAGGGGCCAGCGCAGGCUGGCCCAGACGGCAGCCGAAGCAGCCGCGCUG', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-54.8'], 12), (['ACAAAAAACGCGCGGCGGACGCAAAAAAGAAAACACCAGAGCACGCGAAGGCGCAAAAAAGCGCCCGCGUGGGCCGGAAAACCGGCCAAAAAAGCGUCUGCUAGUGCGAAACAAAAAAACUCUGGUGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-55.0'], 18), (['UGACAAAACCGCGGCGACGCUCAGAACAACACACGCCGACAGCAUGGAAGCCCGCAAAAUCGGGCCCGUGCGCGCGGAUAGUCGCGCAAAGAAGAGCGUCGCUCGCGGACCCAAAAAAAUGUCGGCGG', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-54.7'], 18), (['AACAAGAGCCCGCGAGCGGGCGCUAACAUCAAGGCGGCGCGCCGGUGAACGAGAAAAGGAUCUCGCGCCGGCCCCCAAUACUGGGGGAUACAACGCCCGCUCUGCGGGAUACAGUAACACGCGCCGCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-56.4'], 11), (['AAAAAUAAAACCCCCCCAGGGCAGAAAAAAAAAAGGGGCCCGCGCGCAAGAGCCAAAAAAGGCUCGCGCGCGACCCGAAAACGGGUCAAAACAGCCCUGGGGAGGGUUAAAAAAAAAAAGGGCCCCUA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-60.3'], 8), (['AAAAUUAACCCCCGCCCCGGGCGAAAAACAGAAGGGCGAGGGGGCCGGAGCCCAAAAAAAUGGGCCGGCCCGCCGGGAACACCCGGCACUUAUGCCCGGGGCAGGGGGAACUAAACAAACCUCGCCCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-67.7'], 26), (['AAAAAAAAGCCCCCGCGCGGCGAAAAAAAAAAACGGCACGCCGGCCCAAGCCCCAAAUAGGGGGCGGGCCGGCCGGAGAACUCCGGCAGAAGACGCCGCGCGAGGGGCAAAAAAAUAAAGCGUGCCGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-66.7'], 15), (['GGAACGCACCCCCCGAGGGGGGACAGUCAAGGAAGGGAAGCGCAACCAUGCCGGUAUGCCCCGGCGGUUGCGCCCCGAAAACGGGGCAAAGAACCCCCCUCGCGGGGGACUAAAUAGAGGCUUCCCUA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-63.0'], 13), (['CGUCAUAAAGCGGCUCCUAGCAAAAAAAGUUUCCCGCAGCGGAUCGCCUCCACGAAGUCACGUGGGCGGUCGUCCGGUCACCCGGGCUCACUCUGCUAGGGGACCGCUCAAAGUCAUUACGCUGCGGU', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-48.2'], 9), (['AAGAAAAAGCGCGGCGGCACGAAAAUAAAAAUACCCGGGCCGCAACGAAAGAGCAAACAAGCUCUCGUUGCCCCCGCAGAAGCGGGGGAAUACUCGUGCCGCACGCGCAAAAAAAAAAAGGCCCGGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-56.1'], 18), (['AUUUUAUUCCCGGGCGCAAGACUUGUUAUUACCGACCCGCCCAGGUCUUCCGGCUUAUAUGCUGGGGCCUGUUGCGGUUUUCCGCAAUAUGAUGUCUUGCGCUCCGGGUUAUCUUAUGUGGCGGGUCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-50.8'], 16), (['AAAAAUAAAGCCCCGCGACGCCAAAAAAAAAAACCACCCCCCGCGGCAAGCGCAAAAAAAUGCGCGCCGCGGCGCCGAUAACGGCGCAAGAAAGGCGUCGCGAGGGCUAUAAAAAAGAAGGGGGUGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-60.5'], 12), (['AAAAAUAACCGCCGCCCGCGGGAAAAGAAAAUAGCCGGCCCGCGCCGAACCAGCAAAAAAGCUGGCGGCGCCGCGGGAAAACCCGCGAAAAACCCCGCGGGCAGGCGGAAAGUUAAAAAGGGCCGGCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-63.8'], 13), (['AAAAGAAAGACGCGCGAGCCCCAAAAAAAAAAAGCCGGCACCACCGCAAGCGCCAAAAAAGGCGCGCGGUGCCCGGGAAAACCCGGGAAAAAAGGGGCUCGCAGCGUCAAAAAAAAAAAGUGCCGGCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-61.3'], 5), (['GUAAGACACCCGCCAAGCGCCGAAAAAAAUAGUGCGCCCAGGCAGGCAUGCCGGAAAGAACCGGCGCCUGCCCCGCGAAGUCGCGGGAACUAACGGCGCUUGAGCGGGAAAAAUAAAAACUGGGCGCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-60.3'], 19)]
+Error while cleaning the tmp_new directory files
+=====================================================================================================
+('Solving for the target = ', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].')
+=====================================================================================================
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['CAAGAACAGCCACGCCGCGCCGUUUAAUCGUGACCGGCCCCGCUCAGACGGCGAAACAAAUCGCCCUGAGCGACGCGUUAACGCGUCUAAAUUCGGCGCGGCUGUGGCUAAACUGCCGCGGGGCCGGC',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-55.6'], dtype=object), 22)
+('Time = ', 144.30645298957825, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AGUAUUUAAAACCCGCAGCUGCAUUAAUUUAAUGGCCCGCCGGCGAGUACGCGGCAUCUACCGCGCUCGCCGGACCAAAUUUGGUCCUCGUUUGCGGCUGCGAGGUUUUUUUUAAUUUAGGCGGGCCU',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-51.3'], dtype=object), 33)
+('Time = ', 213.18876910209656, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AUAACCUCGUCGCCGCACCAUGACUGUUCUGCACCCGCCCCGGCCAGUGAAUGACACUACUCAUUCUGGCCCAUGCCAACCGGCAUGAUCCGCCAUGGUGCGAGCGGCACAAUUAAAUCGGGGCGGGU',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-47.1'], dtype=object), 15)
+('Time = ', 122.58657479286194, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['UUUUAAUUACGGCCCCGUAGACUUUUUUUCUUUCCCGGCGCGGCCGCUUCCGCGUUUUAUCGCGGGCGGCCCCGGCCGUUAGGCCGGUUUUAUGUCUGCGGGUGUCGUAUCUUUUUUUUGCGCCGGGU',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-57.4'], dtype=object), 7)
+('Time = ', 71.5425238609314, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['GAAAAAGGCCGCGAGCCCGCAGGAAAAGACAAGGGGGAGCGUGGGGCAUCUGGGAUUCCACCCAGGCCCCACCCGGCAAAAGCCGGGACCAAUCUGCGGGCUACGCGGAAAGAAAGAAACGCUCCCCU',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-60.3'], dtype=object), 29)
+('Time = ', 194.7075321674347, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAAAUACCCGCGGCACAGUCAAAAAAAAAAACGGGGGGCGCCCGCACGCGGUAAAAAAGCCGCGCGGGCCGGGGCAAAAGCCUCGAAAAAAGGCUGUGCCAGCGGGAAAAAAAAAAAGCCCCCCGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-57.1'], dtype=object), 13)
+('Time = ', 111.24385595321655, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AGAAAGAAGACGCAGGGCGGCGAAAAAAAAAAAGCCCCCCGUACGCGAACGUCCAAAAAAGGACGCGCGUGCCCGCCAAAAGGCGGGAAAAAACGCCGCCCUAGCGUCAAAAAAUAAAACGGGGGGCU',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-56.3'], dtype=object), 11)
+('Time = ', 99.98146104812622, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['CAGCCAACCCGGCCGGGGCCCCCUACUAACAAUCCCGCGCCGGGAGGGACGCCGACAUAGCGGCGCCUCCCUACCCGCACACGGGUACACGAAGGGGCCCCGGGCCGGAACAUACUGGAGGCGCGGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-62.0'], dtype=object), 7)
+('Time = ', 71.54504704475403, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['GGAAACAGCAGCGGCGCGCCGCAUAAAAAUUGAGGCCCGCCCGGCGGGACGAGCCGAAACGCUCGCCGCCGGCGCCAGAAGUGGCGUAAAAGCGCGGCGCGCACGCUGAAUUAGAAAAAGGCGGGCCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-59.1'], dtype=object), 26)
+('Time = ', 179.29643416404724, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['GUAUAUUGACCGGGCGCCCCGGACUCCACAAGACACGCGGCCCGGGCACGAGCGACAAAGCGCUCGCCCGGCCCGGCUCCAGCCGGGUAAAAACCGGGGCGCACCGGUUUACAAUACGAGCCGCGUGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-62.2'], dtype=object), 7)
+('Time = ', 71.5240089893341, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['GAAUAUAGCCCCGGCGCACGGGAAAAAGGACAAGGGCGGGCCGCAUCAACCGCUUGGUCUGGUGGGAUGCGGGGCCCAAAAGGGCCCAAAUAACCCGUGCGCUCGGGGAAAGAUAAAAAGCCUGCCCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-58.9'], dtype=object), 14)
+('Time = ', 116.46205806732178, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAGAAUAAGGGCCCCACGGCCAUAAUAACAAAACCGCAGGGCGCGCCGAAAGCCAAAGAAGGCUUGGCGCGGCCCCCCAAAGGGGGCAACAAUUGGCCGUGGAGGCCCAAUAAAAAAAACCCUGCGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-62.3'], dtype=object), 32)
+('Time = ', 203.0464231967926, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['UCAUUAUGCGCCGCGCCGCGCACCUCAUGUAACCCCGGCCGGCGGAGAUGGACCAUAGAGGGUCCCUCCGCGACGCCACGAGGCGUCAGUGACUGCGCGGCGGCGGCGACCCAAACCCACGGCCGGGU',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-59.5'], dtype=object), 15)
+('Time = ', 121.27202200889587, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['GAAAAAACGCGACACGCCAGCGAAAAAAUAAAAAGGGGCGCCCGCGGAUCCCACAAUCAAGUGGGCCGCGGGGCCGGCAAACCGGCCGAGAAACGCUGGCGUAGUCGCAGAAACAAAAAGCGCCCCUA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-59.3'], dtype=object), 18)
+('Time = ', 131.38735580444336, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAACUAAAGGGCAACACCGUGCGAACAAAUAAACGGGGGACGGGUGCGACCUGGGCCCAGCCGGGGCACCCCCGGGUCACCGCCCGGAAAAUAGCGCGGUGUAUGCCCACAAAACUGAAGUCCCCCGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-55.3'], dtype=object), 12)
+('Time = ', 105.84884905815125, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AUAUGGAUGCUGUCCUAGGGACAUAGCCACGGGGUGCCGCCCCCAGGAUUGCUGUACAACCAGCACCUGGGACCGUAUAAAUGCGGUAGAGAAGUCUCUAGGCACGGCAAUAAAAAUCAGGCGGUGCU',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-45.2'], dtype=object), 15)
+('Time = ', 121.3806381225586, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAAAAAACCGCCCCAGGCAGAAAAAAAAAACGGCCGCCCGGCCCCAACGAGCAAAAAAGCUCGGGGGCCGGGGGGAAAUCCCCCCAAAAAACUGCCUGGGAGCGGUAGAAAAAAAAAGGGCGGCCU',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-63.1'], dtype=object), 15)
+('Time = ', 121.07791304588318, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['GAAUUCAAGCCCCCCGCGGGGGAGUAAAAAGCACGAGGCGGAGGGCCGACGCGGAAACCACCGCGGGCCCUAGGCCCUAAUGGGCCUGCGAACCCCCCGCGGAGGGGCCAUUUAACUCCCCGCCUCGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-66.0'], dtype=object), 11)
+('Time = ', 101.83465218544006, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAUAAUAAGGGGCCGGCACCUCAUACAGUAAUAGGCCGCCCGACAUGCAAGGAGGCAUCACUCCUCAUGUCGCCGCCAAAGGGCGGCAGACAGGGGGUGCCGAGCCCCGCAUAACAAAAGGGCGGCCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-57.5'], dtype=object), 22)
+('Time = ', 144.21237897872925, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['UCAAAUUACGCCAUGUCAACCGUAGUAAAAGCACCCCCCGCCGCCAGGUCGCCCAUACAAGGGCGCUGGCGCCCGCAAAAAUGCGGGGUGAAUCGGUUGACAUUGGCGAUAAUUCGGCAGCGGGGGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-51.6'], dtype=object), 11)
+('Time = ', 99.72533106803894, 'For method : ', 'F')
+[(['CAAGAACAGCCACGCCGCGCCGUUUAAUCGUGACCGGCCCCGCUCAGACGGCGAAACAAAUCGCCCUGAGCGACGCGUUAACGCGUCUAAAUUCGGCGCGGCUGUGGCUAAACUGCCGCGGGGCCGGC', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-55.6'], 22), (['AGUAUUUAAAACCCGCAGCUGCAUUAAUUUAAUGGCCCGCCGGCGAGUACGCGGCAUCUACCGCGCUCGCCGGACCAAAUUUGGUCCUCGUUUGCGGCUGCGAGGUUUUUUUUAAUUUAGGCGGGCCU', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-51.3'], 33), (['AUAACCUCGUCGCCGCACCAUGACUGUUCUGCACCCGCCCCGGCCAGUGAAUGACACUACUCAUUCUGGCCCAUGCCAACCGGCAUGAUCCGCCAUGGUGCGAGCGGCACAAUUAAAUCGGGGCGGGU', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-47.1'], 15), (['UUUUAAUUACGGCCCCGUAGACUUUUUUUCUUUCCCGGCGCGGCCGCUUCCGCGUUUUAUCGCGGGCGGCCCCGGCCGUUAGGCCGGUUUUAUGUCUGCGGGUGUCGUAUCUUUUUUUUGCGCCGGGU', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-57.4'], 7), (['GAAAAAGGCCGCGAGCCCGCAGGAAAAGACAAGGGGGAGCGUGGGGCAUCUGGGAUUCCACCCAGGCCCCACCCGGCAAAAGCCGGGACCAAUCUGCGGGCUACGCGGAAAGAAAGAAACGCUCCCCU', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-60.3'], 29), (['AAAAAAUACCCGCGGCACAGUCAAAAAAAAAAACGGGGGGCGCCCGCACGCGGUAAAAAAGCCGCGCGGGCCGGGGCAAAAGCCUCGAAAAAAGGCUGUGCCAGCGGGAAAAAAAAAAAGCCCCCCGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-57.1'], 13), (['AGAAAGAAGACGCAGGGCGGCGAAAAAAAAAAAGCCCCCCGUACGCGAACGUCCAAAAAAGGACGCGCGUGCCCGCCAAAAGGCGGGAAAAAACGCCGCCCUAGCGUCAAAAAAUAAAACGGGGGGCU', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-56.3'], 11), (['CAGCCAACCCGGCCGGGGCCCCCUACUAACAAUCCCGCGCCGGGAGGGACGCCGACAUAGCGGCGCCUCCCUACCCGCACACGGGUACACGAAGGGGCCCCGGGCCGGAACAUACUGGAGGCGCGGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-62.0'], 7), (['GGAAACAGCAGCGGCGCGCCGCAUAAAAAUUGAGGCCCGCCCGGCGGGACGAGCCGAAACGCUCGCCGCCGGCGCCAGAAGUGGCGUAAAAGCGCGGCGCGCACGCUGAAUUAGAAAAAGGCGGGCCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-59.1'], 26), (['GUAUAUUGACCGGGCGCCCCGGACUCCACAAGACACGCGGCCCGGGCACGAGCGACAAAGCGCUCGCCCGGCCCGGCUCCAGCCGGGUAAAAACCGGGGCGCACCGGUUUACAAUACGAGCCGCGUGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-62.2'], 7), (['GAAUAUAGCCCCGGCGCACGGGAAAAAGGACAAGGGCGGGCCGCAUCAACCGCUUGGUCUGGUGGGAUGCGGGGCCCAAAAGGGCCCAAAUAACCCGUGCGCUCGGGGAAAGAUAAAAAGCCUGCCCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-58.9'], 14), (['AAGAAUAAGGGCCCCACGGCCAUAAUAACAAAACCGCAGGGCGCGCCGAAAGCCAAAGAAGGCUUGGCGCGGCCCCCCAAAGGGGGCAACAAUUGGCCGUGGAGGCCCAAUAAAAAAAACCCUGCGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-62.3'], 32), (['UCAUUAUGCGCCGCGCCGCGCACCUCAUGUAACCCCGGCCGGCGGAGAUGGACCAUAGAGGGUCCCUCCGCGACGCCACGAGGCGUCAGUGACUGCGCGGCGGCGGCGACCCAAACCCACGGCCGGGU', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-59.5'], 15), (['GAAAAAACGCGACACGCCAGCGAAAAAAUAAAAAGGGGCGCCCGCGGAUCCCACAAUCAAGUGGGCCGCGGGGCCGGCAAACCGGCCGAGAAACGCUGGCGUAGUCGCAGAAACAAAAAGCGCCCCUA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-59.3'], 18), (['AAACUAAAGGGCAACACCGUGCGAACAAAUAAACGGGGGACGGGUGCGACCUGGGCCCAGCCGGGGCACCCCCGGGUCACCGCCCGGAAAAUAGCGCGGUGUAUGCCCACAAAACUGAAGUCCCCCGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-55.3'], 12), (['AUAUGGAUGCUGUCCUAGGGACAUAGCCACGGGGUGCCGCCCCCAGGAUUGCUGUACAACCAGCACCUGGGACCGUAUAAAUGCGGUAGAGAAGUCUCUAGGCACGGCAAUAAAAAUCAGGCGGUGCU', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-45.2'], 15), (['AAAAAAAAACCGCCCCAGGCAGAAAAAAAAAACGGCCGCCCGGCCCCAACGAGCAAAAAAGCUCGGGGGCCGGGGGGAAAUCCCCCCAAAAAACUGCCUGGGAGCGGUAGAAAAAAAAAGGGCGGCCU', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-63.1'], 15), (['GAAUUCAAGCCCCCCGCGGGGGAGUAAAAAGCACGAGGCGGAGGGCCGACGCGGAAACCACCGCGGGCCCUAGGCCCUAAUGGGCCUGCGAACCCCCCGCGGAGGGGCCAUUUAACUCCCCGCCUCGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-66.0'], 11), (['AAUAAUAAGGGGCCGGCACCUCAUACAGUAAUAGGCCGCCCGACAUGCAAGGAGGCAUCACUCCUCAUGUCGCCGCCAAAGGGCGGCAGACAGGGGGUGCCGAGCCCCGCAUAACAAAAGGGCGGCCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-57.5'], 22), (['UCAAAUUACGCCAUGUCAACCGUAGUAAAAGCACCCCCCGCCGCCAGGUCGCCCAUACAAGGGCGCUGGCGCCCGCAAAAAUGCGGGGUGAAUCGGUUGACAUUGGCGAUAAUUCGGCAGCGGGGGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-51.6'], 11)]
+Error while cleaning the tmp_new directory files
+=====================================================================================================
+('Solving for the target = ', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].')
+=====================================================================================================
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAAAACGUAGGCGGGAGCGCAAAAAAAAAAACCGCCCCGUGCGGGUGAGGCCAAAAAAGGCCUCCCGCACCGCACAAGAGUGCGGAAAAAAGCGCUCCCGACCUACUAAAACAAAUACGGGGCGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-57.4'], dtype=object), 15)
+('Time = ', 171.26126790046692, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AGAAAAACCCCACCGCGUGCUGCGAUAACGAAAACGCCCGGCGCGGGUAGAACCACACAAGGUUCCCCGCGGGAGCCCAAAGGCUCCGAAAAACAGCGCGCGAGUGGGAGCAAAGAGUACCGGGCGUC',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-55.9'], dtype=object), 21)
+('Time = ', 217.27613711357117, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['ACAAAACUCCACGGGAAGCAGCCCAAAAAGAAAGCGGCCCGCCGCGGAUCAGGCAAACAAGCCUGCCGCGGGGGGGAAUACUCCCCCACAAAAGCUGCUUCCACGUGGAUAUACACAGACGGGCCGCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-57.4'], dtype=object), 17)
+('Time = ', 198.56189513206482, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['UAUAUCAUGCCGCGAGCGCGGGUUAUUAAUAUUGCAGGGGCCCGGCCUUGCCCCUUUUUUGGGGCGGCCGGCGCGCAUUACUGCGCGUUAUUUCCCGCGCUCAGCGGCUUUGUUUAAAUGCCCCUGCU',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-62.2'], dtype=object), 25)
+('Time = ', 231.61789202690125, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAGGCAAGCGGGACGCGCCCCCAUAAAAAAAAACCCGGGGCAGCGGAAGGCGCAUAAAAGUGCCCCGCUGGCUGCGAAAACGCAGCAAAACAGGGGCGCGUAUCCGCGAAAAGAAAAACCCCGGGUA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-56.5'], dtype=object), 25)
+('Time = ', 251.705157995224, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAUUUUAGCCCGGGAGGGCGCAACUUAUUAUUGACGGGAGCGCCACUUCCGAAUAAUUUUUCGGGUGGCGGGCAGCUAAGGCUGCCAAAUAAGCGCCCUCCACGGGCAUCAAAUUAAUCUCCCGUCU',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-60.8'], dtype=object), 19)
+('Time = ', 215.40790390968323, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AUAAAAAAGGCCGCGAAGCUGCGAAAUAAUAAACCCCGACAGCUCCGAUACCCGCAAUGACGGGUCGGGGCGGCCACAAAAGUGGCCAAAAAAGCGGCUUCGACGGCCAAAAAAAAAAAUGUCGGGGU',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-55.8'], dtype=object), 23)
+('Time = ', 243.35302996635437, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AGGCCACUGCAGCCGCGCGCGCACUGAAUAAGCCGAGCACGCGCCCCGAGGCGAACAAGGUCGCCGGGGCGGCGGCCAAGAGGCCGCAGUAACGCGCGCGCGAGCUGCGAAAAACUCUACGUGCUCGG',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-63.9'], dtype=object), 21)
+('Time = ', 225.18551588058472, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['GGAAAUUACCCGCUCGCUGGGGGAUUAGAGAGAGCGGACGGGGGGGCUGGCACCAAACCAGGUGCGCCCCCGACGCUAAAGAGCGUCAAAACACCCCGGCGAAGCGGGAAGAAAACUAACCGUCCGCG',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-59.8'], dtype=object), 26)
+('Time = ', 258.30644392967224, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAAUAUGCCCCGCCGGGAGUCAAAACAUAAGGGGCGCCCCGAGCCCACCCAGGAAAAACUGGGGGCUCGGCGCCCACAAGGGCGCUACCAAACUUCCGGCCGGGGCAACAGACAAGAGGGCGCCCU',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-59.4'], dtype=object), 7)
+('Time = ', 133.46596693992615, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AUAUUGCACAGCCGGACGCCGGUAAUUUAUAGAGGGCCCGCGGCACGUUCCCGGAUUUGACCGGGCGUGCCCGGGAGUUAUCUCCCGAUUUCUCCGGCGUCCAGGCUGAUACUUAAUUUGCGGGCCCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-58.1'], dtype=object), 19)
+('Time = ', 202.39080095291138, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAGAAUCGCACGCGCGGCGCUAUCAAAAGUCCCCUCACCGGCCGGAAGCACGACAAAACGUGCCCGGCCCCCCCAAUAAUGGGGGCAAAAUGCGCCGCGCAGUGCGAAAAUACAAAGGGUGGGGGG',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-59.4'], dtype=object), 14)
+('Time = ', 157.03077507019043, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['ACGUUCAAGCGACCUCCCCGAUAAAACCAUGGACCGGCGGGCAGUCAUUCGCGAAAUACCUCGCGUGACUGGGGUAGGAAACUGCUCAAAUAGAUCGGGGGGUGUCGCCACUGCAAGAACCCGCCGGG',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-46.5'], dtype=object), 14)
+('Time = ', 164.58710718154907, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAAAACGCGCGAUAGCCUACAAAAAGAAAAACCCCGACGGCGGCUAGGAGCAAAUAAAUGCUCAGCCGCGCGCGGAAAACCGCGCAAAAAAGUAGGCUGUACGCGCAAAAAAAAAAACGUCGGGGG',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-53.1'], dtype=object), 17)
+('Time = ', 196.9691460132599, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['UCAUAAAACGGCGCCCGGGAGCCAAAUGAUAGACCCCCGGCGGCCGCCAGUCGAAAAAAAUCGACGCGGCCAAGCCCACAUGGGCUUAAAAAAGCUCCCGGGACGCCGAAAAGAAAGAAGCCGGGGGG',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-58.1'], dtype=object), 14)
+('Time = ', 163.57898998260498, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AACAAAAAGCUGCGCUUGCGAGUAACCGACAGAGCGGGUGGAGCCGACUAGAACGCACAAGUUCUUCGGCUGCUGCGACCACGUGGCUCAAACCUCGCGAGCAGCAGCGAGAAAAAAAGCCGCCCGCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-45.7'], dtype=object), 16)
+('Time = ', 173.13045597076416, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAACAAAAGCGGACGGCCGCUGAACCCACACCACCACGCGGGCGCCACACCGGCAAACCGGCCGGUGGCGCAGCCGAGAAAUCGGCUAAACGACAGCGGCCGAUCCGCAAUAAAUAAAACCGCGUGGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-58.9'], dtype=object), 14)
+('Time = ', 158.13511490821838, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['AAAAAAAACUGCGGCUCGGCGGCAAAAAAAAAACGGCCACCCGGGGCUAGGCACAAAAAGGUGUCGUCCUGGAGUCGAAAAUGACUCAAAAAACCGCCGGGCACGCGGAAAAAGUAGAAGGUGGCCGA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-46.1'], dtype=object), 23)
+('Time = ', 240.79470801353455, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['ACUAAAAAGGACCCGGAUCGCCACAAAAAUAAACGGCAGGCGGACUUAACCACCAAAACAGGUGGAAGUCCCCGCGGCGAACCGCGGAAAAGAGGCGGUCCGUGGUCCGAAAAUAACAAGCCUGCCGU',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-54.6'], dtype=object), 21)
+('Time = ', 227.5012719631195, 'For method : ', 'F')
+(31, ' loop(s) in total')
+ Starting of evolution 
+(array(['UAGAUACACGGCCCGGCCAAGGAAAAUAAAAAAGCCGCGCCAGACCCAACCGGCACAUAAGCCGGGGGUCUCCGGCGAAAACGCCGGAAAAAGCCUUGGCCGAGGCCGAAAAAACAAAAGGCGCGGCA',
+       '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].',
+       '0', '1.0', '-59.4'], dtype=object), 27)
+('Time = ', 265.1375398635864, 'For method : ', 'F')
+[(['AAAAAAACGUAGGCGGGAGCGCAAAAAAAAAAACCGCCCCGUGCGGGUGAGGCCAAAAAAGGCCUCCCGCACCGCACAAGAGUGCGGAAAAAAGCGCUCCCGACCUACUAAAACAAAUACGGGGCGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-57.4'], 15), (['AGAAAAACCCCACCGCGUGCUGCGAUAACGAAAACGCCCGGCGCGGGUAGAACCACACAAGGUUCCCCGCGGGAGCCCAAAGGCUCCGAAAAACAGCGCGCGAGUGGGAGCAAAGAGUACCGGGCGUC', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-55.9'], 21), (['ACAAAACUCCACGGGAAGCAGCCCAAAAAGAAAGCGGCCCGCCGCGGAUCAGGCAAACAAGCCUGCCGCGGGGGGGAAUACUCCCCCACAAAAGCUGCUUCCACGUGGAUAUACACAGACGGGCCGCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-57.4'], 17), (['UAUAUCAUGCCGCGAGCGCGGGUUAUUAAUAUUGCAGGGGCCCGGCCUUGCCCCUUUUUUGGGGCGGCCGGCGCGCAUUACUGCGCGUUAUUUCCCGCGCUCAGCGGCUUUGUUUAAAUGCCCCUGCU', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-62.2'], 25), (['AAAGGCAAGCGGGACGCGCCCCCAUAAAAAAAAACCCGGGGCAGCGGAAGGCGCAUAAAAGUGCCCCGCUGGCUGCGAAAACGCAGCAAAACAGGGGCGCGUAUCCGCGAAAAGAAAAACCCCGGGUA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-56.5'], 25), (['AAAUUUUAGCCCGGGAGGGCGCAACUUAUUAUUGACGGGAGCGCCACUUCCGAAUAAUUUUUCGGGUGGCGGGCAGCUAAGGCUGCCAAAUAAGCGCCCUCCACGGGCAUCAAAUUAAUCUCCCGUCU', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-60.8'], 19), (['AUAAAAAAGGCCGCGAAGCUGCGAAAUAAUAAACCCCGACAGCUCCGAUACCCGCAAUGACGGGUCGGGGCGGCCACAAAAGUGGCCAAAAAAGCGGCUUCGACGGCCAAAAAAAAAAAUGUCGGGGU', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-55.8'], 23), (['AGGCCACUGCAGCCGCGCGCGCACUGAAUAAGCCGAGCACGCGCCCCGAGGCGAACAAGGUCGCCGGGGCGGCGGCCAAGAGGCCGCAGUAACGCGCGCGCGAGCUGCGAAAAACUCUACGUGCUCGG', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-63.9'], 21), (['GGAAAUUACCCGCUCGCUGGGGGAUUAGAGAGAGCGGACGGGGGGGCUGGCACCAAACCAGGUGCGCCCCCGACGCUAAAGAGCGUCAAAACACCCCGGCGAAGCGGGAAGAAAACUAACCGUCCGCG', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-59.8'], 26), (['AAAAAUAUGCCCCGCCGGGAGUCAAAACAUAAGGGGCGCCCCGAGCCCACCCAGGAAAAACUGGGGGCUCGGCGCCCACAAGGGCGCUACCAAACUUCCGGCCGGGGCAACAGACAAGAGGGCGCCCU', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-59.4'], 7), (['AUAUUGCACAGCCGGACGCCGGUAAUUUAUAGAGGGCCCGCGGCACGUUCCCGGAUUUGACCGGGCGUGCCCGGGAGUUAUCUCCCGAUUUCUCCGGCGUCCAGGCUGAUACUUAAUUUGCGGGCCCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-58.1'], 19), (['AAAAGAAUCGCACGCGCGGCGCUAUCAAAAGUCCCCUCACCGGCCGGAAGCACGACAAAACGUGCCCGGCCCCCCCAAUAAUGGGGGCAAAAUGCGCCGCGCAGUGCGAAAAUACAAAGGGUGGGGGG', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-59.4'], 14), (['ACGUUCAAGCGACCUCCCCGAUAAAACCAUGGACCGGCGGGCAGUCAUUCGCGAAAUACCUCGCGUGACUGGGGUAGGAAACUGCUCAAAUAGAUCGGGGGGUGUCGCCACUGCAAGAACCCGCCGGG', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-46.5'], 14), (['AAAAAAACGCGCGAUAGCCUACAAAAAGAAAAACCCCGACGGCGGCUAGGAGCAAAUAAAUGCUCAGCCGCGCGCGGAAAACCGCGCAAAAAAGUAGGCUGUACGCGCAAAAAAAAAAACGUCGGGGG', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-53.1'], 17), (['UCAUAAAACGGCGCCCGGGAGCCAAAUGAUAGACCCCCGGCGGCCGCCAGUCGAAAAAAAUCGACGCGGCCAAGCCCACAUGGGCUUAAAAAAGCUCCCGGGACGCCGAAAAGAAAGAAGCCGGGGGG', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-58.1'], 14), (['AACAAAAAGCUGCGCUUGCGAGUAACCGACAGAGCGGGUGGAGCCGACUAGAACGCACAAGUUCUUCGGCUGCUGCGACCACGUGGCUCAAACCUCGCGAGCAGCAGCGAGAAAAAAAGCCGCCCGCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-45.7'], 16), (['AAACAAAAGCGGACGGCCGCUGAACCCACACCACCACGCGGGCGCCACACCGGCAAACCGGCCGGUGGCGCAGCCGAGAAAUCGGCUAAACGACAGCGGCCGAUCCGCAAUAAAUAAAACCGCGUGGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-58.9'], 14), (['AAAAAAAACUGCGGCUCGGCGGCAAAAAAAAAACGGCCACCCGGGGCUAGGCACAAAAAGGUGUCGUCCUGGAGUCGAAAAUGACUCAAAAAACCGCCGGGCACGCGGAAAAAGUAGAAGGUGGCCGA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-46.1'], 23), (['ACUAAAAAGGACCCGGAUCGCCACAAAAAUAAACGGCAGGCGGACUUAACCACCAAAACAGGUGGAAGUCCCCGCGGCGAACCGCGGAAAAGAGGCGGUCCGUGGUCCGAAAAUAACAAGCCUGCCGU', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-54.6'], 21), (['UAGAUACACGGCCCGGCCAAGGAAAAUAAAAAAGCCGCGCCAGACCCAACCGGCACAUAAGCCGGGGGUCUCCGGCGAAAACGCCGGAAAAAGCCUUGGCCGAGGCCGAAAAAACAAAAGGCGCGGCA', '........((((((((((((((...........[[[[[[[[((((((..(((((......)))))))))))((((((....))))))......))))))))).)))))...........]]]]]]]].', '0', '1.0', '-59.4'], 27)]
+Error while cleaning the tmp_new directory files
