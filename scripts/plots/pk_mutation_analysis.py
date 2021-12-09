@@ -172,7 +172,7 @@ def main() :
     plt.xlabel(r"$\mu*L$", fontsize=12)
     plt.hist(bins, color="darkorange", bins=50, alpha=0.8)
 
-    ax2 = plt.axes([0.4, 0.35, 0.5, 0.6])
+    ax2 = plt.axes([0.4, 0.45, 0.5, 0.5])
     ax2.spines["right"].set_visible(False)
     ax2.spines["top"].set_visible(False)
     #plt.title("Tuning Binomial mutation rate ($\mu$)")
@@ -236,7 +236,7 @@ def main() :
     ax3 = ax2.twinx()
     ax3.spines["top"].set_visible(False)
     ax3.set_ylabel(r'Success rate (%)',fontsize=12)
-    ax3.set_xlabel(r'Zipf exponent ($c$)',fontsize=12)
+    ax2.set_xlabel(r'Zipf exponent ($c$)',fontsize=12)
     ax3.plot([np.round(val,1) for val in np.arange(0.2,7.2,0.2)],[len(dt)-dt.count(200) for dt in plot_dataLv], color='deepskyblue', label="Success rate")
     plt.legend(loc='upper right', bbox_to_anchor=(1, 0.5))
     plt.savefig("../../images/PseudoBase++/levy_tuning.pdf")

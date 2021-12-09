@@ -28,11 +28,21 @@ def main() :
     print(len(ipknot_df), len(new_data))
     new_dt = pd.DataFrame(new_data, columns=["id","sequence","structure","target", "Length","Hamming distance",'bp_density'
     ,'Mutation mode','Number of generations', "Length group"])
-    op_df = ipknot_df[ipknot_df["Mutation mode"]=='OP']["Generation"].values.reshape(253,20)
-    op_med = [np.median(df) for df in op_df]
+    op_df = new_dt[new_dt["Mutation mode"]=='OP']
+    op_med = {}
 
-    levy_df = ipknot_df[ipknot_df["Mutation mode"]=='Levy']["Generation"].values.reshape(253,20)
-    levy_med = [np.median(df) for df in levy_df]
+
+
+    levy_df = new_dt[new_dt["Mutation mode"]=='Levy']
+    levy_med = {}
+    for key in labels.keys():
+        gens = op_df[op_df["Length group"]==key]["Number of generations"].values
+        print("One point: "+key, np.median(gens))
+
+        op_med[key] = np.median(gens)
+        gens = levy_df[levy_df["Length group"]==key]["Number of generations"].values
+        print("Levy: "+key, np.median(gens))
+        levy_med[key] = np.median(gens)
 
 
     figure = plt.figure(constrained_layout=True, figsize=(9,6))
@@ -72,8 +82,11 @@ def main() :
     plt.savefig('../../images/PseudoBase++/pkbase_ipknotV2.pdf')
     plt.show()
 
-    diff = [op_med[i]-levy_med[i] for i in range(253)]
+    diff = [op_med[k]-levy_med[k] for k in op_med.keys()]
+    print(diff, np.mean(diff))
 
+    diff = [op_med[k]-levy_med[k] for k in op_med.keys()]
+    print(diff, np.median(diff))
     figure = plt.figure(constrained_layout=True, figsize=(7,5))
     gs = figure.add_gridspec(nrows=1, ncols=2, left=0.05, right=0.48, wspace=0.05)
     ax = figure.add_subplot(gs[0,0])

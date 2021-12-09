@@ -58,7 +58,7 @@ def init(pop_size, landscape, constraints=None, npseed=None) :
                 arn[constraints['pos']] = constraints['sequence']
         pop.append(''.join(arn))
         i = len(pop)
-    
+
     return pop
 
 
@@ -266,7 +266,7 @@ def parseArguments() :
     parser.add_argument('-msf', type=int,default=10, help="maximum sequence found")
     parser.add_argument('-sm', type=str,default ='NED',help="Selection method: the only possible values are {F,NED}")
     parser.add_argument('-bp', type=str, default='GC2',help="Distribution of nucleotide and base pairs. Possible values are {GC,GC1,GC2,GC3,GC4,ALL}, please check the online doc for more details")
-    parser.add_argument('--C', type=str, default=None,help="sequence constraints: the lenght of the sequence should be the same as the target. Example: target=((....)), C=GNNNANNC")
+    parser.add_argument('--Cs', type=str, default=None,help="sequence constraints: the lenght of the sequence should be the same as the target. Example: target=((....)), C=GNNNANNC")
     parser.add_argument('-EDg', type=int, default=0, help="number of generation for Ensemble defect refinement")
     parser.add_argument('-c', type=float,default=None, help="Exponent of the zipf's distribution" )
     parser.add_argument('--hairpin_boosting', action="store_true", default=False, help="Boost the hairpin loops. When false no hairpins boosting" )
