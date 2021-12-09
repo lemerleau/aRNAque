@@ -290,7 +290,7 @@ def main() :
     if args.target is not None :
         target = args.target
 
-    main_sequence = args.C
+    main_sequence = args.Cs
     constraints = {}
     if main_sequence !=None :
         if len(main_sequence) == len(target) :
