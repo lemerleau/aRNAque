@@ -98,8 +98,8 @@ def main() :
     ipknot_df = pd.read_csv("../../data/PseudoBase++/benchmark_result_ipknot.csv")
 
     ###################################Ploting code#############################################
-    figure = plt.figure(constrained_layout=True, figsize=(9,6))
-    gs = figure.add_gridspec(nrows=2, ncols=1, left=0.05, right=0.48, wspace=0.05)
+    figure = plt.figure(constrained_layout=True, figsize=(12,6))
+    gs = figure.add_gridspec(nrows=2, ncols=2, left=0.05, right=0.48, wspace=0.05)
     ax = figure.add_subplot(gs[0,0])
 
     ax.spines["right"].set_visible(False)
@@ -124,8 +124,9 @@ def main() :
 
 
 
-    plt.title("(A)", fontsize=15)
+    plt.title("(A) IPknot", fontsize=15)
     sb.boxplot(ax=ax, y='BP distance', x='PK-type', hue='Tools', data=ipknot_df)
+    plt.legend([],[], frameon=False)
     ax2 = figure.add_subplot(gs[1,0])
     ax2.spines["right"].set_visible(False)
     ax2.spines["top"].set_visible(False)
@@ -133,11 +134,12 @@ def main() :
     ax2.set_ylabel('Mean BP distance',  fontsize=12)
     plt.xticks(fontsize=12)
     plt.yticks(fontsize=12)
-    plt.title("(B)", fontsize=15)
+    plt.title("(C) IPknot", fontsize=15)
+    #ax2.set(yscale="log")
     ax2.scatter(length_plots, [np.mean(dt) for dt in data_ant], label='antaRNA')
     ax2.scatter(length_plots, [np.mean(dt) for dt in data_levy], label='aRNAque')
-    plt.savefig('../../images/PseudoBase++/pk_ipknotaRNAqueVSantaRNA_2.pdf')
-    plt.show()
+    #plt.savefig('../../images/PseudoBase++/pk_ipknotaRNAqueVSantaRNA_2.pdf')
+    #plt.show()
 
     ##############################Loading and cleaning data for pkbase benchmark with hotknots##########################
 
@@ -158,9 +160,9 @@ def main() :
             print(lengths[i])
         data_levy += [levy_row]
 
-    figure = plt.figure(constrained_layout=True, figsize=(9,6))
-    gs = figure.add_gridspec(nrows=2, ncols=1, left=0.05, right=0.48, wspace=0.05)
-    ax = figure.add_subplot(gs[0,0])
+    #figure = plt.figure(constrained_layout=True, figsize=(9,6))
+    #gs = figure.add_gridspec(nrows=2, ncols=1, left=0.05, right=0.48, wspace=0.05)
+    ax = figure.add_subplot(gs[0,1])
 
     ax.spines["right"].set_visible(False)
     ax.spines["top"].set_visible(False)
@@ -168,11 +170,11 @@ def main() :
     ax.set_xlabel('PK-type', fontsize=12)
     plt.xticks(fontsize=12)
     plt.yticks(fontsize=12)
-    plt.title("(A)", fontsize=15)
+    plt.title("(B) HotKnots", fontsize=15)
 
     #plt.title("Distribution BP distance to the target (20 runs peer target)")
     sb.boxplot(ax=ax, y='BP distance', x='PK-type', hue='Tools', data=hotknot_df)
-    ax2 = figure.add_subplot(gs[1,0])
+    ax2 = figure.add_subplot(gs[1,1])
     ax2.spines["right"].set_visible(False)
     ax2.spines["top"].set_visible(False)
     ax2.set_xlabel(r'Length ($L$)', fontsize=12)
@@ -180,11 +182,12 @@ def main() :
     print(len(data_ant), len(data_levy))
     plt.xticks(fontsize=12)
     plt.yticks(fontsize=12)
-    plt.title("(B)", fontsize=15)
+    plt.title("(D) HotKnots", fontsize=15)
+    #ax2.set(yscale="log")
     ax2.scatter(length_plots, [np.mean(dt) for dt in data_ant],  label='antaRNA')
     ax2.scatter(length_plots, [np.mean(dt) for dt in data_levy], label='aRNAque')
     #plt.legend()
-    plt.savefig('../../images/PseudoBase++/pk_hotknotaRNAqueVSantaRNA_2.pdf')
+    plt.savefig('../../images/PseudoBase++/pk_hotknot_IPknot_aRNAqueVSantaRNA_2.pdf')
     plt.show()
 
 

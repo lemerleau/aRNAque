@@ -31,7 +31,7 @@ def entropy_seq(sequences) :
 
 
 def main() :
-    
+
     with open("../../data/diversity/distinct_stuctures.json") as file_ :
         distinct_strucs = json.load(file_)
         file_.close()
@@ -61,15 +61,15 @@ def main() :
     ax.spines["top"].set_visible(False)
 
     plt.ylabel(r"Mean entropy ($<H_t>$)", fontsize=12)
-    plt.xlabel(r'Generation ($t$)',fontsize=12)
+    plt.xlabel(r'Generation time ($t$)',fontsize=12)
 
     for f in range(10):
         if f == 0 :
             plt.plot(diversities['op'][str(f)] , color="darkorange", label="One point mutation")
-            plt.plot(diversities['levy'][str(f)] , color="deepskyblue", label="Levy mutation")
+            plt.plot(diversities['levy'][str(f)] , color="deepskyblue", label="Lévy mutation")
         plt.plot(diversities['op'][str(f)] , color="darkorange")
         plt.plot(diversities['levy'][str(f)] , color="deepskyblue")
-    #plt.legend()
+    plt.legend()
 
     ax = figure.add_subplot(gs[0,1])
     plt.title("(B)", fontsize=15)
@@ -88,7 +88,7 @@ def main() :
     #ax.set(xscale='log')
     ax.set_ylabel(r"Mean entropy ($<H_t>$)", fontsize=12)
     ax.set_xlabel(r"Max fitness ($F_t$)", fontsize=12)
-    plt.legend()
+    #plt.legend()
 
 
 
@@ -109,7 +109,7 @@ def main() :
 
     #plt.legend()
     plt.ylabel("Max fitness", fontsize=12 )
-    plt.xlabel('Time(t)',fontsize=12)
+    plt.xlabel(r'Generation time($t$)',fontsize=12)
 
     ax2 = plt.axes([0.25, 0.13, 0.2, 0.2])
     ax2.spines["right"].set_visible(False)

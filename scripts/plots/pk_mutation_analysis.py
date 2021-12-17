@@ -100,6 +100,7 @@ def main() :
 
     binomial = np.array(binomial)
     levy = np.array(levy)
+    """
     figure = plt.figure(constrained_layout=True, figsize=(8,4))
     gs = figure.add_gridspec(nrows=1, ncols=2, left=0.05, right=0.48, wspace=0.05)
     ax = figure.add_subplot(gs[0,0])
@@ -139,7 +140,7 @@ def main() :
     plt.hist(mu_starts, color="darkorange", bins=10, alpha=0.8)
     plt.savefig("../../images/PseudoBase++/LevyVSBino_mutation_rate.pdf")
     plt.show()
-
+    """
 
     pk_data_op = []
     with open('../../data/PseudoBase++/pk_ipnot_mu.out') as f :
@@ -162,31 +163,32 @@ def main() :
         if len(l)<20 :
             continue
         plot_dataOp.append(l)
-    figure = plt.figure(constrained_layout=True, figsize=(8,4))
-    gs = figure.add_gridspec(nrows=1, ncols=1, left=0.05, right=0.48, wspace=0.05)
+    figure = plt.figure(constrained_layout=True, figsize=(12,4))
+    gs = figure.add_gridspec(nrows=1, ncols=2, left=0.05, right=0.48, wspace=0.05)
 
-    ax = figure.add_subplot(gs[0,0])
+    ax = figure.add_subplot(gs[0,1])
+    ax.set_title("(B): Binamial mutation", fontsize=12)
     ax.spines["right"].set_visible(False)
     ax.spines["top"].set_visible(False)
     #plt.title("(B): Binomial mutation")
     plt.xlabel(r"$\mu*L$", fontsize=12)
     plt.hist(bins, color="darkorange", bins=50, alpha=0.8)
 
-    ax2 = plt.axes([0.4, 0.45, 0.5, 0.5])
+    ax2 = plt.axes([0.65, 0.5, 0.3, 0.4])
     ax2.spines["right"].set_visible(False)
     ax2.spines["top"].set_visible(False)
     #plt.title("Tuning Binomial mutation rate ($\mu$)")
-    ax2.set_ylabel('Median # of generations',fontsize=12)
-    ax2.set_xlabel(r'Mutation rate ($\mu$)',fontsize=12)
-    plt.plot([np.round(val,2) for val in np.arange(0.005,0.67, 0.005)],[np.median(dt) for dt in plot_dataOp],'--',color="darkorange", label='# of generations')
+    ax2.set_ylabel('Median # of gens',fontsize=10)
+    ax2.set_xlabel(r'Mutation rate ($\mu$)',fontsize=10)
+    plt.plot([np.round(val,2) for val in np.arange(0.005,0.67, 0.005)],[np.median(dt) for dt in plot_dataOp],'--',color="darkorange", label='# of gens')
     plt.legend(loc='lower right',bbox_to_anchor=(1, 0.5))
     ax3 = ax2.twinx()
     ax3.spines["top"].set_visible(False)
-    ax3.set_ylabel(r'Success rate (%)',fontsize=12)
+    ax3.set_ylabel(r'Success rate (%)',fontsize=10)
     ax3.plot([np.round(val,2) for val in np.arange(0.005,0.67, 0.005)],[(len(dt)-dt.count(200))/0.5 for dt in plot_dataOp], color="darkorange", label="Success rate")
     plt.legend(loc='upper right', bbox_to_anchor=(1, 0.5))
-    plt.savefig("../../images/PseudoBase++/bino_tuning.pdf")
-    plt.show()
+    #plt.savefig("../../images/PseudoBase++/bino_tuning.pdf")
+    #plt.show()
 
     pk_data_levy = []
     with open('../../data/PseudoBase++/pk_ipnot_c.out') as f :
@@ -215,31 +217,32 @@ def main() :
         sequence_dt.append(s)
 
 
-    figure = plt.figure(constrained_layout=True, figsize=(8,4))
-    gs = figure.add_gridspec(nrows=1, ncols=1, left=0.05, right=0.48, wspace=0.05)
+    #figure = plt.figure(constrained_layout=True, figsize=(8,4))
+    #gs = figure.add_gridspec(nrows=1, ncols=1, left=0.05, right=0.48, wspace=0.05)
 
     ax = figure.add_subplot(gs[0,0])
+    ax.set_title("(A): Lévy mutation", fontsize=12)
     ax.spines["right"].set_visible(False)
     ax.spines["top"].set_visible(False)
     #plt.title("(A): Levy mutation",fontsize=12)
     plt.xlabel(r"$c*$", fontsize=12)
     ax.hist(c_starts, bins=20, label=r"$c*$", alpha=0.8, color="deepskyblue")
 
-    ax2 = plt.axes([0.3, 0.3, 0.5, 0.6])
+    ax2 = plt.axes([0.15, 0.5, 0.3, 0.4])
     ax2.spines["right"].set_visible(False)
     ax2.spines["top"].set_visible(False)
     #plt.title("Tuning Binomial mutation rate ($\mu$)")
     #plt.title("Tuning Zipf's exponent ($s$)")
-    ax2.set_ylabel('Median # of generations',fontsize=12)
-    plt.plot([np.round(val,1) for val in np.arange(0.2,7.2,0.2)],[np.median(dt) for dt in plot_dataLv],'--', color='deepskyblue', label='# of generations')
+    ax2.set_ylabel('Median # of gens',fontsize=10)
+    plt.plot([np.round(val,1) for val in np.arange(0.2,7.2,0.2)],[np.median(dt) for dt in plot_dataLv],'--', color='deepskyblue', label='# of gens')
     plt.legend(loc='lower right',bbox_to_anchor=(1, 0.5))
     ax3 = ax2.twinx()
     ax3.spines["top"].set_visible(False)
-    ax3.set_ylabel(r'Success rate (%)',fontsize=12)
-    ax2.set_xlabel(r'Zipf exponent ($c$)',fontsize=12)
+    ax3.set_ylabel(r'Success rate (%)',fontsize=10)
+    ax2.set_xlabel(r'Zipf exponent ($c$)',fontsize=10)
     ax3.plot([np.round(val,1) for val in np.arange(0.2,7.2,0.2)],[len(dt)-dt.count(200) for dt in plot_dataLv], color='deepskyblue', label="Success rate")
     plt.legend(loc='upper right', bbox_to_anchor=(1, 0.5))
-    plt.savefig("../../images/PseudoBase++/levy_tuning.pdf")
+    plt.savefig("../../images/PseudoBase++/mut_tuning.pdf")
     plt.show()
 
 if __name__ == "__main__" :
