@@ -43,13 +43,65 @@ The installation was tested on the following operating systems:
 * MacOS Mojave
 * Debian Xfce 4.12
 
+# For the pseudoknotted RNA targets
+## RNA folding programs for pseudoknotted targets:
+  - IPknot ()
+  - HotKnots ()
+After installing the folding tools, make sure you have set an environmental variable for each tool HOTKNOTS_ROOT : for hotknots and IPKNOT for IPknot.
+
 # How to run the program.
 First, please clone the git repo using the command:
 
       $ git clone [repo link](#)
+      $ cd aRNAque
+      $ make requirements //In case the dependencies are not yet installed.  
       $ cd aRNAque/src/
       $ python aRNAque.py --target="((....)).((....)).((.....)).((....))"
 
 For more details about the parameters please use:
+```bash
+❯ python aRNAque.py --help
+usage: aRNAque.py [-h] [--target TARGET] [--job JOB] [-g G] [-n N] [-msf MSF]
+                  [-sm SM] [-bp BP] [--Cs CS] [-EDg EDG] [-c C]
+                  [--hairpin_boosting] [--folding_tool FOLDING_TOOL] [--log]
+                  [--verbose] [--turner1999] [-seed SEED]
 
+optional arguments:
+  -h, --help            show this help message and exit
+  --target TARGET, -t TARGET
+                        Target RNA secondary structure in dot bracket
+                        representation
+  --job JOB, -j JOB     Number of EA runs (default: 1)
+  -g G                  Number of generation (default: 150)
+  -n N                  Population Size (default: 100)
+  -msf MSF              maximum sequence found (default: 10)
+  -sm SM                Selection method: the only possible values are {F,NED}
+                        (default: NED)
+  -bp BP                Distribution of nucleotide and base pairs. Possible
+                        values are {GC,GC1,GC2,GC3,GC4,ALL}, please check the
+                        online doc for more details (default: GC2)
+  --Cs CS               sequence constraints: the lenght of the sequence
+                        should be the same as the target. Example:
+                        target=((....)), C=GNNNANNC (default: None)
+  -EDg EDG              number of generation for Ensemble defect refinement
+                        (default: 0)
+  -c C                  Exponent of the zipf's distribution (default: None)
+  --hairpin_boosting    Boost the hairpin loops. When false no hairpins
+                        boosting (default: False)
+  --folding_tool FOLDING_TOOL, -ft FOLDING_TOOL
+                        folding tool to be used: v for RNAfold from viennarna,
+                        l for LinearFold (default: v)
+  --log                 Store the population for each instance of the inverse
+                        folding in a folder (default: False)
+  --verbose             Print the mean fitness evolution on a standard output
+                        (default: False)
+  --turner1999          Use the old energy parameters (default: False)
+  -seed SEED            Seed for the initial population (default: None)
+```
       $ python aRNAque.py --help
+
+# For the pseudoknotted RNA targets
+## thirdpart programs:
+  - IPknot (for the folding of sequences)
+  - HotKnots ()
+After installing the folding tools make sure you have set an environmental variable for each tool.

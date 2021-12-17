@@ -6,7 +6,7 @@
 
     @author: Nono Saha Cyrille Merleau, email: nonosaha@mis.mpg.de/csaha@aims.edu.gh
 """
-
+#!/usr/bin/env python3
 #Importting necessary python libraries
 from pandas import DataFrame
 from numpy import where, array, random
