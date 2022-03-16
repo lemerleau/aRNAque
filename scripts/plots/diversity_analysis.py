@@ -55,8 +55,8 @@ def main() :
 
     figure = plt.figure(constrained_layout=True, figsize=(9,6))
     gs = figure.add_gridspec(nrows=2, ncols=2, left=0.05, right=0.48, wspace=0.05)
-    ax = figure.add_subplot(gs[0,0])
-    plt.title("(A)", fontsize=15)
+    ax = figure.add_subplot(gs[1,0])
+    plt.title("(C)", fontsize=15)
     ax.spines["right"].set_visible(False)
     ax.spines["top"].set_visible(False)
 
@@ -69,10 +69,10 @@ def main() :
             plt.plot(diversities['levy'][str(f)] , color="deepskyblue", label="Lévy mutation")
         plt.plot(diversities['op'][str(f)] , color="darkorange")
         plt.plot(diversities['levy'][str(f)] , color="deepskyblue")
-    plt.legend()
 
-    ax = figure.add_subplot(gs[0,1])
-    plt.title("(B)", fontsize=15)
+
+    ax = figure.add_subplot(gs[1,1])
+    plt.title("(D)", fontsize=15)
     ax.spines["right"].set_visible(False)
     ax.spines["top"].set_visible(False)
 
@@ -92,11 +92,11 @@ def main() :
 
 
 
-    ax = figure.add_subplot(gs[1,0])
+    ax = figure.add_subplot(gs[0,0])
 
     ax.spines["right"].set_visible(False)
     ax.spines["top"].set_visible(False)
-    plt.title("(C)", fontsize=15)
+    plt.title("(A)", fontsize=15)
     for f in range(10) :
 
         if f == 0 :
@@ -111,7 +111,7 @@ def main() :
     plt.ylabel("Max fitness", fontsize=12 )
     plt.xlabel(r'Generation time($t$)',fontsize=12)
 
-    ax2 = plt.axes([0.25, 0.13, 0.2, 0.2])
+    ax2 = plt.axes([0.25, 0.65, 0.2, 0.2])
     ax2.spines["right"].set_visible(False)
     ax2.spines["top"].set_visible(False)
     for f in range(10) :
@@ -125,20 +125,20 @@ def main() :
         plt.plot(mean_fitness['levy'][str(f)], color='deepskyblue')
 
 
-    ax = figure.add_subplot(gs[1,1])
+    ax = figure.add_subplot(gs[0,1])
     ax.spines["right"].set_visible(False)
     ax.spines["top"].set_visible(False)
-    plt.title("(D)", fontsize=15)
+    plt.title("(B)", fontsize=15)
     for f in range(10) :
 
         if f== 1 :
-            plt.plot(distinct_seq["op"][str(f)],distinct_strucs['op'][str(f)], color='darkorange', label="One point mutation")
-            plt.plot(distinct_seq["levy"][str(f)],distinct_strucs['levy'][str(f)], color='deepskyblue', label="Levy mutation")
+            plt.plot(distinct_seq["op"][str(f)],distinct_strucs['op'][str(f)], color='darkorange', label="Local mutation")
+            plt.plot(distinct_seq["levy"][str(f)],distinct_strucs['levy'][str(f)], color='deepskyblue', label="Lévy mutation")
 
         plt.plot(distinct_seq["op"][str(f)],distinct_strucs['op'][str(f)], color='darkorange')
         plt.plot(distinct_seq["levy"][str(f)],distinct_strucs['levy'][str(f)], color='deepskyblue')
 
-
+    plt.legend()
     plt.xlabel(r"Distinct sequences",fontsize=12)
     plt.ylabel(r"Distinct structures", fontsize=12)
     plt.savefig("../../images/diversity.pdf")

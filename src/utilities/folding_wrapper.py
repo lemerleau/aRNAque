@@ -4,12 +4,15 @@
 
 import os
 from numpy import array
-from RNA import fold
+from RNA import fold, read_parameter_file
 from uuid import uuid4
 
 ROOT_LOG_FOLDER = os.getcwd()+"../../data/Log"
 
 def ppRNAfold(listOfSeqs, nrj_param) :
+    if (nrj_param) : 
+       read_parameter_file("../params/energy/rna_turner1999.par")
+
     rst = array ([list(fold(seq)) for seq in listOfSeqs])
     return rst[:,0].tolist(), array(rst[:,1],dtype=float).tolist()
 

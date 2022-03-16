@@ -61,17 +61,25 @@ def main() :
     pkbp_ds = list(pk_ds.values())
 
     pk_ds_Y = [0., 0.]
+    low_length = []
+    high_length = []
 
     for key in pk_ds.keys() :
 
         if pk_ds[key] <= 0.5 :
             pk_ds_Y[0] += 1
+            low_length += [len(key)]
         else :
             pk_ds_Y[-1] += 1
+            high_length += [len(key)]
 
     eterna_1999GC2 = pd.read_csv('../../data/Eterna100/V1/eterna1999_zipf_GC2.csv').values[:,-1].reshape(100,5)
     targets = []
 
+    print("PK low dens. mean length = ", np.median(low_length), len(low_length))
+    print("PK high dens. mean length = ", np.median(high_length), len(high_length))
+    plt.boxplot([low_length, high_length], labels=["Low", "High"])
+    plt.show()
     with open("../../data/Eterna100/V1/eterna_1999_zipfGC2.log") as file_ :
         lines = file_.readlines()
 
@@ -110,12 +118,16 @@ def main() :
 
             eterna199_OP_ds["High"] += eterna_1999GC2_OP[i].tolist()
 
+    print("Mean length of low dens. bp: ", np.median([len(tg) for tg in eterna_ds["low"]]))
+    print("Mean length of High dens. bp: ", np.median([len(tg) for tg in eterna_ds["high"]]))
+    plt.boxplot([[len(tg) for tg in eterna_ds["low"]], [len(tg) for tg in eterna_ds["high"]]], labels=["low", "high"])
+    plt.show()
     for key in eterna199_OP_ds.keys() :
         for val in eterna199_OP_ds[key] :
             plot_df += [[key, val+1,"OP"]]
-    df_plot = pd.DataFrame(plot_df, columns=['Base Pair density', r"Generation ($t$)", "Mutation type"])
 
-    
+
+
     figure = plt.figure(constrained_layout=True, figsize=(10,4))
     gs = figure.add_gridspec(nrows=1, ncols=2, left=0.05, right=0.48, wspace=0.05)
     ax = figure.add_subplot(gs[0,0])
@@ -124,15 +136,17 @@ def main() :
 
     plt.xticks(fontsize=12)
     plt.yticks(fontsize=12)
-    ax.set_xlabel("Base Pair density", fontsize=12)
+    ax.set_xlabel("Base pair density", fontsize=12)
     ax.set_ylabel(r"Generation ($t$)", fontsize=12)
     ax.set(yscale="log")
     plt.title("(A)", fontsize=15)
-    sb.boxplot(data=df_plot, x="Base Pair density", y=r"Generation ($t$)", hue="Mutation type",ax=ax, palette={
+    sb_bx = sb.boxplot(data=df_plot, x="Base pair density", y=r"Generation ($t$)", hue="Mutation type",ax=ax, palette={
         "Levy": "deepskyblue",
         "OP": "darkorange"
     })
-    plt.legend(loc="upper left")
+    handles, _ = sb_bx.get_legend_handles_labels()          # Get the artists.
+    sb_bx.legend(handles, ["Lévy mutation", "Local mutation"], loc="upper left") #
+    #plt.legend(loc="upper left")
     ax = figure.add_subplot(gs[0,1])
     ax.spines["right"].set_visible(False)
     ax.spines["top"].set_visible(False)

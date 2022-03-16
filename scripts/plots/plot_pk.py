@@ -13,7 +13,7 @@ def main() :
     ipknot_df = pd.read_csv("../../data/PseudoBase++/result_ipknot.csv")
     new_data = []
     s = 20
-    labels= { "["+str(t)+ "-" +str(t+s)+"]" : (t, t+s, []) for t in range(min(ipknot_df['Length'].values),max(ipknot_df['Length'].values),s)}
+    labels= { str(t)+ " - " +str(t+s) : (t, t+s, []) for t in range(min(ipknot_df['Length'].values),max(ipknot_df['Length'].values),s)}
 
     print(labels)
 
@@ -64,20 +64,23 @@ def main() :
     })
     sb_bx.set(xticklabels=[])
     sb_bx.set(xlabel=None)
+    handles, _ = sb_bx.get_legend_handles_labels()          # Get the artists.
+    sb_bx.legend(handles, ["Lévy mutation", "Local mutation"], loc="best") # Associate manually the artists to a label.
 
 
     ax = figure.add_subplot(gs[1,0])
     ax.spines["right"].set_visible(False)
     ax.spines["top"].set_visible(False)
-    plt.xticks(rotation=90)
+    #plt.xticks(rotation=90)
     plt.title("(B)", fontsize=15)
     ax.set_ylabel('Hamming distance', fontsize=12)
     ax.set_xlabel('Length group', fontsize=12)
     ax.set(yscale="log")
-    sb.boxplot(ax=ax, y='Number of generations', x='Length group', hue='Mutation mode', data=new_dt,palette={
+    sb_ax = sb.boxplot(ax=ax, y='Number of generations', x='Length group', hue='Mutation mode', data=new_dt,palette={
     "Levy": "deepskyblue",
     "OP": "darkorange"
     })
+
     plt.legend([],[], frameon=False)
     plt.savefig('../../images/PseudoBase++/pkbase_ipknotV2.pdf')
     plt.show()
