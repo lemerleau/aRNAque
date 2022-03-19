@@ -38,7 +38,6 @@ The installation was tested on the following operating systems:
 * Debian Xfce 4.12
 
 # For the pseudoknotted RNA targets
-## RNA folding programs for pseudoknotted targets:
   - IPknot: the version we used in this work is the 0.0.5 and it can be downloaded to in the official website. We can also share with you on request the copy we have. 
   - HotKnots: the patched version of hotknots we used for our benchmark result can be found in the [thirdparty folder](thirdparty/Hotknots_v2.0_patched.zip). 
 After installing the folding tools, make sure you have set an environmental variable for each tool to the bin decrectories. HOTKNOTS_ROOT for hotknots should be set to <path to hotknots>/bin  and IPKNOT for IPknot should be set to <path to the ipknot>/build.
