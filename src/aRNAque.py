@@ -21,6 +21,7 @@ from utilities.utility import (get_bp_position, getHairpinCoord, ppeval, ppfold,
 from multiprocess import Pool, cpu_count
 from json import load
 from datetime import datetime
+from shutil import rmtree
 
 #GLOBAL Variables
 base_paire = ["GC","CG","AU","UA", "GU", "UG"]
@@ -265,12 +266,12 @@ def parseArguments() :
     parser.add_argument('-n', type=int,default=100, help="Population Size")
     parser.add_argument('-msf', type=int,default=10, help="maximum sequence found")
     parser.add_argument('-sm', type=str,default ='NED',help="Selection method: the only possible values are {F,NED}")
-    parser.add_argument('-bp', type=str, default='GC2',help="Distribution of nucleotide and base pairs. Possible values are {GC,GC1,GC2,GC3,GC4,ALL}, please check the online doc for more details")
+    parser.add_argument('-bp', type=str, default='GC2',help="Distribution of nucleotide and base pairs. Possible values are {GC,GC1,GC2,GC3,GC4,GC25, GC50, GC75,ALL}, please check the online doc for more details")
     parser.add_argument('--Cs', type=str, default=None,help="sequence constraints: the lenght of the sequence should be the same as the target. Example: target=((....)), C=GNNNANNC")
     parser.add_argument('-EDg', type=int, default=0, help="number of generation for Ensemble defect refinement")
     parser.add_argument('-c', type=float,default=None, help="Exponent of the zipf's distribution" )
     parser.add_argument('--hairpin_boosting', action="store_true", default=False, help="Boost the hairpin loops. When false no hairpins boosting" )
-    parser.add_argument('--folding_tool','-ft',type=str,default='v', help="folding tool to be used: v for RNAfold from viennarna, l for LinearFold" )
+    parser.add_argument('--folding_tool','-ft',type=str,default='v', help="folding tool to be used: v for RNAfold from viennarna, ip for IPknot and hk for Hotknots" )
     parser.add_argument('--log', action="store_true", default=False, help="Store the population for each instance of the inverse folding in a folder" )
     parser.add_argument('--verbose', action="store_true", default=False, help="Print the mean fitness evolution on a standard output " )
     parser.add_argument('--turner1999', action="store_true", default=False, help="Use the old energy parameters" )
@@ -425,7 +426,7 @@ def main() :
     print (result)
 
     try :
-        rmdir(ROOT_LOG_FOLDER+'/tmp')
+        rmtree(ROOT_LOG_FOLDER+'/tmp', ignore_errors=True)
     except OSError as e:
         print("Error while cleaning the tmp directory files", e)
 
