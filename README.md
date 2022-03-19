@@ -1,11 +1,7 @@
 # aRNAque (simple but efficient): A simple evolutionary program for and efficient RNA design.
 <!--(@Author: [Nono Saha Cyrille Merleau](#) and [Matteo Smerlak](#) )-->
 
-For a given target structure in a dot-bracket representation, the tool allows to generate good quality (low ED and MFE) RNA sequences with the corresponding strucure close to the input target. The method relies on local mutations of nucleotide and base pairs independently with respect to some probabilities: P_N and P_C.
-
-![](images/mutation_example.png)
-
-***Figure 1:** Mutation step illustration. (a) is a given target structure and (b) is a random compatible sequence from a population of RNA sequences. (c) is the mutated sequence where the non-base pair positions (in black color) are mutated independently of the base pair positions. One non-base pair position (3) and two base pair positions {(2,7);(11,16)} are mutated.*
+For a given target structure in a dot-bracket representation, the tool allows to generate good quality (low ED and MFE) RNA sequences with the corresponding strucure close to the input target. The method relies on local mutations of nucleotide and base pairs independently with respect to some probabilities: P_N and P_C. More details about the choice of P_N and P_C is provide the SI of our paper.
 
 The repo is organised as follows:
 - [data](data/): The clean data used to produce the different plots presented in our paper.  The cleaned data are obtained by cleaning up the data generated from out file. for more details please refer to the python notebook [here](notebook/clean_data.ipynb)
@@ -13,10 +9,8 @@ The repo is organised as follows:
 - [images](images/): The plots (in pdf) used in the paper and the Python notebook code is in: [notebook/plots.ipynb](notebook/plots.ipynb).
 - [src](src/): The source codes organized in three main parts:
 
-    - [utility.py](src/utility.py): set of basic python functions usefull for our EA implementation.
-
-    - [Landscape.py](src/Landscape.py): python class containing the information about the landscape to optimise.
-
+    - [Utilities](src/utilities/): set of basic python functions usefull for our EA implementation and the script implementing the folding tool wrappers.
+    
     - [aRNAque.py](src/aRNAque.py): it contains the EA implementation, the initialization, mutation, selection and EA functions.
 
 # Requirements
@@ -45,9 +39,9 @@ The installation was tested on the following operating systems:
 
 # For the pseudoknotted RNA targets
 ## RNA folding programs for pseudoknotted targets:
-  - IPknot ()
-  - HotKnots ()
-After installing the folding tools, make sure you have set an environmental variable for each tool HOTKNOTS_ROOT : for hotknots and IPKNOT for IPknot.
+  - IPknot: the version we used in this work is the 0.0.5 and it can be downloaded to in the official website. We can also share with you on request the copy we have. 
+  - HotKnots: the patched version of hotknots we used for our benchmark result can be found in the [thirdparty folder](thirdparty/Hotknots_v2.0_patched.zip). 
+After installing the folding tools, make sure you have set an environmental variable for each tool to the bin decrectories. HOTKNOTS_ROOT for hotknots should be set to <path to hotknots>/bin  and IPKNOT for IPknot should be set to <path to the ipknot>/build.
 
 # How to run the program.
 First, please clone the git repo using the command:
@@ -78,8 +72,9 @@ optional arguments:
   -sm SM                Selection method: the only possible values are {F,NED}
                         (default: NED)
   -bp BP                Distribution of nucleotide and base pairs. Possible
-                        values are {GC,GC1,GC2,GC3,GC4,ALL}, please check the
-                        online doc for more details (default: GC2)
+                        values are {GC,GC1,GC2,GC3,GC4,GC25, GC50, GC75,ALL},
+                        please check the online doc for more details (default:
+                        GC2)
   --Cs CS               sequence constraints: the lenght of the sequence
                         should be the same as the target. Example:
                         target=((....)), C=GNNNANNC (default: None)
@@ -90,7 +85,7 @@ optional arguments:
                         boosting (default: False)
   --folding_tool FOLDING_TOOL, -ft FOLDING_TOOL
                         folding tool to be used: v for RNAfold from viennarna,
-                        l for LinearFold (default: v)
+                        ip for IPknot and hk for Hotknots (default: v)
   --log                 Store the population for each instance of the inverse
                         folding in a folder (default: False)
   --verbose             Print the mean fitness evolution on a standard output
@@ -100,8 +95,4 @@ optional arguments:
 ```
       $ python aRNAque.py --help
 
-# For the pseudoknotted RNA targets
-## thirdpart programs:
-  - IPknot (for the folding of sequences)
-  - HotKnots ()
-After installing the folding tools make sure you have set an environmental variable for each tool.
+For pseudoknotted target, please choose the appropriate folding tool using the option -ft "ip" or -ft "hk".
