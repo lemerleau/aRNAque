@@ -7,7 +7,7 @@ from numpy import array
 from RNA import fold, read_parameter_file
 from uuid import uuid4
 
-ROOT_LOG_FOLDER = os.getcwd()+"../../data/Log"
+ROOT_LOG_FOLDER = os.getcwd()+"/../data/Log"
 
 def ppRNAfold(listOfSeqs, nrj_param) :
     if (nrj_param) :
@@ -25,7 +25,7 @@ def fold_with_ipknot(seq) :
     p = os.popen(ipknot_cmd)
     rst = p.read().split()
     p.close()
-    os.remove("tmp_new/"+out_file+".fa")
+    os.remove(ROOT_LOG_FOLDER+"/tmp/"+out_file+".fa")
     if len(rst) > 0 :
         return rst[-1]
     else :
