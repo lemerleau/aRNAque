@@ -8,9 +8,10 @@ import RNA
 import ast
 import matplotlib.pyplot as plt
 import scipy.stats as st
-from pandas import read_csv
+from pandas import read_csv, DataFrame
 import os
 import json
+import seaborn as sb
 
 
 def entropy_seq(sequences) :
@@ -26,12 +27,75 @@ def entropy_seq(sequences) :
                     p += 1.
             p_n.append(p/len(sequences))
         p_k += [p_n]
-    print(st.entropy(p_k, axis=0))
-    return sum(st.entropy(p_k, axis=0))
+    if np.sum(p_k) == 0 :
+        return 0.
+    return sum(st.entropy(p_k, axis=0))/len(sequences[0])
 
 
 def main() :
 
+    gc_data = read_csv("../../data/PseudoBase++/GC_content_data_ipknot.csv")
+    diversity_data = {
+        "aRNAque": {},
+        "antaRNA" : {}
+    }
+    diversity = []
+    for tool in [ "antaRNA","aRNAque"] :
+        for gc in [0.25,0.5,0.75,1] :
+            df = gc_data[gc_data["Tool"]==tool]
+            df = df[df["GC content"]==gc]
+            diversity_data[tool][gc] = []
+            for seqs in df["sequence"].values.reshape(266,20) :
+                h = entropy_seq(seqs)
+
+                diversity_data[tool][gc].append(h)
+                if tool == "aRNAque" :
+                    diversity.append([tool+" (Lévy search)", gc, h])
+                else :
+                    diversity.append([tool, gc, h])
+            print(tool, gc)
+    colors = {
+        'aRNAque': "peru",
+        'antaRNA': "saddleblue"
+    }
+
+    #### Compute the diversity of the onepoint mutation
+
+    ipknot_df = read_csv("../../data/PseudoBase++/result_ipknot.csv")
+    op_data = ipknot_df[ipknot_df["Mutation mode"]=="OP"]["sequence"].values.reshape(253,20)
+    gc_emp = 0
+    for seqs in op_data :
+        diversity.append(["aRNAque (Local search)", 0.5, entropy_seq(seqs)])
+        for seq in seqs :
+            s = list(seq)
+            gc_emp += (s.count("G") + s.count("C")+0.0)/len(s)
+    print("OP GC content",gc_emp/(253*20))
+
+
+
+    df_diversity = DataFrame(diversity, columns=["Tool", "GC content", "Entropy"])
+
+    for tool in ["antaRNA", "aRNAque (Lévy search)", "aRNAque (Local search)"] :
+        dt = df_diversity[df_diversity["Tool"]==tool]
+        for gc in [0.25, 0.5, 0.75, 1] :
+            print(tool, gc, np.median(dt[dt["GC content"]==gc]["Entropy"].values))
+
+    """
+    print(np.median(df_diversity[df_diversity["Tool"]=="antaRNA"]["Entropy"].values))
+    print(np.median(df_diversity[df_diversity["Tool"]=="aRNAque (Lévy search)"]["Entropy"].values))
+    print(np.median(df_diversity[df_diversity["Tool"]=="aRNAque (Local search)"]["Entropy"].values))
+    """
+    figure = plt.figure(constrained_layout=True, figsize=(9,4))
+    gs = figure.add_gridspec(nrows=1, ncols=1, left=0.05, right=0.48, wspace=0.05)
+    ax = figure.add_subplot(gs[0,0])
+    #plt.title("(A)", fontsize=15)
+    ax.spines["right"].set_visible(False)
+    ax.spines["top"].set_visible(False)
+    sb_bx = sb.boxplot(y='Entropy', x='GC content', hue='Tool', data=df_diversity)
+    plt.savefig("../../images/PseudoBase++/fig7_diversity.pdf")
+    plt.show()
+
+    """
     with open("../../data/diversity/distinct_stuctures.json") as file_ :
         distinct_strucs = json.load(file_)
         file_.close()
@@ -143,6 +207,7 @@ def main() :
     plt.ylabel(r"Distinct structures", fontsize=12)
     plt.savefig("../../images/diversity.pdf")
     plt.show()
+    """
 
 
 

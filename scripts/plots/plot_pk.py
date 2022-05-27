@@ -4,7 +4,38 @@ import matplotlib.pyplot as plt
 import seaborn as sb
 
 
+def get_bp_position(structure) :
+    pk_pairs,cbrk, bp, nbp= [] , [], [], []
 
+    pairs = {
+        'bp' : [],
+        'pk' : [],
+        'nbp' : []
+    }
+    for i,elt in enumerate(structure) :
+        if elt =='[' :
+            pk_pairs.append(i)
+        elif elt ==']' :
+            pairs['pk'] += [(pk_pairs.pop(),i)]
+        elif elt == '(' :
+            bp += [i]
+        elif elt == ')' :
+            pairs['bp'] += [(bp.pop(),i)]
+        elif elt == '{' :
+            cbrk += [i]
+        elif elt == '}' :
+            pairs['pk'] += [(cbrk.pop(),i)]
+        else :
+            pairs['nbp'] += [i]
+    return pairs
+
+def bp_distance(target, strc2) :
+    pos1 = get_bp_position(target)
+    pair1 = set(pos1['bp'] + pos1['pk'])
+    pos2 = get_bp_position(strc2)
+    pair2 = set(pos2['bp'] + pos2['pk'])
+
+    return len(pair1) + len(pair2) - 2*len(pair1.intersection(pair2))
 
 
 
@@ -24,10 +55,10 @@ def main() :
                 for elt in val :
                     nl = list(elt)
                     nl [-1] = nl[-1] + 1
-                    new_data += [nl+[key]]
+                    new_data += [nl+[key]+[bp_distance(nl[2], nl[3])]]
     print(len(ipknot_df), len(new_data))
     new_dt = pd.DataFrame(new_data, columns=["id","sequence","structure","target", "Length","Hamming distance",'bp_density'
-    ,'Mutation mode','Number of generations', "Length group"])
+    ,'Mutation mode','Number of generations', "Length group", "BP distance"])
     op_df = new_dt[new_dt["Mutation mode"]=='OP']
     op_med = {}
 
@@ -56,9 +87,9 @@ def main() :
     plt.title("(A)")
     plt.xticks(rotation=90, fontsize=12)
     plt.title("(A)", fontsize=15)
-    ax.set_ylabel('Hamming distance',fontsize=12)
+    ax.set_ylabel('BP distance',fontsize=12)
     #ax.set_xlabel('Length Group', fontsize=12)
-    sb_bx = sb.boxplot(ax=ax, y='Hamming distance', x='Length group', hue='Mutation mode', data=new_dt, palette={
+    sb_bx = sb.boxplot(ax=ax, y='BP distance', x='Length group', hue='Mutation mode', data=new_dt, palette={
     "Levy": "deepskyblue",
     "OP": "darkorange"
     })
@@ -73,7 +104,7 @@ def main() :
     ax.spines["top"].set_visible(False)
     #plt.xticks(rotation=90)
     plt.title("(B)", fontsize=15)
-    ax.set_ylabel('Hamming distance', fontsize=12)
+    ax.set_ylabel('BP distance', fontsize=12)
     ax.set_xlabel('Length group', fontsize=12)
     ax.set(yscale="log")
     sb_ax = sb.boxplot(ax=ax, y='Number of generations', x='Length group', hue='Mutation mode', data=new_dt,palette={
@@ -82,7 +113,7 @@ def main() :
     })
 
     plt.legend([],[], frameon=False)
-    plt.savefig('../../images/PseudoBase++/pkbase_ipknotV2.pdf')
+    plt.savefig('../../images/PseudoBase++/fig4.pdf')
     plt.show()
 
     diff = [op_med[k]-levy_med[k] for k in op_med.keys()]
@@ -113,7 +144,7 @@ def main() :
     plt.hist(levy_success, bins=10, label="Levy", color="deepskyblue")
     plt.hist(op_success, bins=10, alpha=0.4,label="OP", color="darkorange")
     plt.legend()
-    plt.savefig("../../images/PseudoBase++/pk_histo.pdf")
+    plt.savefig("../../images/PseudoBase++/pk_histo2.pdf")
     plt.show()
 
     print()

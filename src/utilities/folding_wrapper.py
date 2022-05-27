@@ -10,7 +10,7 @@ from uuid import uuid4
 ROOT_LOG_FOLDER = os.getcwd()+"../../data/Log"
 
 def ppRNAfold(listOfSeqs, nrj_param) :
-    if (nrj_param) : 
+    if (nrj_param) :
        read_parameter_file("../params/energy/rna_turner1999.par")
 
     rst = array ([list(fold(seq)) for seq in listOfSeqs])
@@ -53,7 +53,7 @@ def pKiss(seq) :
 
 def hotknots(seq) :
 
-    cmd= os.environ.get("HOTKNOTS_ROOT")+"./bin/HotKnots -s  {} 2>/dev/null".format(seq)
+    cmd= os.environ.get("HOTKNOTS_ROOT")+"./bin/HotKnots -s  {} -m {} 2>/dev/null".format(seq, "CC")
     p = os.popen(cmd)
     rst = p.read().split('\n')
     rst = rst[2].split()

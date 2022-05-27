@@ -74,21 +74,22 @@ def main() :
     plt.show()
 
     print(data)
-
+    data.to_csv("../../data/PseudoBase++/GC_content_data_ipknot.csv")
 
     figure = plt.figure(constrained_layout=True, figsize=(12,4))
     gs = figure.add_gridspec(nrows=1, ncols=3, left=0.05, right=0.48, wspace=0.05)
     ax = figure.add_subplot(gs[0,0])
-    ax.set_title("(A)")
+    ax.set_title("(A)", fontsize=12)
     ax.spines["right"].set_visible(False)
     ax.spines["top"].set_visible(False)
     sb_bx = sb.boxplot(y='bp_distance', x='GC content', hue='Tool', data=data)
     sb_bx.set(ylabel='BP distance ', xlabel='GC content')
     ax = figure.add_subplot(gs[0,1])
-    ax.set_title("(B)")
+    ax.set_title("(B)", fontsize=12)
     ax.spines["right"].set_visible(False)
     ax.spines["top"].set_visible(False)
     sb_bx = sb.boxplot(y='GC distance', x='GC content', hue='Tool', data=data)
+    sb_bx.set(ylabel='GC-content distance', xlabel='GC content')
     plt.legend([],[], frameon=False)
     barplot_data = {
                     "aRNAque": {},
@@ -107,7 +108,7 @@ def main() :
 
     print(barplot_data)
     ax = figure.add_subplot(gs[0,2])
-    ax.set_title("(C)")
+    ax.set_title("(C)", fontsize=12)
     ax.spines["right"].set_visible(False)
     ax.spines["top"].set_visible(False)
     ax.set_xlabel("GC content")
@@ -132,7 +133,8 @@ def main() :
 
         si +=0.1
 
-    plt.savefig("../../images/PseudoBase++/GC_content.pdf")
+    plt.savefig("../../images/PseudoBase++/fig6_new.pdf")
+    plt.savefig("../../images/PseudoBase++/fig6_new.png")
     plt.show()
 
 

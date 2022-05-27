@@ -39,17 +39,17 @@ def main() :
         js_file.close()
 
     eterna_ds = {
-        'low' : [],
-        'high': [],
+        'Low' : [],
+        'High': [],
     }
     eterna_ds_Y = [0., 0.]
     for key in eterna_density.keys() :
         if float(key) <= 0.5 :
             eterna_ds_Y[0] += len(eterna_density[key])
-            eterna_ds['low'] += eterna_density[key]
+            eterna_ds['Low'] += eterna_density[key]
         else :
             eterna_ds_Y[1] += len(eterna_density[key])
-            eterna_ds['high'] += eterna_density[key]
+            eterna_ds['High'] += eterna_density[key]
 
     pk_ds = {}
 
@@ -78,8 +78,8 @@ def main() :
 
     print("PK low dens. mean length = ", np.median(low_length), len(low_length))
     print("PK high dens. mean length = ", np.median(high_length), len(high_length))
-    plt.boxplot([low_length, high_length], labels=["Low", "High"])
-    plt.show()
+    #plt.boxplot([low_length, high_length], labels=["Low", "High"])
+    #plt.show()
     with open("../../data/Eterna100/V1/eterna_1999_zipfGC2.log") as file_ :
         lines = file_.readlines()
 
@@ -93,7 +93,7 @@ def main() :
     }
 
     for i,t in enumerate(targets) :
-        if t in eterna_ds['low'] :
+        if t in eterna_ds['Low'] :
             eterna199_levy_ds["Low"] += eterna_1999GC2[i].tolist()
         else:
 
@@ -104,6 +104,7 @@ def main() :
         for val in eterna199_levy_ds[key] :
             plot_df += [[key, val+1,"Levy"]]
 
+
     eterna_1999GC2_OP = pd.read_csv('../../data/Eterna100/V1/eterna1999op_GC2.csv').values[:,-1].reshape(100,5)
 
     eterna199_OP_ds = {
@@ -112,24 +113,36 @@ def main() :
     }
 
     for i,t in enumerate(targets) :
-        if t in eterna_ds['low'] :
+        if t in eterna_ds['Low'] :
             eterna199_OP_ds["Low"] += eterna_1999GC2_OP[i].tolist()
         else:
 
             eterna199_OP_ds["High"] += eterna_1999GC2_OP[i].tolist()
 
-    print("Mean length of low dens. bp: ", np.median([len(tg) for tg in eterna_ds["low"]]))
-    print("Mean length of High dens. bp: ", np.median([len(tg) for tg in eterna_ds["high"]]))
-    plt.boxplot([[len(tg) for tg in eterna_ds["low"]], [len(tg) for tg in eterna_ds["high"]]], labels=["low", "high"])
-    plt.show()
+    #print("Mean length of low dens. bp: ", np.median([len(tg) for tg in eterna_ds["low"]]))
+    #print("Mean length of High dens. bp: ", np.median([len(tg) for tg in eterna_ds["high"]]))
+    #plt.boxplot([[len(tg) for tg in eterna_ds["low"]], [len(tg) for tg in eterna_ds["high"]]], labels=["low", "high"])
+    #plt.show()
+
+    data_plot3 = []
+    for key in eterna_ds.keys():
+        for tg in eterna_ds[key] :
+            data_plot3 += [[key, len(tg), "Eterna100"]]
+    for l in low_length :
+        data_plot3 += [["Low", l, "PseudoBase++"]]
+    for l in high_length :
+        data_plot3 += [["High", l, "PseudoBase++"]]
+
+    data_plot3_df = pd.DataFrame(data_plot3, columns=["Base pair density", "Length", "Dataset"])
+
     for key in eterna199_OP_ds.keys() :
         for val in eterna199_OP_ds[key] :
             plot_df += [[key, val+1,"OP"]]
 
 
-
-    figure = plt.figure(constrained_layout=True, figsize=(10,4))
-    gs = figure.add_gridspec(nrows=1, ncols=2, left=0.05, right=0.48, wspace=0.05)
+    df_plot = pd.DataFrame(plot_df, columns=["Base pair density","Generation ($t$)","Mutation type" ])
+    figure = plt.figure(constrained_layout=True, figsize=(11,4))
+    gs = figure.add_gridspec(nrows=1, ncols=3, left=0.05, right=0.48, wspace=0.05)
     ax = figure.add_subplot(gs[0,0])
     ax.spines["right"].set_visible(False)
     ax.spines["top"].set_visible(False)
@@ -163,6 +176,19 @@ def main() :
     for i in range(2):
         plt.annotate(str(np.round(eterna_ds_Y[i]*100/sum(eterna_ds_Y), 2))+"%", xy=(i,eterna_ds_Y[i]-35), ha='center', va='bottom')
 
+    ax = figure.add_subplot(gs[0,2])
+    ax.spines["right"].set_visible(False)
+    ax.spines["top"].set_visible(False)
+
+    plt.xticks(fontsize=12)
+    plt.yticks(fontsize=12)
+    ax.set_xlabel("Base pair density", fontsize=12)
+    ax.set_ylabel(" Target length", fontsize=12)
+    plt.title("(C)", fontsize=15)
+    sb_bx = sb.boxplot(data=data_plot3_df, x="Base pair density", y="Length", hue="Dataset",ax=ax,palette={
+        "Eterna100": "tan",
+        "PseudoBase++": "wheat"
+    })
     plt.legend(loc="upper left")
     plt.savefig('../../images/levy_analysis.pdf')
     plt.show()
