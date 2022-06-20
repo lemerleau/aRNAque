@@ -9,7 +9,7 @@
 #!/usr/bin/env python3
 #Importting necessary python libraries
 from pandas import DataFrame
-from numpy import where, array, random
+from numpy import where, array, random, round, concatenate
 from numpy.random import  choice as npchoice
 from os import rmdir, path, mkdir,getcwd
 from time import time
@@ -17,7 +17,7 @@ from argparse import ArgumentParser, ArgumentDefaultsHelpFormatter, SUPPRESS
 from utilities.Landscape import Landscape
 from utilities.utility import (get_bp_position, getHairpinCoord, ppeval, ppfold,
                     gen_point_mutation_dist, boost_hairpins, hamming, _defect,
-                    save_population)
+                    save_population, checkTarget)
 from multiprocess import Pool, cpu_count
 from json import load
 from datetime import datetime
@@ -145,7 +145,7 @@ def simple_EA(param) :
     population_size =  param['n']
 
     t = 0
-    max_found = len(prev_population[prev_population["Fitness"]==str(1.0)])
+    max_found = len(set(prev_population[prev_population["Fitness"]==str(1.0)]["RNA_sequence"].values))
     b = prev_population.sort_values(by=["Fitness"],ascending=False).values[0]
 
     if param['log'] :
@@ -184,7 +184,7 @@ def simple_EA(param) :
         current_fitest = max(array(prev_population["Fitness"], dtype=float))
 
         t +=1
-        max_found = len(prev_population[prev_population["Fitness"]==str(1.0)])
+        max_found = len(set(prev_population[prev_population["Fitness"]==str(1.0)]["RNA_sequence"].values))
 
     return prev_population, t
 
@@ -244,17 +244,30 @@ def run(param) :
         founds = best_pop[best_pop['Fitness']==str(max(array(best_pop['Fitness'], dtype=float)))]
 
         founds = founds.sort_values(by="ED", ascending=True)
-        if param['verbose'] :
-            print (founds.values[0], Mgen)
+        rst = []
+        for i, val in enumerate(founds["RNA_sequence"].unique()) : 
+            if i>param["msf"]: 
+                break
+            rst += [founds[founds["RNA_sequence"]==val].values[0].tolist()]
+            if param['verbose'] :
+                print (founds[founds["RNA_sequence"]==val].values[0], Mgen)
+
     else :
+        #sorted_pop = population.sort_values(by="Fitness", ascending=False)
+        #founds = sorted_pop[:param["msf"]]
         founds = best_pop[best_pop['Fitness']==str(max(array(best_pop['Fitness'], dtype=float)))]
         founds = founds.sort_values(by='Mfes', ascending=False)
-        if param['verbose'] :
-            print (founds.values[0], Mgen)
+        rst = []
+        for i, val in enumerate(founds["RNA_sequence"].unique()) : 
+            if i>param["msf"]: 
+                break
+            rst += [founds[founds["RNA_sequence"]==val].values[0].tolist()]
+            if param['verbose'] :
+                print (founds[founds["RNA_sequence"]==val].values[0], Mgen)
     toc = time()
     if param['verbose']:
         print ("Time = ", toc-tic, "For method : ", param['sm'])
-    return (list(founds.values[0]), Mgen)
+    return (rst, Mgen)
 
 
 def parseArguments() :
@@ -264,7 +277,7 @@ def parseArguments() :
     parser.add_argument('--job','-j', type=int,default=1, help="Number of EA runs")
     parser.add_argument('-g', type=int, default=150, help="Number of generation")
     parser.add_argument('-n', type=int,default=100, help="Population Size")
-    parser.add_argument('-msf', type=int,default=10, help="maximum sequence found")
+    parser.add_argument('-msf', type=int,default=1, help="maximum sequence found")
     parser.add_argument('-sm', type=str,default ='NED',help="Selection method: the only possible values are {F,NED}")
     parser.add_argument('-bp', type=str, default='GC2',help="Distribution of nucleotide and base pairs. Possible values are {GC,GC1,GC2,GC3,GC4,GC25, GC50, GC75,ALL}, please check the online doc for more details")
     parser.add_argument('--Cs', type=str, default=None,help="sequence constraints: the lenght of the sequence should be the same as the target. Example: target=((....)), C=GNNNANNC")
@@ -286,11 +299,34 @@ def main() :
 
     if not path.exists(ROOT_LOG_FOLDER+"/tmp/") :
         mkdir(ROOT_LOG_FOLDER+'/tmp')
+    
+    if args.folding_tool not in {"v", "ip", "hk"} : 
+        print("Please make sure the folding tool entered is correct. i.e -ft should be in {v, ip, hk}") 
+        exit(1)
+    if args.folding_tool in {"ip", "hk"}: 
+        if args.EDg > 0 : 
+            print("WARNING: No ens. def. refinement for pseudoknotter target")
+            args.EDg = 0
+        if args.sm == "NED" : 
+            print("WARNING: Only hamming distance selection function allowed for pseudoknotted target")
+            args.sm = "F"
 
+    if args.bp not in {"GC","GC1","GC2","GC3","GC4","GC25", "GC50", "GC75","ALL"} : 
+        print("ERROR: Please, enter a correct base-pair distribution parameter. use --help for help.")
+        exit(1)
+    if args.sm not in {"NED", "F"} : 
+        print("ERROR: Please, enter a correct selection function. e.g. F: for hamming distance and NED: for energy distance")
+        exit(1)
 
     if args.target is not None :
         target = args.target
-
+        if (checkTarget(target)==False): 
+           print("Incorrect target secondary structure.")
+           exit(1)
+        if ('[' in list(target)) or (']' in list(target)) or ('{' in list(target)) or ('' in list(target)): 
+            if args.folding_tool == 'v': 
+                print("Please, choose the appropriate foolding tool.")
+                exit(1)
     main_sequence = args.Cs
     constraints = {}
     if main_sequence !=None :
@@ -422,8 +458,18 @@ def main() :
     pool = Pool(cpu_count())
     result = pool.map(run,params)
     pool.close()
+    #print ("|Sequence | Structure | Fitness | Energy | NED |")
+    #result = concatenate(result).tolist()
+    #print (result)
+    for i, val in enumerate(result):
+        print("*"*50)
+        print ("Job id:", i, " Number of generations: ", val[-1])
+        print("*"*50)
 
-    print (result)
+        rst_job = val[0]
+        rst_job.sort(key=lambda elt: float(elt[2]))
+        for rst in rst_job :
+            print (rst[0], "|" ,rst[1] , "|", round(float(rst[2]),2), "|", rst[3])
 
     try :
         rmtree(ROOT_LOG_FOLDER+'/tmp', ignore_errors=True)

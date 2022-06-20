@@ -158,3 +158,23 @@ def ppfold(listOfSeqs,tool, nrj_param) :
         return ppipknot(listOfSeqs)
     if tool =="hk" :
         return ppHotknots(listOfSeqs)
+
+
+
+def checkTarget(target) : 
+    # check the number pairs 
+    target_list = list(target)
+
+    post = get_bp_position(target)
+
+    if (target_list.count('(') != target_list.count(')')) or (target_list.count('{') != target_list.count('}')) or (target_list.count('[') != target_list.count(']')) : 
+        print("ERROR: Number of opened and closed brackets not equal.")
+        return False 
+    for ch in set(target_list) : 
+        if ch not in ['(', ')', '.', '[', ']', '{', '}'] : 
+            print ("ERROR: Character ", ch, " is not allowed in the string secondary structure representation.")
+            return False
+    for p in post["bp"] + post["pk"] : 
+        if p[1] - p[0]-1 < 3 : 
+            print ("EROOR: Incorrect base-pair at position ", p)
+            return False
